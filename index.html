@@ -20,7 +20,6 @@
   html,body{margin:0;background:var(--bg);color:var(--text);
     font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,system-ui,sans-serif;
     -webkit-font-smoothing:antialiased}
-  a{color:inherit}
   .wrap{max-width:820px;margin:0 auto;padding:0 14px 90px}
   header{background:var(--bg);padding:16px 14px 8px;max-width:820px;margin:0 auto}
   .brand{display:flex;align-items:center;gap:10px}
@@ -39,9 +38,8 @@
   .tabbtn{flex:none;border:1px solid var(--line);background:var(--card2);color:var(--mut);
     padding:8px 14px;border-radius:999px;font-size:13px;font-weight:600;cursor:pointer}
   .tabbtn.on{background:var(--gold);color:#20170a;border-color:var(--gold)}
-  .tab{display:none;animation:f .2s ease}
+  .tab{display:none}
   .tab.on{display:block}
-  @keyframes f{from{opacity:0;transform:translateY(4px)}to{opacity:1}}
   .sec{font-size:12px;letter-spacing:1.5px;text-transform:uppercase;color:var(--mut);margin:16px 4px 8px}
   .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:13px 14px;margin-bottom:9px}
   .row{display:flex;align-items:flex-start;gap:10px}
@@ -83,128 +81,77 @@
   </div>
   <div class="count">
     <div><div class="big" id="cd">—</div><div class="sub" id="cdsub">First in-person day: Tue, July 7</div></div>
-    <div class="day"><b>15 youth</b>6 weeks · Jul 7 – Aug 14</div>
+    <div class="day"><b id="hl">15 youth</b><span id="hl2"></span></div>
   </div>
 </header>
 
 <nav>
-  <button class="tabbtn on" onclick="show('do',this)">Do Now</button>
-  <button class="tabbtn" onclick="show('wk',this)">6 Weeks</button>
-  <button class="tabbtn" onclick="show('in',this)">Inbox</button>
-  <button class="tabbtn" onclick="show('st',this)">Status</button>
+  <button class="tabbtn on" data-tab="do">Do Now</button>
+  <button class="tabbtn" data-tab="wk">6 Weeks</button>
+  <button class="tabbtn" data-tab="in">Inbox</button>
+  <button class="tabbtn" data-tab="st">Status</button>
 </nav>
 
 <div class="wrap">
-
-  <!-- DO NOW -->
-  <section id="do" class="tab on">
-    <div class="sec">Urgent · this week</div>
-    <div class="card"><div class="row"><div class="num">1</div><div class="t"><h3>Pay Shantael's SEL invoice</h3><p>$1,500. Invoice is in your inbox, sitting in Immediate Action.</p></div><span class="chip hot">Urgent</span></div></div>
-    <div class="card"><div class="row"><div class="num">2</div><div class="t"><h3>Lock the DTE rep for Week 1</h3><p>Chase Mark Jones. Resume &amp; branding session, no rep confirmed yet. Bridget can send the reminder.</p></div><span class="chip hot">Urgent</span></div></div>
-    <div class="card"><div class="row"><div class="num">3</div><div class="t"><h3>Give feedback on the Week 1 deck</h3><p>"Meet Your AI Assistant" is built in your Signature. Bless the look so I build the other two.</p></div><span class="chip warn">Waiting on you</span></div></div>
-
-    <div class="sec">Decisions to make</div>
-    <div class="card"><div class="row"><div class="num">4</div><div class="t"><h3>New bank partner for Week 2 credit</h3><p>Comerica and Ally are out. Need one partner for the credit session.</p></div><span class="chip warn">Open</span></div></div>
-    <div class="card"><div class="row"><div class="num">5</div><div class="t"><h3>Lock Week 4 dates</h3><p>Tasha CPR (Wed 7/29 or Thu 7/30, 2 hrs), Keosha, and Zipporah all land in Week 4. Pick the days.</p></div><span class="chip warn">Open</span></div></div>
-    <div class="card"><div class="row"><div class="num">6</div><div class="t"><h3>NAACP Political Education + Mental Health</h3><p>Week 5 political-ed presenter and Week 4 mental-health session still need a name.</p></div><span class="chip warn">Open</span></div></div>
-
-    <div class="sec">Hand off / follow up</div>
-    <div class="card"><div class="row"><div class="num">7</div><div class="t"><h3>Confirm your Week 3 texts</h3><p>Moe (Tue 7/21, noon), DeQuan (Thu 7/23, 11a), Darryl (Thu 8/6, 11a). Texts are drafted for you.</p></div><span class="chip warn">Send</span></div></div>
-    <div class="card"><div class="row"><div class="num">8</div><div class="t"><h3>Sync Je'Tina and Chris Cohen</h3><p>Je'Tina on team-building, Chris on the volunteer plan. Your calls to make.</p></div><span class="chip wait">Yours</span></div></div>
-  </section>
-
-  <!-- WEEKS -->
-  <section id="wk" class="tab">
-    <div class="legend"><span><i style="background:#35C08A"></i>Locked</span><span><i style="background:#E0A845"></i>Pending</span><span><i style="background:#E5675C"></i>Needs a name</span></div>
-
-    <div class="card wk"><div class="wkhead"><div><div class="w">WEEK 1</div><h3>Work Readiness &amp; AI Foundations</h3></div><div class="dates">Jul 7–10</div></div>
-      <div class="item"><span class="dot a"></span><div class="d">DOL Workplace Rights<span>Mildred Kress, U.S. Dept. of Labor</span></div></div>
-      <div class="item"><span class="dot r"></span><div class="d">Resume &amp; Branding<span>DTE rep — chasing Mark Jones</span></div></div>
-      <div class="item"><span class="dot g"></span><div class="d">AI Day + Orientation<span>Jermaine</span></div></div>
-    </div>
-
-    <div class="card wk"><div class="wkhead"><div><div class="w">WEEK 2</div><h3>Financial Literacy</h3></div><div class="dates">Jul 13–17</div></div>
-      <div class="item"><span class="dot g"></span><div class="d">Banking 101<span>Huntington — Courtney Elledge, Kassie Kretzschmar</span></div></div>
-      <div class="item"><span class="dot g"></span><div class="d">YNAB + AI as a budget assistant<span>Jermaine</span></div></div>
-      <div class="item"><span class="dot r"></span><div class="d">Credit session<span>Need a new bank partner</span></div></div>
-      <div class="item"><span class="dot a"></span><div class="d">Financial Wellness Family Tree<span>Zipporah — checking her schedule</span></div></div>
-    </div>
-
-    <div class="card wk"><div class="wkhead"><div><div class="w">WEEK 3</div><h3>Entrepreneurship &amp; AI for Creators</h3></div><div class="dates">Jul 20–24</div></div>
-      <div class="item"><span class="dot a"></span><div class="d">Dream Car Reveal<span>Moe Kebe — Tue 7/21, noon (text to send)</span></div></div>
-      <div class="item"><span class="dot a"></span><div class="d">Entrepreneur Panel<span>DeQuan Mixon — Thu 7/23, 11a (+1–2 more)</span></div></div>
-      <div class="item"><span class="dot g"></span><div class="d">Branding &amp; AI for Creators<span>Jermaine</span></div></div>
-    </div>
-
-    <div class="card wk"><div class="wkhead"><div><div class="w">WEEK 4</div><h3>College Prep &amp; Healthy Living</h3></div><div class="dates">Jul 27–31</div></div>
-      <div class="item"><span class="dot a"></span><div class="d">Wayne State Campus Day<span>Stacie Clayton — Tue 7/28 (confirming details)</span></div></div>
-      <div class="item"><span class="dot a"></span><div class="d">Health &amp; Wellness<span>Keosha King + daughter — 7/29 or 7/30</span></div></div>
-      <div class="item"><span class="dot a"></span><div class="d">CPR &amp; First Aid Cert<span>Tasha, RN (AHA) — Wed 7/29 or Thu 7/30, 2 hrs</span></div></div>
-      <div class="item"><span class="dot g"></span><div class="d">SEL<span>Shantael Harbin — Wed 7/29, 5p (invoice to pay)</span></div></div>
-      <div class="item"><span class="dot r"></span><div class="d">Mental Health<span>Needs a name</span></div></div>
-    </div>
-
-    <div class="card wk"><div class="wkhead"><div><div class="w">WEEK 5</div><h3>NAACP Week · Civic Engagement &amp; AI Ethics</h3></div><div class="dates">Aug 3–7</div></div>
-      <div class="item"><span class="dot g"></span><div class="d">Election Day Voter Hotline<span>Jermaine + NAACP staff — Tue 8/4</span></div></div>
-      <div class="item"><span class="dot a"></span><div class="d">Better Together, Civic Engagement<span>Darryl Woods — Thu 8/6, 11a (text to send)</span></div></div>
-      <div class="item"><span class="dot r"></span><div class="d">NAACP Political Education<span>Needs a presenter</span></div></div>
-      <div class="item"><span class="dot g"></span><div class="d">AI Ethics Day<span>Jermaine</span></div></div>
-    </div>
-
-    <div class="card wk"><div class="wkhead"><div><div class="w">WEEK 6</div><h3>Capstone &amp; Career</h3></div><div class="dates">Aug 10–14</div></div>
-      <div class="item"><span class="dot g"></span><div class="d">Capstone polish &amp; final practice<span>Jermaine</span></div></div>
-      <div class="item"><span class="dot g"></span><div class="d">Capstone Presentations to the ED<span>Kamilia Landrum — Thu 8/13</span></div></div>
-    </div>
-  </section>
-
-  <!-- INBOX -->
-  <section id="in" class="tab">
-    <div class="sec">Waiting on them</div>
-    <div class="card"><div class="row"><div class="t"><h3>Zipporah Bolar</h3><p>Replied to your invite — she's checking her schedule for the Financial Wellness session. Ball is in her court.</p></div><span class="chip wait">Pending reply</span></div></div>
-    <div class="card"><div class="row"><div class="t"><h3>Mark Jones (DTE)</h3><p>No response yet on the Week 1 DTE rep. This is the one blocker for launch week.</p></div><span class="chip hot">Chase</span></div></div>
-
-    <div class="sec">Needs you to act</div>
-    <div class="card"><div class="row"><div class="t"><h3>Shantael Harbin</h3><p>SEL confirmed ("yes, I'm in") and she sent her invoice. Pay the $1,500.</p></div><span class="chip warn">Pay invoice</span></div></div>
-
-    <div class="sec">Closed this week</div>
-    <div class="card"><div class="row"><div class="t"><h3>Gwen (GDYT)</h3><p>Kevin approved, Nathan &amp; Amani removed. Roster locked at 15. You replied on Nathan.</p></div><span class="chip done">Done</span></div></div>
-    <div class="card"><div class="row"><div class="t"><h3>Micah (Tristan's mom)</h3><p>Tristan accepted and confirmed on the roster. She replied thank you.</p></div><span class="chip done">Done</span></div></div>
-    <div class="card"><div class="row"><div class="t"><h3>Partner invites sent</h3><p>Zipporah, Stacie (Wayne State), Keosha (Week 4 health) — all out.</p></div><span class="chip done">Sent</span></div></div>
-  </section>
-
-  <!-- STATUS -->
-  <section id="st" class="tab">
-    <div class="stat"><div class="b"><b>15</b><span>Youth locked</span></div><div class="b"><b>$2,340</b><span>Budget set</span></div><div class="b"><b>7</b><span>Open items</span></div></div>
-    <div class="sec">Where we are</div>
-    <div class="card"><div class="row"><div class="t"><h3>Roster locked</h3><p>15 youth (9 young women, 6 young men, ages 14–19). Kevin in, Nathan &amp; Amani out, Tristan confirmed.</p></div><span class="chip done">Done</span></div></div>
-    <div class="card"><div class="row"><div class="t"><h3>Orientation delivered</h3><p>28-slide deck, family agenda, take-home guide, registration form. SEL date fixed to Jul 29.</p></div><span class="chip done">Done</span></div></div>
-    <div class="card"><div class="row"><div class="t"><h3>Budget set — $2,340</h3><p>Food $600 · SEL $1,500 · CPR $240. One-pager saved in Program Information.</p></div><span class="chip done">Done</span></div></div>
-    <div class="card"><div class="row"><div class="t"><h3>Family comms sent</h3><p>Day-one recap and details went out to every family.</p></div><span class="chip done">Done</span></div></div>
-    <div class="card"><div class="row"><div class="t"><h3>Inbox organized</h3><p>GDYT and program mail filed into folders. Immediate Action kept clean.</p></div><span class="chip done">Done</span></div></div>
-    <div class="card"><div class="row"><div class="t"><h3>Week 1 curriculum</h3><p>"Meet Your AI Assistant" deck built. Ethics Court + Time Management next, on your go.</p></div><span class="chip warn">In progress</span></div></div>
-    <div class="foot">Updated July 1, 2026 · Bridget keeps this current.<br>Add to Home Screen to keep it one tap away.</div>
-  </section>
-
+  <section id="do" class="tab on"></section>
+  <section id="wk" class="tab"></section>
+  <section id="in" class="tab"></section>
+  <section id="st" class="tab"></section>
 </div>
 
 <script>
-  function show(id,btn){
-    document.querySelectorAll('.tab').forEach(t=>t.classList.remove('on'));
-    document.getElementById(id).classList.add('on');
-    document.querySelectorAll('.tabbtn').forEach(b=>b.classList.remove('on'));
-    btn.classList.add('on');
-    window.scrollTo({top:0,behavior:'smooth'});
+  var esc=function(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');};
+  function card(o){
+    return '<div class="card"><div class="row">'+
+      (o.n?'<div class="num">'+o.n+'</div>':'')+
+      '<div class="t"><h3>'+esc(o.title||o.name)+'</h3>'+
+      ((o.desc||o.note)?'<p>'+esc(o.desc||o.note)+'</p>':'')+'</div>'+
+      (o.chip?'<span class="chip '+o.chip+'">'+esc(o.chipText)+'</span>':'')+
+      '</div></div>';
   }
-  (function(){
-    var first=new Date(2026,6,7); first.setHours(0,0,0,0);
-    var now=new Date(); now.setHours(0,0,0,0);
-    var d=Math.round((first-now)/86400000);
-    var el=document.getElementById('cd'), sub=document.getElementById('cdsub');
-    if(d>1){el.textContent=d+' days out';sub.textContent='First in-person day: Tue, July 7';}
-    else if(d===1){el.textContent='Tomorrow';sub.textContent='First in-person day: Tue, July 7';}
-    else if(d===0){el.textContent='Launch day';sub.textContent='First in-person day is today';}
+  function week(w){
+    var items=w.items.map(function(it){
+      return '<div class="item"><span class="dot '+it.dot+'"></span><div class="d">'+esc(it.name)+
+        '<span>'+esc(it.who)+'</span></div></div>';
+    }).join('');
+    return '<div class="card wk"><div class="wkhead"><div><div class="w">'+esc(w.num)+
+      '</div><h3>'+esc(w.title)+'</h3></div><div class="dates">'+esc(w.dates)+'</div></div>'+items+'</div>';
+  }
+  function render(d){
+    var parts=(d.headline||'').split(' · ');
+    document.getElementById('hl').textContent=parts[0]||'15 youth';
+    document.getElementById('hl2').textContent=parts.slice(1).join(' · ');
+    document.getElementById('do').innerHTML='<div class="sec">Your list</div>'+d.doNow.map(card).join('');
+    document.getElementById('wk').innerHTML='<div class="legend"><span><i style="background:#35C08A"></i>Locked</span>'+
+      '<span><i style="background:#E0A845"></i>Pending</span><span><i style="background:#E5675C"></i>Needs a name</span></div>'+
+      d.weeks.map(week).join('');
+    document.getElementById('in').innerHTML='<div class="sec">Waiting on them</div>'+d.inbox.waiting.map(card).join('')+
+      '<div class="sec">Needs you to act</div>'+d.inbox.needs.map(card).join('')+
+      '<div class="sec">Closed this week</div>'+d.inbox.closed.map(card).join('');
+    document.getElementById('st').innerHTML='<div class="stat">'+d.status.stats.map(function(s){
+        return '<div class="b"><b>'+esc(s.v)+'</b><span>'+esc(s.l)+'</span></div>';}).join('')+'</div>'+
+      '<div class="sec">Where we are</div>'+d.status.items.map(card).join('')+
+      '<div class="foot">Updated '+esc(d.updated||'')+' · Bridget keeps this current.<br>Add to Home Screen to keep it one tap away.</div>';
+    var first=d.firstDay?new Date(d.firstDay+'T00:00:00'):new Date(2026,6,7);
+    var now=new Date();now.setHours(0,0,0,0);
+    var days=Math.round((first-now)/86400000);
+    var el=document.getElementById('cd'),sub=document.getElementById('cdsub');
+    if(days>1){el.textContent=days+' days out';}
+    else if(days===1){el.textContent='Tomorrow';}
+    else if(days===0){el.textContent='Launch day';sub.textContent='First in-person day is today';}
     else{el.textContent='In session';sub.textContent='Program is running';}
-  })();
+  }
+  document.querySelectorAll('.tabbtn').forEach(function(b){
+    b.addEventListener('click',function(){
+      document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('on');});
+      document.getElementById(b.getAttribute('data-tab')).classList.add('on');
+      document.querySelectorAll('.tabbtn').forEach(function(x){x.classList.remove('on');});
+      b.classList.add('on');window.scrollTo({top:0,behavior:'smooth'});
+    });
+  });
+  fetch('data.json?v='+Date.now()).then(function(r){return r.json();}).then(render).catch(function(){
+    document.getElementById('do').innerHTML='<div class="card"><div class="row"><div class="t"><h3>Could not load data</h3><p>Check your connection and refresh.</p></div></div></div>';
+  });
 </script>
 </body>
 </html>

@@ -1,0 +1,79 @@
+{
+  "updated": "July 1, 2026",
+  "firstDay": "2026-07-07",
+  "headline": "15 youth · 6 weeks · Jul 7 – Aug 14",
+  "doNow": [
+    { "n": 1, "title": "Pay Shantael's SEL invoice", "desc": "$1,500. Invoice is in your inbox, held in Immediate Action.", "chip": "hot", "chipText": "Urgent" },
+    { "n": 2, "title": "Send the DTE reminder to Mark Jones", "desc": "Already written and sitting in your Drafts. Just hit Send. It's the one red blocker for Week 1.", "chip": "hot", "chipText": "Urgent" },
+    { "n": 3, "title": "Give feedback on the Week 1 deck", "desc": "\"Meet Your AI Assistant\" is built in your Signature. Bless the look so I build the other two.", "chip": "warn", "chipText": "Waiting on you" },
+    { "n": 4, "title": "New bank partner for Week 2 credit", "desc": "Comerica and Ally are out. Need one partner for the credit session.", "chip": "warn", "chipText": "Open" },
+    { "n": 5, "title": "Lock Week 4 dates", "desc": "Tasha CPR (Wed 7/29 or Thu 7/30, 2 hrs), Keosha, and Zipporah all land in Week 4. Pick the days.", "chip": "warn", "chipText": "Open" },
+    { "n": 6, "title": "NAACP Political Education + Mental Health", "desc": "Week 5 political-ed presenter and Week 4 mental-health session still need a name.", "chip": "warn", "chipText": "Open" },
+    { "n": 7, "title": "Confirm your Week 3 texts", "desc": "Moe (Tue 7/21, noon), DeQuan (Thu 7/23, 11a), Darryl (Thu 8/6, 11a). Texts are drafted for you.", "chip": "warn", "chipText": "Send" },
+    { "n": 8, "title": "Sync Je'Tina and Chris Cohen", "desc": "Je'Tina on team-building, Chris on the volunteer plan. Your calls to make.", "chip": "wait", "chipText": "Yours" }
+  ],
+  "weeks": [
+    { "num": "WEEK 1", "title": "Work Readiness & AI Foundations", "dates": "Jul 7–10", "items": [
+      { "dot": "a", "name": "DOL Workplace Rights", "who": "Mildred Kress, U.S. Dept. of Labor" },
+      { "dot": "r", "name": "Resume & Branding", "who": "DTE rep — reminder drafted, send it" },
+      { "dot": "g", "name": "AI Day + Orientation", "who": "Jermaine" }
+    ]},
+    { "num": "WEEK 2", "title": "Financial Literacy", "dates": "Jul 13–17", "items": [
+      { "dot": "g", "name": "Banking 101", "who": "Huntington — Courtney Elledge, Kassie Kretzschmar" },
+      { "dot": "g", "name": "YNAB + AI as a budget assistant", "who": "Jermaine" },
+      { "dot": "r", "name": "Credit session", "who": "Need a new bank partner" },
+      { "dot": "a", "name": "Financial Wellness Family Tree", "who": "Zipporah — checking her schedule" }
+    ]},
+    { "num": "WEEK 3", "title": "Entrepreneurship & AI for Creators", "dates": "Jul 20–24", "items": [
+      { "dot": "a", "name": "Dream Car Reveal", "who": "Moe Kebe — Tue 7/21, noon (text to send)" },
+      { "dot": "a", "name": "Entrepreneur Panel", "who": "DeQuan Mixon — Thu 7/23, 11a (+1–2 more)" },
+      { "dot": "g", "name": "Branding & AI for Creators", "who": "Jermaine" }
+    ]},
+    { "num": "WEEK 4", "title": "College Prep & Healthy Living", "dates": "Jul 27–31", "items": [
+      { "dot": "a", "name": "Wayne State Campus Day", "who": "Stacie Clayton — Tue 7/28 (confirming details)" },
+      { "dot": "a", "name": "Health & Wellness", "who": "Keosha King + daughter — 7/29 or 7/30" },
+      { "dot": "a", "name": "CPR & First Aid Cert", "who": "Tasha, RN (AHA) — Wed 7/29 or Thu 7/30, 2 hrs" },
+      { "dot": "g", "name": "SEL", "who": "Shantael Harbin — Wed 7/29, 5p (invoice to pay)" },
+      { "dot": "r", "name": "Mental Health", "who": "Needs a name" }
+    ]},
+    { "num": "WEEK 5", "title": "NAACP Week · Civic Engagement & AI Ethics", "dates": "Aug 3–7", "items": [
+      { "dot": "g", "name": "Election Day Voter Hotline", "who": "Jermaine + NAACP staff — Tue 8/4" },
+      { "dot": "a", "name": "Better Together, Civic Engagement", "who": "Darryl Woods — Thu 8/6, 11a (text to send)" },
+      { "dot": "r", "name": "NAACP Political Education", "who": "Needs a presenter" },
+      { "dot": "g", "name": "AI Ethics Day", "who": "Jermaine" }
+    ]},
+    { "num": "WEEK 6", "title": "Capstone & Career", "dates": "Aug 10–14", "items": [
+      { "dot": "g", "name": "Capstone polish & final practice", "who": "Jermaine" },
+      { "dot": "g", "name": "Capstone Presentations to the ED", "who": "Kamilia Landrum — Thu 8/13" }
+    ]}
+  ],
+  "inbox": {
+    "waiting": [
+      { "name": "Zipporah Bolar", "note": "Replied to your invite — she's checking her schedule for the Financial Wellness session.", "chip": "wait", "chipText": "Pending reply" },
+      { "name": "Mark Jones (DTE)", "note": "Reminder is drafted in your Drafts. Send it. This is the one blocker for launch week.", "chip": "hot", "chipText": "Send draft" }
+    ],
+    "needs": [
+      { "name": "Shantael Harbin", "note": "SEL confirmed and she sent her invoice. Pay the $1,500.", "chip": "warn", "chipText": "Pay invoice" }
+    ],
+    "closed": [
+      { "name": "Gwen (GDYT)", "note": "Kevin approved, Nathan & Amani removed. Roster locked at 15. You replied on Nathan.", "chip": "done", "chipText": "Done" },
+      { "name": "Micah (Tristan's mom)", "note": "Tristan accepted and confirmed on the roster. She replied thank you.", "chip": "done", "chipText": "Done" },
+      { "name": "Partner invites sent", "note": "Zipporah, Stacie (Wayne State), Keosha (Week 4 health) — all out.", "chip": "done", "chipText": "Sent" }
+    ]
+  },
+  "status": {
+    "stats": [
+      { "v": "15", "l": "Youth locked" },
+      { "v": "$2,340", "l": "Budget set" },
+      { "v": "7", "l": "Open items" }
+    ],
+    "items": [
+      { "title": "Roster locked", "desc": "15 youth (9 young women, 6 young men, ages 14–19). Kevin in, Nathan & Amani out, Tristan confirmed.", "chip": "done", "chipText": "Done" },
+      { "title": "Orientation delivered", "desc": "28-slide deck, family agenda, take-home guide, registration form. SEL date fixed to Jul 29.", "chip": "done", "chipText": "Done" },
+      { "title": "Budget set — $2,340", "desc": "Food $600 · SEL $1,500 · CPR $240. One-pager saved in Program Information.", "chip": "done", "chipText": "Done" },
+      { "title": "Family comms sent", "desc": "Day-one recap and details went out to every family.", "chip": "done", "chipText": "Done" },
+      { "title": "Inbox organized", "desc": "GDYT and program mail filed into folders. Immediate Action kept clean.", "chip": "done", "chipText": "Done" },
+      { "title": "Week 1 curriculum", "desc": "\"Meet Your AI Assistant\" deck built. Ethics Court + Time Management next, on your go.", "chip": "warn", "chipText": "In progress" }
+    ]
+  }
+}
