@@ -1,5 +1,5 @@
 {
-  "updated": "July 1, 2026",
+  "updated": "July 2, 2026",
   "firstDay": "2026-07-07",
   "headline": "15 youth · 6 weeks · Jul 7 – Aug 14",
   "doNow": [
@@ -50,10 +50,12 @@
   "inbox": {
     "waiting": [
       { "name": "Zipporah Bolar", "note": "Replied to your invite — she's checking her schedule for the Financial Wellness session.", "chip": "wait", "chipText": "Pending reply" },
-      { "name": "Mark Jones (DTE)", "note": "Reminder is drafted in your Drafts. Send it. This is the one blocker for launch week.", "chip": "hot", "chipText": "Send draft" }
+      { "name": "Mark Jones (DTE)", "note": "Reminder is drafted in your Drafts. Send it. This is the one blocker for launch week.", "chip": "hot", "chipText": "Send draft" },
+      { "name": "GDYT payroll pivot", "note": "Connect Detroit says the MOF system isn't ready for Payroll 1. No timesheets in MOF this round. Agencies report hours instead — Nicole Hill sends a customized sheet next week. Our youth start Jul 7, so they didn't work the June 22 or June 29 weeks and there's likely no Payroll 1 action for us. Watch for Nicole's sheet and be ready for Payroll 2.", "chip": "wait", "chipText": "Watch for sheet" }
     ],
     "needs": [
-      { "name": "Shantael Harbin", "note": "SEL confirmed and she sent her invoice. Pay the $1,500.", "chip": "warn", "chipText": "Pay invoice" }
+      { "name": "Shantael Harbin", "note": "SEL confirmed and she sent her invoice. Pay the $1,500.", "chip": "warn", "chipText": "Pay invoice" },
+      { "name": "Kamilia (BRIDGES budget)", "note": "She got the $2,340 budget and asked if you're planning a field trip. Answer her so she can close it out.", "chip": "warn", "chipText": "Reply" }
     ],
     "closed": [
       { "name": "Gwen (GDYT)", "note": "Kevin approved, Nathan & Amani removed. Roster locked at 15. You replied on Nathan.", "chip": "done", "chipText": "Done" },
