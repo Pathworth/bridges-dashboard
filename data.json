@@ -4,7 +4,7 @@
   "headline": "15 youth · 6 weeks · Jul 7 – Aug 14",
   "doNow": [
     { "n": 1, "title": "Pay Shantael's SEL invoice", "desc": "$1,500. Invoice is in your inbox, held in Immediate Action.", "chip": "hot", "chipText": "Urgent" },
-    { "n": 2, "title": "Send the DTE reminder to Mark Jones", "desc": "Already written and sitting in your Drafts. Just hit Send. It's the one red blocker for Week 1.", "chip": "hot", "chipText": "Urgent" },
+    { "n": 2, "title": "Confirm DTE week with Monique Johnson", "desc": "Mark connected you with Monique Johnson, DTE Workforce Development. You emailed her and Mark on Jul 2. She is not free Week 1, so you are locking a later week. Waiting on her reply.", "chip": "wait", "chipText": "Waiting on Monique" },
     { "n": 3, "title": "Give feedback on the Week 1 deck", "desc": "\"Meet Your AI Assistant\" is built in your Signature. Bless the look so I build the other two.", "chip": "warn", "chipText": "Waiting on you" },
     { "n": 4, "title": "New bank partner for Week 2 credit", "desc": "Comerica and Ally are out. Need one partner for the credit session.", "chip": "warn", "chipText": "Open" },
     { "n": 5, "title": "Lock Week 4 dates", "desc": "Tasha CPR (Wed 7/29 or Thu 7/30, 2 hrs), Keosha, and Zipporah all land in Week 4. Pick the days.", "chip": "warn", "chipText": "Open" },
@@ -15,7 +15,7 @@
   "weeks": [
     { "num": "WEEK 1", "title": "Work Readiness & AI Foundations", "dates": "Jul 7–10", "items": [
       { "dot": "a", "name": "DOL Workplace Rights", "who": "Mildred Kress, U.S. Dept. of Labor" },
-      { "dot": "r", "name": "Resume & Branding", "who": "DTE rep — reminder drafted, send it" },
+      { "dot": "a", "name": "Resume & Branding", "who": "DTE — Monique Johnson, scheduling a later week (not free Week 1)" },
       { "dot": "g", "name": "AI Day + Orientation", "who": "Jermaine" }
     ]},
     { "num": "WEEK 2", "title": "Financial Literacy", "dates": "Jul 13–17", "items": [
@@ -50,12 +50,11 @@
   "inbox": {
     "waiting": [
       { "name": "Zipporah Bolar", "note": "Replied to your invite — she's checking her schedule for the Financial Wellness session.", "chip": "wait", "chipText": "Pending reply" },
-      { "name": "Mark Jones (DTE)", "note": "Reminder is drafted in your Drafts. Send it. This is the one blocker for launch week.", "chip": "hot", "chipText": "Send draft" },
+      { "name": "Monique Johnson (DTE)", "note": "Mark connected her as the DTE presenter (Workforce Development). You emailed her and Mark on Jul 2. She is not free Week 1, so you are finding a later week.", "chip": "wait", "chipText": "Pending reply" },
       { "name": "GDYT payroll pivot", "note": "Connect Detroit says the MOF system isn't ready for Payroll 1. No timesheets in MOF this round. Agencies report hours instead — Nicole Hill sends a customized sheet next week. Our youth start Jul 7, so they didn't work the June 22 or June 29 weeks and there's likely no Payroll 1 action for us. Watch for Nicole's sheet and be ready for Payroll 2.", "chip": "wait", "chipText": "Watch for sheet" }
     ],
     "needs": [
-      { "name": "Shantael Harbin", "note": "SEL confirmed and she sent her invoice. Pay the $1,500.", "chip": "warn", "chipText": "Pay invoice" },
-      { "name": "Kamilia (BRIDGES budget)", "note": "She got the $2,340 budget and asked if you're planning a field trip. Answer her so she can close it out.", "chip": "warn", "chipText": "Reply" }
+      { "name": "Shantael Harbin", "note": "SEL confirmed and she sent her invoice. Pay the $1,500.", "chip": "warn", "chipText": "Pay invoice" }
     ],
     "closed": [
       { "name": "Gwen (GDYT)", "note": "Kevin approved, Nathan & Amani removed. Roster locked at 15. You replied on Nathan.", "chip": "done", "chipText": "Done" },
