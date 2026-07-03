@@ -1,5 +1,5 @@
 {
-  "updated": "July 2, 2026",
+  "updated": "July 3, 2026",
   "firstDay": "2026-07-07",
   "headline": "15 youth · 6 weeks · Jul 7 – Aug 14",
   "doNow": [
@@ -51,7 +51,8 @@
     "waiting": [
       { "name": "Zipporah Bolar", "note": "Replied to your invite — she's checking her schedule for the Financial Wellness session.", "chip": "wait", "chipText": "Pending reply" },
       { "name": "Monique Johnson (DTE)", "note": "Mark connected her as the DTE presenter (Workforce Development). You emailed her and Mark on Jul 2. She is not free Week 1, so you are finding a later week.", "chip": "wait", "chipText": "Pending reply" },
-      { "name": "GDYT payroll pivot", "note": "Official now. Shuna at Connect Detroit sent the Payroll 1 pivot Jul 2. MOF isn't ready, so no timesheets in MOF this round and no action in MOF by youth or supervisors. Agencies report hours on a customized sheet Nicole Hill sends next week. Connect Detroit confirmed: if youth didn't work June 22 or June 29, no action required. Our youth start Jul 7, so nothing for us on Payroll 1. Kamilia forwarded it, you already replied. Watch for Nicole's sheet and be ready for Payroll 2.", "chip": "wait", "chipText": "Watch for sheet" }
+      { "name": "GDYT payroll pivot", "note": "Official now. Shuna at Connect Detroit sent the Payroll 1 pivot Jul 2. MOF isn't ready, so no timesheets in MOF this round and no action in MOF by youth or supervisors. Agencies report hours on a customized sheet Nicole Hill sends next week. Connect Detroit confirmed: if youth didn't work June 22 or June 29, no action required. Our youth start Jul 7, so nothing for us on Payroll 1. Kamilia forwarded it, you already replied. Watch for Nicole's sheet and be ready for Payroll 2.", "chip": "wait", "chipText": "Watch for sheet" },
+      { "name": "Employment ID photos", "note": "Families are starting to send headshots for the youth employment IDs. First one came in Jul 2. Keep an eye out for the rest so every youth is covered before payroll starts.", "chip": "wait", "chipText": "Collecting" }
     ],
     "needs": [
       { "name": "Shantael Harbin", "note": "SEL confirmed and she sent her invoice. Pay the $1,500.", "chip": "warn", "chipText": "Pay invoice" }
