@@ -4,13 +4,14 @@
   "headline": "15 youth · 6 weeks · Jul 7 – Aug 14",
   "doNow": [
     { "n": 1, "title": "Pay Shantael's SEL invoice", "desc": "$1,500. Invoice is in your inbox, held in Immediate Action.", "chip": "hot", "chipText": "Urgent" },
-    { "n": 2, "title": "Confirm DTE week with Monique Johnson", "desc": "Mark connected you with Monique Johnson, DTE Workforce Development. You emailed her and Mark on Jul 2. She is not free Week 1, so you are locking a later week. Waiting on her reply.", "chip": "wait", "chipText": "Waiting on Monique" },
-    { "n": 3, "title": "Give feedback on the Week 1 deck", "desc": "\"Meet Your AI Assistant\" is built in your Signature. Bless the look so I build the other two.", "chip": "warn", "chipText": "Waiting on you" },
-    { "n": 4, "title": "New bank partner for Week 2 credit", "desc": "Comerica and Ally are out. Need one partner for the credit session.", "chip": "warn", "chipText": "Open" },
-    { "n": 5, "title": "Lock Week 4 dates", "desc": "Tasha CPR (Wed 7/29 or Thu 7/30, 2 hrs), Keosha, and Zipporah all land in Week 4. Pick the days.", "chip": "warn", "chipText": "Open" },
-    { "n": 6, "title": "NAACP Political Education + Mental Health", "desc": "Week 5 political-ed presenter and Week 4 mental-health session still need a name.", "chip": "warn", "chipText": "Open" },
-    { "n": 7, "title": "Confirm your Week 3 texts", "desc": "Moe (Tue 7/21, noon), DeQuan (Thu 7/23, 11a), Darryl (Thu 8/6, 11a). Texts are drafted for you.", "chip": "warn", "chipText": "Send" },
-    { "n": 8, "title": "Sync Je'Tina and Chris Cohen", "desc": "Je'Tina on team-building, Chris on the volunteer plan. Your calls to make.", "chip": "wait", "chipText": "Yours" }
+    { "n": 2, "title": "Send the youth their Monday details", "desc": "Youth are writing in. They haven't heard anything since orientation and want to know what time to show up Monday, how to get the Zoom link on virtual days, and where to find the orientation slides. First day is Jul 7. Get one plain email out to all 15 families.", "chip": "hot", "chipText": "Send now" },
+    { "n": 3, "title": "Confirm DTE week with Monique Johnson", "desc": "Mark connected you with Monique Johnson, DTE Workforce Development. You emailed her and Mark on Jul 2. She is not free Week 1, so you are locking a later week. Waiting on her reply.", "chip": "wait", "chipText": "Waiting on Monique" },
+    { "n": 4, "title": "Give feedback on the Week 1 deck", "desc": "\"Meet Your AI Assistant\" is built in your Signature. Bless the look so I build the other two.", "chip": "warn", "chipText": "Waiting on you" },
+    { "n": 5, "title": "New bank partner for Week 2 credit", "desc": "Comerica and Ally are out. Need one partner for the credit session.", "chip": "warn", "chipText": "Open" },
+    { "n": 6, "title": "Lock Week 4 dates", "desc": "Tasha CPR (Wed 7/29 or Thu 7/30, 2 hrs), Keosha, and Zipporah all land in Week 4. Pick the days.", "chip": "warn", "chipText": "Open" },
+    { "n": 7, "title": "NAACP Political Education + Mental Health", "desc": "Week 5 political-ed presenter and Week 4 mental-health session still need a name.", "chip": "warn", "chipText": "Open" },
+    { "n": 8, "title": "Confirm your Week 3 texts", "desc": "Moe (Tue 7/21, noon), DeQuan (Thu 7/23, 11a), Darryl (Thu 8/6, 11a). Texts are drafted for you.", "chip": "warn", "chipText": "Send" },
+    { "n": 9, "title": "Sync Je'Tina and Chris Cohen", "desc": "Je'Tina on team-building, Chris on the volunteer plan. Your calls to make.", "chip": "wait", "chipText": "Yours" }
   ],
   "weeks": [
     { "num": "WEEK 1", "title": "Work Readiness & AI Foundations", "dates": "Jul 7–10", "items": [
@@ -52,7 +53,8 @@
       { "name": "Zipporah Bolar", "note": "Replied to your invite — she's checking her schedule for the Financial Wellness session.", "chip": "wait", "chipText": "Pending reply" },
       { "name": "Monique Johnson (DTE)", "note": "Mark connected her as the DTE presenter (Workforce Development). You emailed her and Mark on Jul 2. She is not free Week 1, so you are finding a later week.", "chip": "wait", "chipText": "Pending reply" },
       { "name": "GDYT payroll pivot", "note": "Official now. Shuna at Connect Detroit sent the Payroll 1 pivot Jul 2. MOF isn't ready, so no timesheets in MOF this round and no action in MOF by youth or supervisors. Agencies report hours on a customized sheet Nicole Hill sends next week. Connect Detroit confirmed: if youth didn't work June 22 or June 29, no action required. Our youth start Jul 7, so nothing for us on Payroll 1. Kamilia forwarded it, you already replied. Watch for Nicole's sheet and be ready for Payroll 2.", "chip": "wait", "chipText": "Watch for sheet" },
-      { "name": "Employment ID photos", "note": "Families are starting to send headshots for the youth employment IDs. First one came in Jul 2. Keep an eye out for the rest so every youth is covered before payroll starts.", "chip": "wait", "chipText": "Collecting" }
+      { "name": "Employment ID photos", "note": "Families are sending headshots for the youth employment IDs. A few are in now. Keep collecting so every youth is covered before payroll starts.", "chip": "wait", "chipText": "Collecting" },
+      { "name": "Youth asking about Monday", "note": "A couple of youth emailed on Jul 3 wanting the start time, the Zoom link for virtual days, and the orientation slides. They haven't heard from the program since orientation. Handle with the all-family Monday details email in Do Now.", "chip": "warn", "chipText": "Reply needed" }
     ],
     "needs": [
       { "name": "Shantael Harbin", "note": "SEL confirmed and she sent her invoice. Pay the $1,500.", "chip": "warn", "chipText": "Pay invoice" }
@@ -67,13 +69,13 @@
     "stats": [
       { "v": "15", "l": "Youth locked" },
       { "v": "$2,340", "l": "Budget set" },
-      { "v": "7", "l": "Open items" }
+      { "v": "8", "l": "Open items" }
     ],
     "items": [
       { "title": "Roster locked", "desc": "15 youth (9 young women, 6 young men, ages 14–19). Kevin in, Nathan & Amani out, Tristan confirmed.", "chip": "done", "chipText": "Done" },
       { "title": "Orientation delivered", "desc": "28-slide deck, family agenda, take-home guide, registration form. SEL date fixed to Jul 29.", "chip": "done", "chipText": "Done" },
       { "title": "Budget set — $2,340", "desc": "Food $600 · SEL $1,500 · CPR $240. One-pager saved in Program Information.", "chip": "done", "chipText": "Done" },
-      { "title": "Family comms sent", "desc": "Day-one recap and details went out to every family.", "chip": "done", "chipText": "Done" },
+      { "title": "Family comms sent", "desc": "Day-one recap and details went out to every family. Youth are now asking for Monday's start time, Zoom link, and slides, so one more logistics email is owed before Jul 7.", "chip": "warn", "chipText": "One more owed" },
       { "title": "Inbox organized", "desc": "GDYT and program mail filed into folders. Immediate Action kept clean.", "chip": "done", "chipText": "Done" },
       { "title": "Week 1 curriculum", "desc": "\"Meet Your AI Assistant\" deck built. Ethics Court + Time Management next, on your go.", "chip": "warn", "chipText": "In progress" }
     ]
