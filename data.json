@@ -1,10 +1,10 @@
 {
-  "updated": "July 4, 2026",
+  "updated": "July 5, 2026",
   "firstDay": "2026-07-07",
   "headline": "15 youth · 6 weeks · Jul 7 – Aug 14",
   "doNow": [
     { "n": 1, "title": "Pay Shantael's SEL invoice", "desc": "$1,500. Invoice is in your inbox, held in Immediate Action.", "chip": "hot", "chipText": "Urgent" },
-    { "n": 2, "title": "Send the youth their Monday details", "desc": "More youth are writing in every day and none have gotten an answer. They haven't heard anything since orientation and want to know what time to show up Monday, how to get the Zoom link on virtual days, and where to find the orientation slides. First day is Jul 7, three days out. Get one plain email out to all 15 families now.", "chip": "hot", "chipText": "Send now" },
+    { "n": 2, "title": "Send the youth their Monday details", "desc": "More youth are writing in every day and none have gotten an answer. They haven't heard anything since orientation and want to know what time to show up Monday, how to get the Zoom link on virtual days, and where to find the orientation slides. First day is Jul 7, two days out. Get one plain email out to all 15 families now.", "chip": "hot", "chipText": "Send now" },
     { "n": 3, "title": "Confirm DTE week with Monique Johnson", "desc": "Mark connected you with Monique Johnson, DTE Workforce Development. You emailed her and Mark on Jul 2. She is not free Week 1, so you are locking a later week. Waiting on her reply.", "chip": "wait", "chipText": "Waiting on Monique" },
     { "n": 4, "title": "Give feedback on the Week 1 deck", "desc": "\"Meet Your AI Assistant\" is built in your Signature. Bless the look so I build the other two.", "chip": "warn", "chipText": "Waiting on you" },
     { "n": 5, "title": "New bank partner for Week 2 credit", "desc": "Comerica and Ally are out. Need one partner for the credit session.", "chip": "warn", "chipText": "Open" },
