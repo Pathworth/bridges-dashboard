@@ -1,5 +1,5 @@
 {
-  "updated": "July 6, evening. Tuesday canceled, no power.",
+  "updated": "July 6, 2026. GDYT Empower App reminder in. First day is Wednesday.",
   "firstDay": "2026-07-08",
   "headline": "Tuesday OFF (no power). We start Wed, July 8.",
   "week1": [
@@ -43,14 +43,15 @@
     }
   ],
   "doNow": [
-    { "id": "dn-fam", "n": 1, "title": "Get Week 1 logistics to the families tonight", "desc": "Carla (Cymantha's mom) and Kennedy both emailed asking where to be and for the virtual login, and the office phone isn't going through. Send every family the Week 1 schedule and how to arrive Tuesday.", "chip": "hot", "chipText": "Urgent" },
+    { "id": "dn-fam", "n": 1, "title": "Get Week 1 logistics to the families tonight", "desc": "Carla (Cymantha's mom) emailed twice again today asking for the virtual login, and Kennedy asked too. The office phone still isn't going through. Send every family the Week 1 schedule and how to arrive Wednesday.", "chip": "hot", "chipText": "Urgent" },
     { "id": "dn-thu", "n": 2, "title": "Fill Thursday's 11–12 slot", "desc": "That was the DTE hour. Monique is not free Week 1, so it is open. Move Ethics Court up, add a work-readiness activity, or make it extended AI time.", "chip": "hot", "chipText": "Decide" },
     { "id": "dn-decks", "n": 3, "title": "Build Ethics Court + Time Management decks", "desc": "Both are Thursday afternoon and not built yet. Bridget can build them tonight in your Signature.", "chip": "warn", "chipText": "Bridget can build" },
     { "id": "dn-shantael", "n": 4, "title": "Pay Shantael's SEL invoice", "desc": "$1,500, still open.", "chip": "warn", "chipText": "Pay" },
     { "id": "dn-dol", "n": 5, "title": "Confirm Mildred Kress (DOL) for Wed 11 AM", "desc": "She is marked confirmed. A day-before check keeps Wednesday tight.", "chip": "warn", "chipText": "Confirm" },
     { "id": "dn-bank", "n": 6, "title": "Bank partner for Week 2 credit", "desc": "Thursday July 16, 11–12 is still open.", "chip": "warn", "chipText": "Open" },
     { "id": "dn-wk4", "n": 7, "title": "Lock Week 4 dates", "desc": "Tasha CPR, Keosha, Zipporah — pick the days.", "chip": "warn", "chipText": "Open" },
-    { "id": "dn-texts", "n": 8, "title": "Confirm Week 3 texts", "desc": "Moe (7/21, noon), DeQuan (7/23, 11a), Darryl (8/6, 11a).", "chip": "warn", "chipText": "Send" }
+    { "id": "dn-texts", "n": 8, "title": "Confirm Week 3 texts", "desc": "Moe (7/21, noon), DeQuan (7/23, 11a), Darryl (8/6, 11a).", "chip": "warn", "chipText": "Send" },
+    { "id": "dn-app", "n": 9, "title": "Get the 15 youth into the GDYT Empower App", "desc": "Kelsey at Connect Detroit sent the app sign-up reminder with a youth instructions deck. The app's modules also satisfy the GDYT financial literacy requirement, and it's separate from payroll. Connect Detroit will send weekly emails showing who still needs to register, so get everyone in early.", "chip": "warn", "chipText": "Register" }
   ],
   "weeks": [
     { "num": "WEEK 1", "title": "Work Readiness & AI Foundations", "dates": "Jul 7–10", "items": [
@@ -94,10 +95,11 @@
     "waiting": [
       { "name": "Monique Johnson (DTE)", "note": "New DTE presenter, Mark connected her. You emailed her Jul 2. She is not free Week 1, so DTE moves to a later week. No reply yet (DTE had a big storm/outage over the weekend).", "chip": "wait", "chipText": "No reply yet" },
       { "name": "Zipporah Bolar", "note": "Checking her schedule for the Financial Wellness session (Week 2 or 4).", "chip": "wait", "chipText": "Pending reply" },
-      { "name": "GDYT payroll pivot", "note": "MOF isn't ready for Payroll 1. Agencies report hours instead; Nicole Hill sends a customized sheet. Watch for it, be ready for Payroll 2.", "chip": "wait", "chipText": "Watch for sheet" }
+      { "name": "GDYT payroll pivot", "note": "MOF isn't ready for Payroll 1. Agencies report hours instead; Nicole Hill sends a customized sheet. Watch for it, be ready for Payroll 2.", "chip": "wait", "chipText": "Watch for sheet" },
+      { "name": "GDYT Empower App", "note": "Kelsey (Connect Detroit) sent app sign-up instructions Jul 6, with a youth how-to deck attached. Youth register in the Empower App; its modules cover the GDYT financial literacy requirement (separate from payroll). Connect Detroit sends weekly emails flagging who still needs to register.", "chip": "wait", "chipText": "Register youth" }
     ],
     "needs": [
-      { "name": "Families need Week 1 logistics", "note": "Carla (Cymantha's mom) and Kennedy emailed for the schedule / virtual login; office phone not going through. Send every family where to be Tuesday and how to join.", "chip": "hot", "chipText": "Reply tonight" },
+      { "name": "Families need Week 1 logistics", "note": "Carla (Cymantha's mom) emailed twice again today for the virtual login; Kennedy asked too; office phone still not going through. Send every family where to be Wednesday and how to join.", "chip": "hot", "chipText": "Reply tonight" },
       { "name": "Shantael Harbin", "note": "SEL confirmed, invoice sent. Pay the $1,500.", "chip": "warn", "chipText": "Pay invoice" }
     ],
     "closed": [
@@ -109,11 +111,11 @@
   "status": {
     "stats": [
       { "v": "15", "l": "Youth locked" },
-      { "v": "Tue", "l": "First day" },
+      { "v": "Wed", "l": "First day" },
       { "v": "$2,340", "l": "Budget set" }
     ],
     "items": [
-      { "title": "Tuesday is ready", "desc": "Orientation Day is all you and Je'Tina. No presenter, no deck needed. You can run it tomorrow as-is.", "chip": "done", "chipText": "Ready" },
+      { "title": "Wednesday is the start", "desc": "Tuesday is off, no power. Wednesday's orientation content is all you and Je'Tina, plus the DOL at 11. No new deck needed to open the day.", "chip": "done", "chipText": "Ready" },
       { "title": "Roster locked", "desc": "15 youth (9 young women, 6 young men, ages 14–19).", "chip": "done", "chipText": "Done" },
       { "title": "Orientation delivered", "desc": "Deck, family agenda, take-home guide, registration form all out.", "chip": "done", "chipText": "Done" },
       { "title": "Budget set — $2,340", "desc": "Food $600 · SEL $1,500 · CPR $240.", "chip": "done", "chipText": "Done" },
