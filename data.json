@@ -1,11 +1,11 @@
 {
-  "updated": "July 6, 2026 — launch eve",
-  "firstDay": "2026-07-07",
-  "headline": "15 youth · Week 1 starts tomorrow",
+  "updated": "July 6, evening. Tuesday canceled, no power.",
+  "firstDay": "2026-07-08",
+  "headline": "Tuesday OFF (no power). We start Wed, July 8.",
   "week1": [
     {
-      "day": "TUESDAY, July 7", "tag": "Orientation Day · in person, 10–2 at the Branch",
-      "note": "All you and Je'Tina, no outside presenter. You are ready for tomorrow.",
+      "day": "TUESDAY, July 7 (CANCELED)", "tag": "No power at the Branch after Friday's storm",
+      "note": "Canceled. Orientation moves to Wednesday. Everyone still gets paid for this day. Families being notified tonight.",
       "sessions": [
         { "id": "t7-1", "time": "10:00–11:00", "activity": "Welcome + Building Tour", "who": "Jermaine" },
         { "id": "t7-2", "time": "11:00–12:00", "activity": "Team-Building", "who": "Je'Tina" },
@@ -14,8 +14,8 @@
       ]
     },
     {
-      "day": "WEDNESDAY, July 8", "tag": "AI Day Intensive · in person, 10–2",
-      "note": "DOL confirmed. AI Day Part 1 is your 'Meet Your AI Assistant' deck. Part 2 is hands-on and still needs its beats.",
+      "day": "WEDNESDAY, July 8, the new first day", "tag": "Orientation plus U.S. DOL, in person 10 to 2",
+      "note": "Now the start. Orientation Day content plus the U.S. Department of Labor (Mildred Kress) on wages and workplace rights. AI Day content shifts later in the week. Bring devices.",
       "sessions": [
         { "id": "w8-1", "time": "10:00–11:00", "activity": "Team-Building + Check-In", "who": "Je'Tina" },
         { "id": "w8-2", "time": "11:00–12:00", "activity": "U.S. DOL Workplace Rights", "who": "Mildred Kress, U.S. DOL — confirmed" },
