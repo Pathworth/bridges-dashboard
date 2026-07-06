@@ -1,26 +1,68 @@
 {
-  "updated": "July 6, 2026",
+  "updated": "July 6, 2026 — launch eve",
   "firstDay": "2026-07-07",
-  "headline": "15 youth · 6 weeks · Jul 7 – Aug 14",
+  "headline": "15 youth · Week 1 starts tomorrow",
+  "week1": [
+    {
+      "day": "TUESDAY, July 7", "tag": "Orientation Day · in person, 10–2 at the Branch",
+      "note": "All you and Je'Tina, no outside presenter. You are ready for tomorrow.",
+      "sessions": [
+        { "id": "t7-1", "time": "10:00–11:00", "activity": "Welcome + Building Tour", "who": "Jermaine" },
+        { "id": "t7-2", "time": "11:00–12:00", "activity": "Team-Building", "who": "Je'Tina" },
+        { "id": "t7-3", "time": "12:00–1:00", "activity": "Program Overview + Expectations", "who": "Jermaine" },
+        { "id": "t7-4", "time": "1:00–2:00", "activity": "Capstone Introduction", "who": "Jermaine" }
+      ]
+    },
+    {
+      "day": "WEDNESDAY, July 8", "tag": "AI Day Intensive · in person, 10–2",
+      "note": "DOL confirmed. AI Day Part 1 is your 'Meet Your AI Assistant' deck. Part 2 is hands-on and still needs its beats.",
+      "sessions": [
+        { "id": "w8-1", "time": "10:00–11:00", "activity": "Team-Building + Check-In", "who": "Je'Tina" },
+        { "id": "w8-2", "time": "11:00–12:00", "activity": "U.S. DOL Workplace Rights", "who": "Mildred Kress, U.S. DOL — confirmed" },
+        { "id": "w8-3", "time": "12:00–12:15", "activity": "Presenter Reflection Circle", "who": "Jermaine" },
+        { "id": "w8-4", "time": "12:15–1:00", "activity": "AI Day Part 1 — Meet Your AI Assistant", "who": "Jermaine (deck built)" },
+        { "id": "w8-5", "time": "1:00–2:00", "activity": "AI Day Part 2 — hands-on", "who": "Jermaine (needs beats)" }
+      ]
+    },
+    {
+      "day": "THURSDAY, July 9", "tag": "Workplace Foundations · in person, 10–2",
+      "note": "Two gaps: the 11–12 slot is open (was DTE; Monique is not free Week 1), and the Ethics Court + Time Management decks are not built yet.",
+      "sessions": [
+        { "id": "h9-1", "time": "10:00–11:00", "activity": "Team-Building + AI Day Reflection", "who": "Je'Tina" },
+        { "id": "h9-2", "time": "11:00–12:00", "activity": "OPEN slot — was DTE", "who": "needs a fill" },
+        { "id": "h9-3", "time": "12:00–12:15", "activity": "Presenter Reflection Circle", "who": "Jermaine" },
+        { "id": "h9-4", "time": "12:15–1:00", "activity": "Workplace Ethics Court", "who": "Jermaine (deck not built)" },
+        { "id": "h9-5", "time": "1:00–2:00", "activity": "Time Management Setup", "who": "Jermaine (deck not built)" }
+      ]
+    },
+    {
+      "day": "FRIDAY, July 10", "tag": "Virtual · asynchronous", "note": "",
+      "sessions": [
+        { "id": "f10-1", "time": "Async", "activity": "Capstone Kickoff Submission", "who": "Youth, self-paced" }
+      ]
+    }
+  ],
   "doNow": [
-    { "n": 1, "title": "Pay Shantael's SEL invoice", "desc": "$1,500. Invoice is in your inbox, held in Immediate Action.", "chip": "hot", "chipText": "Urgent" },
-    { "n": 2, "title": "Send the youth their Monday details", "desc": "More youth are writing in every day and none have gotten an answer. They haven't heard anything since orientation and want to know what time to show up Monday, how to get the Zoom link on virtual days, and where to find the orientation slides. First day is Jul 7, that is tomorrow. Get one plain email out to all 15 families today.", "chip": "hot", "chipText": "Send now" },
-    { "n": 3, "title": "Confirm DTE week with Monique Johnson", "desc": "Mark connected you with Monique Johnson, DTE Workforce Development. You emailed her and Mark on Jul 2. She is not free Week 1, so you are locking a later week. Waiting on her reply.", "chip": "wait", "chipText": "Waiting on Monique" },
-    { "n": 4, "title": "Give feedback on the Week 1 deck", "desc": "\"Meet Your AI Assistant\" is built in your Signature. Bless the look so I build the other two.", "chip": "warn", "chipText": "Waiting on you" },
-    { "n": 5, "title": "New bank partner for Week 2 credit", "desc": "Comerica and Ally are out. Need one partner for the credit session.", "chip": "warn", "chipText": "Open" },
-    { "n": 6, "title": "Lock Week 4 dates", "desc": "Tasha CPR (Wed 7/29 or Thu 7/30, 2 hrs), Keosha, and Zipporah all land in Week 4. Pick the days.", "chip": "warn", "chipText": "Open" },
-    { "n": 7, "title": "NAACP Political Education + Mental Health", "desc": "Week 5 political-ed presenter and Week 4 mental-health session still need a name.", "chip": "warn", "chipText": "Open" },
-    { "n": 8, "title": "Confirm your Week 3 texts", "desc": "Moe (Tue 7/21, noon), DeQuan (Thu 7/23, 11a), Darryl (Thu 8/6, 11a). Texts are drafted for you.", "chip": "warn", "chipText": "Send" },
-    { "n": 9, "title": "Sync Je'Tina and Chris Cohen", "desc": "Je'Tina on team-building, Chris on the volunteer plan. Your calls to make.", "chip": "wait", "chipText": "Yours" }
+    { "id": "dn-fam", "n": 1, "title": "Get Week 1 logistics to the families tonight", "desc": "Carla (Cymantha's mom) and Kennedy both emailed asking where to be and for the virtual login, and the office phone isn't going through. Send every family the Week 1 schedule and how to arrive Tuesday.", "chip": "hot", "chipText": "Urgent" },
+    { "id": "dn-thu", "n": 2, "title": "Fill Thursday's 11–12 slot", "desc": "That was the DTE hour. Monique is not free Week 1, so it is open. Move Ethics Court up, add a work-readiness activity, or make it extended AI time.", "chip": "hot", "chipText": "Decide" },
+    { "id": "dn-decks", "n": 3, "title": "Build Ethics Court + Time Management decks", "desc": "Both are Thursday afternoon and not built yet. Bridget can build them tonight in your Signature.", "chip": "warn", "chipText": "Bridget can build" },
+    { "id": "dn-shantael", "n": 4, "title": "Pay Shantael's SEL invoice", "desc": "$1,500, still open.", "chip": "warn", "chipText": "Pay" },
+    { "id": "dn-dol", "n": 5, "title": "Confirm Mildred Kress (DOL) for Wed 11 AM", "desc": "She is marked confirmed. A day-before check keeps Wednesday tight.", "chip": "warn", "chipText": "Confirm" },
+    { "id": "dn-bank", "n": 6, "title": "Bank partner for Week 2 credit", "desc": "Thursday July 16, 11–12 is still open.", "chip": "warn", "chipText": "Open" },
+    { "id": "dn-wk4", "n": 7, "title": "Lock Week 4 dates", "desc": "Tasha CPR, Keosha, Zipporah — pick the days.", "chip": "warn", "chipText": "Open" },
+    { "id": "dn-texts", "n": 8, "title": "Confirm Week 3 texts", "desc": "Moe (7/21, noon), DeQuan (7/23, 11a), Darryl (8/6, 11a).", "chip": "warn", "chipText": "Send" }
   ],
   "weeks": [
     { "num": "WEEK 1", "title": "Work Readiness & AI Foundations", "dates": "Jul 7–10", "items": [
-      { "dot": "a", "name": "DOL Workplace Rights", "who": "Mildred Kress, U.S. Dept. of Labor" },
-      { "dot": "a", "name": "Resume & Branding", "who": "DTE — Monique Johnson, scheduling a later week (not free Week 1)" },
-      { "dot": "g", "name": "AI Day + Orientation", "who": "Jermaine" }
+      { "dot": "g", "name": "Orientation Day (Tue)", "who": "Jermaine + Je'Tina — ready" },
+      { "dot": "g", "name": "DOL Workplace Rights (Wed)", "who": "Mildred Kress, U.S. DOL — confirmed" },
+      { "dot": "g", "name": "AI Day Part 1 (Wed)", "who": "Jermaine — deck built" },
+      { "dot": "a", "name": "AI Day Part 2 (Wed)", "who": "Jermaine — hands-on, needs beats" },
+      { "dot": "r", "name": "Thursday 11–12 slot", "who": "Open — was DTE; Monique later week" },
+      { "dot": "a", "name": "Ethics Court + Time Mgmt (Thu)", "who": "Jermaine — decks not built" }
     ]},
     { "num": "WEEK 2", "title": "Financial Literacy", "dates": "Jul 13–17", "items": [
-      { "dot": "g", "name": "Banking 101", "who": "Huntington — Courtney Elledge, Kassie Kretzschmar" },
+      { "dot": "a", "name": "Banking 101", "who": "Huntington — Courtney Elledge, Kassie Kretzschmar (pending)" },
       { "dot": "g", "name": "YNAB + AI as a budget assistant", "who": "Jermaine" },
       { "dot": "r", "name": "Credit session", "who": "Need a new bank partner" },
       { "dot": "a", "name": "Financial Wellness Family Tree", "who": "Zipporah — checking her schedule" }
@@ -31,9 +73,9 @@
       { "dot": "g", "name": "Branding & AI for Creators", "who": "Jermaine" }
     ]},
     { "num": "WEEK 4", "title": "College Prep & Healthy Living", "dates": "Jul 27–31", "items": [
-      { "dot": "a", "name": "Wayne State Campus Day", "who": "Stacie Clayton — Tue 7/28 (confirming details)" },
+      { "dot": "g", "name": "Wayne State Campus Day (field trip)", "who": "Stacie Clayton — Tue 7/28, full day — confirmed" },
       { "dot": "a", "name": "Health & Wellness", "who": "Keosha King + daughter — 7/29 or 7/30" },
-      { "dot": "a", "name": "CPR & First Aid Cert", "who": "Tasha, RN (AHA) — Wed 7/29 or Thu 7/30, 2 hrs" },
+      { "dot": "a", "name": "CPR & First Aid Cert", "who": "Tasha, RN (AHA) — 7/29 or 7/30, 2 hrs" },
       { "dot": "g", "name": "SEL", "who": "Shantael Harbin — Wed 7/29, 5p (invoice to pay)" },
       { "dot": "r", "name": "Mental Health", "who": "Needs a name" }
     ]},
@@ -50,34 +92,32 @@
   ],
   "inbox": {
     "waiting": [
-      { "name": "Zipporah Bolar", "note": "Replied to your invite — she's checking her schedule for the Financial Wellness session.", "chip": "wait", "chipText": "Pending reply" },
-      { "name": "Monique Johnson (DTE)", "note": "Mark connected her as the DTE presenter (Workforce Development). You emailed her and Mark on Jul 2. She is not free Week 1, so you are finding a later week.", "chip": "wait", "chipText": "Pending reply" },
-      { "name": "GDYT payroll pivot", "note": "Official now. Shuna at Connect Detroit sent the Payroll 1 pivot Jul 2. MOF isn't ready, so no timesheets in MOF this round and no action in MOF by youth or supervisors. Agencies report hours on a customized sheet Nicole Hill sends next week. Connect Detroit confirmed: if youth didn't work June 22 or June 29, no action required. Our youth start Jul 7, so nothing for us on Payroll 1. Kamilia forwarded it, you already replied. Watch for Nicole's sheet and be ready for Payroll 2.", "chip": "wait", "chipText": "Watch for sheet" },
-      { "name": "Employment ID photos", "note": "Families are sending headshots for the youth employment IDs. A few are in now. Keep collecting so every youth is covered before payroll starts.", "chip": "wait", "chipText": "Collecting" },
-      { "name": "Youth asking about Monday", "note": "Several youth have now emailed wanting the start time, the Zoom link for virtual days, and the orientation slides. Still coming in on Jul 3 and Jul 4. None have heard from the program since orientation, and the first day is Jul 7. Handle all of them at once with the all-family Monday details email in Do Now.", "chip": "warn", "chipText": "Reply needed" }
+      { "name": "Monique Johnson (DTE)", "note": "New DTE presenter, Mark connected her. You emailed her Jul 2. She is not free Week 1, so DTE moves to a later week. No reply yet (DTE had a big storm/outage over the weekend).", "chip": "wait", "chipText": "No reply yet" },
+      { "name": "Zipporah Bolar", "note": "Checking her schedule for the Financial Wellness session (Week 2 or 4).", "chip": "wait", "chipText": "Pending reply" },
+      { "name": "GDYT payroll pivot", "note": "MOF isn't ready for Payroll 1. Agencies report hours instead; Nicole Hill sends a customized sheet. Watch for it, be ready for Payroll 2.", "chip": "wait", "chipText": "Watch for sheet" }
     ],
     "needs": [
-      { "name": "Shantael Harbin", "note": "SEL confirmed and she sent her invoice. Pay the $1,500.", "chip": "warn", "chipText": "Pay invoice" }
+      { "name": "Families need Week 1 logistics", "note": "Carla (Cymantha's mom) and Kennedy emailed for the schedule / virtual login; office phone not going through. Send every family where to be Tuesday and how to join.", "chip": "hot", "chipText": "Reply tonight" },
+      { "name": "Shantael Harbin", "note": "SEL confirmed, invoice sent. Pay the $1,500.", "chip": "warn", "chipText": "Pay invoice" }
     ],
     "closed": [
-      { "name": "Gwen (GDYT)", "note": "Kevin approved, Nathan & Amani removed. Roster locked at 15. You replied on Nathan.", "chip": "done", "chipText": "Done" },
-      { "name": "Micah (Tristan's mom)", "note": "Tristan accepted and confirmed on the roster. She replied thank you.", "chip": "done", "chipText": "Done" },
-      { "name": "Partner invites sent", "note": "Zipporah, Stacie (Wayne State), Keosha (Week 4 health) — all out.", "chip": "done", "chipText": "Sent" }
+      { "name": "DTE reply sent", "note": "Emailed Monique + Mark on Jul 2 with the full picture, open to her schedule.", "chip": "done", "chipText": "Done" },
+      { "name": "Gwen (GDYT)", "note": "Kevin approved, Nathan & Amani removed. Roster locked at 15.", "chip": "done", "chipText": "Done" },
+      { "name": "Kamilia, Micah, Keosha", "note": "You answered all three yourself (budget, Tristan, Week 4 health).", "chip": "done", "chipText": "Done" }
     ]
   },
   "status": {
     "stats": [
       { "v": "15", "l": "Youth locked" },
-      { "v": "$2,340", "l": "Budget set" },
-      { "v": "8", "l": "Open items" }
+      { "v": "Tue", "l": "First day" },
+      { "v": "$2,340", "l": "Budget set" }
     ],
     "items": [
-      { "title": "Roster locked", "desc": "15 youth (9 young women, 6 young men, ages 14–19). Kevin in, Nathan & Amani out, Tristan confirmed.", "chip": "done", "chipText": "Done" },
-      { "title": "Orientation delivered", "desc": "28-slide deck, family agenda, take-home guide, registration form. SEL date fixed to Jul 29.", "chip": "done", "chipText": "Done" },
-      { "title": "Budget set — $2,340", "desc": "Food $600 · SEL $1,500 · CPR $240. One-pager saved in Program Information.", "chip": "done", "chipText": "Done" },
-      { "title": "Family comms sent", "desc": "Day-one recap and details went out to every family. Youth keep writing in for Monday's start time, Zoom link, and slides, so one more logistics email is owed to all 15 families before Jul 7.", "chip": "warn", "chipText": "One more owed" },
-      { "title": "Inbox organized", "desc": "GDYT and program mail filed into folders. Immediate Action kept clean.", "chip": "done", "chipText": "Done" },
-      { "title": "Week 1 curriculum", "desc": "\"Meet Your AI Assistant\" deck built. Ethics Court + Time Management next, on your go.", "chip": "warn", "chipText": "In progress" }
+      { "title": "Tuesday is ready", "desc": "Orientation Day is all you and Je'Tina. No presenter, no deck needed. You can run it tomorrow as-is.", "chip": "done", "chipText": "Ready" },
+      { "title": "Roster locked", "desc": "15 youth (9 young women, 6 young men, ages 14–19).", "chip": "done", "chipText": "Done" },
+      { "title": "Orientation delivered", "desc": "Deck, family agenda, take-home guide, registration form all out.", "chip": "done", "chipText": "Done" },
+      { "title": "Budget set — $2,340", "desc": "Food $600 · SEL $1,500 · CPR $240.", "chip": "done", "chipText": "Done" },
+      { "title": "Week 1 curriculum", "desc": "Meet Your AI Assistant deck built. Ethics Court + Time Management still to build for Thursday.", "chip": "warn", "chipText": "In progress" }
     ]
   }
 }

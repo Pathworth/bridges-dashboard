@@ -29,14 +29,14 @@
   .brand p{margin:1px 0 0;font-size:11.5px;color:var(--mut)}
   .count{margin:12px 0 4px;background:linear-gradient(120deg,#12234a,#0f1a30);border:1px solid var(--line);
     border-radius:14px;padding:12px 14px;display:flex;align-items:center;justify-content:space-between}
-  .count .big{font-size:26px;font-weight:800;color:var(--gold);line-height:1}
+  .count .big{font-size:24px;font-weight:800;color:var(--gold);line-height:1}
   .count .sub{font-size:12px;color:var(--mut);margin-top:3px}
   .count .day{text-align:right;font-size:12px;color:var(--text)}
   .count .day b{display:block;font-size:15px}
   nav{position:sticky;top:0;z-index:19;display:flex;gap:6px;background:var(--bg);
     padding:10px 14px;max-width:820px;margin:0 auto;overflow-x:auto;border-bottom:1px solid var(--line)}
   .tabbtn{flex:none;border:1px solid var(--line);background:var(--card2);color:var(--mut);
-    padding:8px 14px;border-radius:999px;font-size:13px;font-weight:600;cursor:pointer}
+    padding:8px 13px;border-radius:999px;font-size:13px;font-weight:600;cursor:pointer}
   .tabbtn.on{background:var(--gold);color:#20170a;border-color:var(--gold)}
   .tab{display:none}
   .tab.on{display:block}
@@ -47,30 +47,50 @@
   .row h3{margin:0;font-size:15px;font-weight:650}
   .row p{margin:3px 0 0;font-size:12.5px;color:var(--mut);line-height:1.45}
   .chip{flex:none;font-size:10.5px;font-weight:700;padding:4px 9px;border-radius:999px;letter-spacing:.4px;
-    text-transform:uppercase;white-space:nowrap}
-  .done{background:rgba(53,192,138,.14);color:var(--done)}
+    text-transform:uppercase;white-space:nowrap;align-self:flex-start}
+  .done-c{background:rgba(53,192,138,.14);color:var(--done)}
   .warn{background:rgba(224,168,69,.15);color:var(--warn)}
   .hot{background:rgba(229,103,92,.16);color:var(--hot)}
   .wait{background:rgba(44,90,166,.2);color:#7FA6E6}
-  .num{width:26px;height:26px;border-radius:8px;background:var(--card2);border:1px solid var(--line);
-    display:grid;place-items:center;font-size:12px;font-weight:700;color:var(--gold);flex:none;margin-top:1px}
+  .chk{width:24px;height:24px;border-radius:50%;border:2px solid var(--mut);flex:none;cursor:pointer;
+    display:grid;place-items:center;margin-top:1px;transition:all .12s;position:relative}
+  .chk:after{content:"";width:10px;height:6px;border-left:2px solid #0B1220;border-bottom:2px solid #0B1220;
+    transform:rotate(-45deg) translateY(-1px);opacity:0}
+  .done .chk{background:var(--done);border-color:var(--done)}
+  .done .chk:after{opacity:1}
+  .done h3,.done .act{text-decoration:line-through;color:var(--mut)}
+  .card.tap{cursor:pointer}
+  .daycard{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin-bottom:11px;border-left:3px solid var(--navy)}
+  .dayhead{display:flex;align-items:center;justify-content:space-between}
+  .dayhead h3{margin:0;font-size:15px}
+  .prog{font-size:12px;font-weight:800;color:var(--gold);background:var(--card2);border:1px solid var(--line);
+    border-radius:999px;padding:2px 9px}
+  .daytag{font-size:11.5px;color:var(--gold);margin:2px 0 6px}
+  .daynote{font-size:12px;color:var(--mut);line-height:1.45;margin-bottom:4px}
+  .ses{display:flex;align-items:flex-start;gap:11px;padding:9px 0;border-top:1px solid var(--line);cursor:pointer}
+  .ses .d{flex:1;font-size:13px;line-height:1.35}
+  .ses .d b{color:var(--gold);font-weight:700;margin-right:6px}
+  .ses .d .act{font-weight:600}
+  .ses .d span{display:block;font-size:11.5px;color:var(--mut);margin-top:1px}
+  .stat{display:flex;gap:9px;margin-bottom:9px}
+  .stat .b{flex:1;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:11px;text-align:center}
+  .stat .b b{display:block;font-size:20px;color:var(--gold)}
+  .stat .b span{font-size:10.5px;color:var(--mut)}
+  .legend{display:flex;gap:14px;flex-wrap:wrap;margin:2px 4px 10px;font-size:11px;color:var(--mut)}
+  .legend i{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:5px}
   .wk{border-left:3px solid var(--navy)}
   .wkhead{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}
   .wkhead .w{font-size:11px;color:var(--gold);font-weight:700;letter-spacing:.6px}
   .wkhead h3{margin:2px 0 0;font-size:15px}
   .wkhead .dates{font-size:11px;color:var(--mut);text-align:right}
   .item{display:flex;align-items:center;gap:9px;padding:7px 0;border-top:1px solid var(--line)}
-  .item .d{flex:1;font-size:13px}
-  .item .d span{display:block;font-size:11.5px;color:var(--mut);margin-top:1px}
+  .item .d2{flex:1;font-size:13px}
+  .item .d2 span{display:block;font-size:11.5px;color:var(--mut);margin-top:1px}
   .dot{width:8px;height:8px;border-radius:50%;flex:none}
   .dot.g{background:var(--done)} .dot.a{background:var(--warn)} .dot.r{background:var(--hot)}
-  .stat{display:flex;gap:9px;margin-bottom:9px}
-  .stat .b{flex:1;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:11px;text-align:center}
-  .stat .b b{display:block;font-size:22px;color:var(--gold)}
-  .stat .b span{font-size:10.5px;color:var(--mut)}
-  .legend{display:flex;gap:14px;flex-wrap:wrap;margin:2px 4px 10px;font-size:11px;color:var(--mut)}
-  .legend i{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:5px}
   .foot{text-align:center;color:var(--mut);font-size:11px;margin-top:18px;line-height:1.6}
+  .reset{display:block;margin:14px auto 0;background:none;border:1px solid var(--line);color:var(--mut);
+    font-size:11px;padding:6px 12px;border-radius:999px;cursor:pointer}
 </style>
 </head>
 <body>
@@ -86,14 +106,16 @@
 </header>
 
 <nav>
-  <button class="tabbtn on" data-tab="do">Do Now</button>
+  <button class="tabbtn on" data-tab="w1">Week 1</button>
+  <button class="tabbtn" data-tab="do">Do Now</button>
   <button class="tabbtn" data-tab="wk">6 Weeks</button>
   <button class="tabbtn" data-tab="in">Inbox</button>
   <button class="tabbtn" data-tab="st">Status</button>
 </nav>
 
 <div class="wrap">
-  <section id="do" class="tab on"></section>
+  <section id="w1" class="tab on"></section>
+  <section id="do" class="tab"></section>
   <section id="wk" class="tab"></section>
   <section id="in" class="tab"></section>
   <section id="st" class="tab"></section>
@@ -101,37 +123,66 @@
 
 <script>
   var esc=function(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');};
+  var DONE={};
+  try{DONE=JSON.parse(localStorage.getItem('b1.done')||'{}');}catch(e){DONE={};}
+  function isDone(id){return !!DONE[id];}
+  function save(){try{localStorage.setItem('b1.done',JSON.stringify(DONE));}catch(e){}}
+
+  function chip(o){return o.chip?'<span class="chip '+(o.chip==='done'?'done-c':o.chip)+'">'+esc(o.chipText)+'</span>':'';}
+
+  function week1(d){
+    return (d.week1||[]).map(function(day){
+      var total=day.sessions.length, done=day.sessions.filter(function(s){return isDone(s.id);}).length;
+      var rows=day.sessions.map(function(s){
+        return '<div class="ses'+(isDone(s.id)?' done':'')+'" data-id="'+s.id+'">'+
+          '<span class="chk"></span>'+
+          '<div class="d"><span class="line"><b>'+esc(s.time)+'</b><span class="act" style="display:inline">'+esc(s.activity)+'</span></span>'+
+          '<span>'+esc(s.who)+'</span></div></div>';
+      }).join('');
+      return '<div class="daycard"><div class="dayhead"><h3>'+esc(day.day)+'</h3>'+
+        '<span class="prog" data-day-total="'+total+'">'+done+'/'+total+'</span></div>'+
+        '<div class="daytag">'+esc(day.tag)+'</div>'+
+        (day.note?'<div class="daynote">'+esc(day.note)+'</div>':'')+rows+'</div>';
+    }).join('');
+  }
+  function doCard(o){
+    return '<div class="card tap'+(isDone(o.id)?' done':'')+'" data-id="'+o.id+'"><div class="row">'+
+      '<span class="chk"></span>'+
+      '<div class="t"><h3>'+esc(o.title)+'</h3>'+(o.desc?'<p>'+esc(o.desc)+'</p>':'')+'</div>'+
+      chip(o)+'</div></div>';
+  }
   function card(o){
-    return '<div class="card"><div class="row">'+
-      (o.n?'<div class="num">'+o.n+'</div>':'')+
-      '<div class="t"><h3>'+esc(o.title||o.name)+'</h3>'+
-      ((o.desc||o.note)?'<p>'+esc(o.desc||o.note)+'</p>':'')+'</div>'+
-      (o.chip?'<span class="chip '+o.chip+'">'+esc(o.chipText)+'</span>':'')+
-      '</div></div>';
+    return '<div class="card"><div class="row"><div class="t"><h3>'+esc(o.title||o.name)+'</h3>'+
+      ((o.desc||o.note)?'<p>'+esc(o.desc||o.note)+'</p>':'')+'</div>'+chip(o)+'</div></div>';
   }
   function week(w){
     var items=w.items.map(function(it){
-      return '<div class="item"><span class="dot '+it.dot+'"></span><div class="d">'+esc(it.name)+
+      return '<div class="item"><span class="dot '+it.dot+'"></span><div class="d2">'+esc(it.name)+
         '<span>'+esc(it.who)+'</span></div></div>';
     }).join('');
     return '<div class="card wk"><div class="wkhead"><div><div class="w">'+esc(w.num)+
       '</div><h3>'+esc(w.title)+'</h3></div><div class="dates">'+esc(w.dates)+'</div></div>'+items+'</div>';
   }
+
   function render(d){
     var parts=(d.headline||'').split(' · ');
     document.getElementById('hl').textContent=parts[0]||'15 youth';
     document.getElementById('hl2').textContent=parts.slice(1).join(' · ');
-    document.getElementById('do').innerHTML='<div class="sec">Your list</div>'+d.doNow.map(card).join('');
+
+    document.getElementById('w1').innerHTML='<div class="sec">Tap each session as you run it</div>'+week1(d)+
+      '<button class="reset" id="reset">Reset all checkmarks</button>';
+    document.getElementById('do').innerHTML='<div class="sec">Your list · tap to check off</div>'+d.doNow.map(doCard).join('');
     document.getElementById('wk').innerHTML='<div class="legend"><span><i style="background:#35C08A"></i>Locked</span>'+
-      '<span><i style="background:#E0A845"></i>Pending</span><span><i style="background:#E5675C"></i>Needs a name</span></div>'+
+      '<span><i style="background:#E0A845"></i>Pending</span><span><i style="background:#E5675C"></i>Needs a fill</span></div>'+
       d.weeks.map(week).join('');
-    document.getElementById('in').innerHTML='<div class="sec">Waiting on them</div>'+d.inbox.waiting.map(card).join('')+
-      '<div class="sec">Needs you to act</div>'+d.inbox.needs.map(card).join('')+
-      '<div class="sec">Closed this week</div>'+d.inbox.closed.map(card).join('');
+    document.getElementById('in').innerHTML='<div class="sec">Needs you</div>'+d.inbox.needs.map(card).join('')+
+      '<div class="sec">Waiting on them</div>'+d.inbox.waiting.map(card).join('')+
+      '<div class="sec">Closed</div>'+d.inbox.closed.map(card).join('');
     document.getElementById('st').innerHTML='<div class="stat">'+d.status.stats.map(function(s){
         return '<div class="b"><b>'+esc(s.v)+'</b><span>'+esc(s.l)+'</span></div>';}).join('')+'</div>'+
       '<div class="sec">Where we are</div>'+d.status.items.map(card).join('')+
-      '<div class="foot">Updated '+esc(d.updated||'')+' · Bridget keeps this current.<br>Add to Home Screen to keep it one tap away.</div>';
+      '<div class="foot">Updated '+esc(d.updated||'')+' · Bridget keeps this current.<br>Your checkmarks save on this phone.</div>';
+
     var first=d.firstDay?new Date(d.firstDay+'T00:00:00'):new Date(2026,6,7);
     var now=new Date();now.setHours(0,0,0,0);
     var days=Math.round((first-now)/86400000);
@@ -140,7 +191,30 @@
     else if(days===1){el.textContent='Tomorrow';}
     else if(days===0){el.textContent='Launch day';sub.textContent='First in-person day is today';}
     else{el.textContent='In session';sub.textContent='Program is running';}
+    wire();
   }
+
+  function updateDayProgs(){
+    document.querySelectorAll('.daycard').forEach(function(dc){
+      var sess=dc.querySelectorAll('.ses');var done=dc.querySelectorAll('.ses.done').length;
+      var p=dc.querySelector('.prog');if(p)p.textContent=done+'/'+sess.length;
+    });
+  }
+  function toggle(el){
+    var id=el.getAttribute('data-id');if(!id)return;
+    if(DONE[id]){delete DONE[id];el.classList.remove('done');}
+    else{DONE[id]=1;el.classList.add('done');}
+    save();updateDayProgs();
+  }
+  function wire(){
+    document.querySelectorAll('[data-id]').forEach(function(el){
+      el.onclick=function(){toggle(el);};
+    });
+    var r=document.getElementById('reset');
+    if(r)r.onclick=function(){DONE={};save();render(DATA);
+      document.querySelector('.tabbtn[data-tab="w1"]').click();};
+  }
+
   document.querySelectorAll('.tabbtn').forEach(function(b){
     b.addEventListener('click',function(){
       document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('on');});
@@ -149,8 +223,10 @@
       b.classList.add('on');window.scrollTo({top:0,behavior:'smooth'});
     });
   });
-  fetch('data.json?v='+Date.now()).then(function(r){return r.json();}).then(render).catch(function(){
-    document.getElementById('do').innerHTML='<div class="card"><div class="row"><div class="t"><h3>Could not load data</h3><p>Check your connection and refresh.</p></div></div></div>';
+
+  var DATA=null;
+  fetch('data.json?v='+Date.now()).then(function(r){return r.json();}).then(function(d){DATA=d;render(d);}).catch(function(){
+    document.getElementById('w1').innerHTML='<div class="card"><div class="row"><div class="t"><h3>Could not load</h3><p>Check your connection and refresh.</p></div></div></div>';
   });
 </script>
 </body>
