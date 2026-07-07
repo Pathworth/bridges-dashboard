@@ -1,11 +1,11 @@
 {
-  "updated": "July 6. Full Week 1 curriculum built (6 sessions + intake sheet). First day Wednesday.",
+  "updated": "July 7, 2026. Families notified, we start Wednesday July 8. Full Week 1 curriculum built.",
   "firstDay": "2026-07-08",
-  "headline": "Tuesday OFF (no power). We start Wed, July 8.",
+  "headline": "Families notified. Tuesday off (no power). We start Wednesday, July 8.",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)", "tag": "No power at the Branch after Friday's storm",
-      "note": "Canceled. Orientation moves to Wednesday. Everyone still gets paid for this day. Families being notified tonight.",
+      "note": "Canceled. Orientation moves to Wednesday. Everyone still gets paid for this day. Families were notified the night of July 6.",
       "sessions": [
         { "id": "t7-1", "time": "10:00–11:00", "activity": "Welcome + Building Tour", "who": "Jermaine" },
         { "id": "t7-2", "time": "11:00–12:00", "activity": "Team-Building", "who": "Je'Tina" },
@@ -43,7 +43,7 @@
     }
   ],
   "doNow": [
-    { "id": "dn-fam", "n": 1, "title": "Get Week 1 logistics to the families tonight", "desc": "Carla (Cymantha's mom) emailed twice again today asking for the virtual login, and Kennedy asked too. The office phone still isn't going through. Send every family the Week 1 schedule and how to arrive Wednesday.", "chip": "hot", "chipText": "Urgent" },
+    { "id": "dn-fam", "n": 1, "title": "Week 1 logistics sent to families, one address bounced", "desc": "The all-family email went out the night of July 6: no Tuesday, start Wednesday July 8 from 10 to 2 at 8220 Second, bring a charged device, Tuesday pay covered, email you since the office phone is down. One recipient address came back undeliverable, so reach that one family by text or call to be sure they have the Wednesday plan.", "chip": "warn", "chipText": "One bounce" },
     { "id": "dn-thu", "n": 2, "title": "Slot your 6 built sessions into Wed + Thu", "desc": "Full Week 1 bank is built (guide + deck each): What AI Really Is, Resume From Zero, AI Mock Interview, Decode the Job Post, Ethics Court, Time Management. Plus the Day One intake sheet. Just pick the order. All in Curriculum/Week 1.", "chip": "warn", "chipText": "Pick order" },
     { "id": "dn-decks", "n": 3, "title": "Week 1 curriculum is fully built", "desc": "All 6 sessions have a facilitator guide and a Signature deck, plus the Day One intake sheet and a START HERE map. Runnable by you or any volunteer. Tap to clear once reviewed.", "chip": "done", "chipText": "Built" },
     { "id": "dn-shantael", "n": 4, "title": "Pay Shantael's SEL invoice", "desc": "$1,500, still open.", "chip": "warn", "chipText": "Pay" },
@@ -95,14 +95,14 @@
     "waiting": [
       { "name": "Monique Johnson (DTE)", "note": "New DTE presenter, Mark connected her. You emailed her Jul 2. She is not free Week 1, so DTE moves to a later week. No reply yet (DTE had a big storm/outage over the weekend).", "chip": "wait", "chipText": "No reply yet" },
       { "name": "Zipporah Bolar", "note": "Checking her schedule for the Financial Wellness session (Week 2 or 4).", "chip": "wait", "chipText": "Pending reply" },
-      { "name": "GDYT payroll pivot", "note": "MOF isn't ready for Payroll 1. Agencies report hours instead; Nicole Hill sends a customized sheet. Watch for it, be ready for Payroll 2.", "chip": "wait", "chipText": "Watch for sheet" },
+      { "name": "GDYT payroll pivot", "note": "MOF isn't ready for Payroll 1. Agencies report hours instead; Nicole Hill sends a customized sheet. Connect Detroit ran payroll trainings June 30 and July 7 (refresher). Watch for the sheet, be ready for Payroll 2.", "chip": "wait", "chipText": "Watch for sheet" },
       { "name": "GDYT Empower App", "note": "Kelsey (Connect Detroit) sent app sign-up instructions Jul 6, with a youth how-to deck attached. Youth register in the Empower App; its modules cover the GDYT financial literacy requirement (separate from payroll). Connect Detroit sends weekly emails flagging who still needs to register.", "chip": "wait", "chipText": "Register youth" }
     ],
     "needs": [
-      { "name": "Families need Week 1 logistics", "note": "Carla (Cymantha's mom) emailed twice again today for the virtual login; Kennedy asked too; office phone still not going through. Send every family where to be Wednesday and how to join.", "chip": "hot", "chipText": "Reply tonight" },
       { "name": "Shantael Harbin", "note": "SEL confirmed, invoice sent. Pay the $1,500.", "chip": "warn", "chipText": "Pay invoice" }
     ],
     "closed": [
+      { "name": "Week 1 logistics sent to families", "note": "All-family email went out the night of July 6: no Tuesday, start Wednesday July 8, 10 to 2, bring a device, Tuesday pay covered. One address bounced, follow up with that one family.", "chip": "done", "chipText": "Sent" },
       { "name": "DTE reply sent", "note": "Emailed Monique + Mark on Jul 2 with the full picture, open to her schedule.", "chip": "done", "chipText": "Done" },
       { "name": "Gwen (GDYT)", "note": "Kevin approved, Nathan & Amani removed. Roster locked at 15.", "chip": "done", "chipText": "Done" },
       { "name": "Kamilia, Micah, Keosha", "note": "You answered all three yourself (budget, Tristan, Week 4 health).", "chip": "done", "chipText": "Done" }
