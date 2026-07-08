@@ -1,7 +1,7 @@
 {
-  "updated": "July 7, 2026. Families notified, we start Wednesday July 8. Full Week 1 curriculum built.",
+  "updated": "July 8, 2026. First day. Families notified, we start today at 10. Two addresses on the family email bounced, reach those two by text or call.",
   "firstDay": "2026-07-08",
-  "headline": "Families notified. Tuesday off (no power). We start Wednesday, July 8.",
+  "headline": "First day is today, Wednesday July 8, 10 to 2. Two family email addresses bounced, reach those two by phone.",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)", "tag": "No power at the Branch after Friday's storm",
@@ -43,7 +43,7 @@
     }
   ],
   "doNow": [
-    { "id": "dn-fam", "n": 1, "title": "Week 1 logistics sent to families, one address bounced", "desc": "The all-family email went out the night of July 6: no Tuesday, start Wednesday July 8 from 10 to 2 at 8220 Second, bring a charged device, Tuesday pay covered, email you since the office phone is down. One recipient address came back undeliverable, so reach that one family by text or call to be sure they have the Wednesday plan.", "chip": "warn", "chipText": "One bounce" },
+    { "id": "dn-fam", "n": 1, "title": "Family email bounced on two addresses, reach those two", "desc": "The all-family email went out the night of July 6: no Tuesday, start Wednesday July 8 from 10 to 2 at 8220 Second, bring a charged device, Tuesday pay covered, email you since the office phone is down. Two recipient addresses came back undeliverable on July 7. Reach both families by text or call today to be sure they have the plan. One of the two also has a working gmail on the same thread, so a quick check there covers it.", "chip": "warn", "chipText": "Two bounces" },
     { "id": "dn-thu", "n": 2, "title": "Slot your 6 built sessions into Wed + Thu", "desc": "Full Week 1 bank is built (guide + deck each): What AI Really Is, Resume From Zero, AI Mock Interview, Decode the Job Post, Ethics Court, Time Management. Plus the Day One intake sheet. Just pick the order. All in Curriculum/Week 1.", "chip": "warn", "chipText": "Pick order" },
     { "id": "dn-decks", "n": 3, "title": "Week 1 curriculum is fully built", "desc": "All 6 sessions have a facilitator guide and a Signature deck, plus the Day One intake sheet and a START HERE map. Runnable by you or any volunteer. Tap to clear once reviewed.", "chip": "done", "chipText": "Built" },
     { "id": "dn-shantael", "n": 4, "title": "Pay Shantael's SEL invoice", "desc": "$1,500, still open.", "chip": "warn", "chipText": "Pay" },
@@ -102,7 +102,7 @@
       { "name": "Shantael Harbin", "note": "SEL confirmed, invoice sent. Pay the $1,500.", "chip": "warn", "chipText": "Pay invoice" }
     ],
     "closed": [
-      { "name": "Week 1 logistics sent to families", "note": "All-family email went out the night of July 6: no Tuesday, start Wednesday July 8, 10 to 2, bring a device, Tuesday pay covered. One address bounced, follow up with that one family.", "chip": "done", "chipText": "Sent" },
+      { "name": "Week 1 logistics sent to families", "note": "All-family email went out the night of July 6: no Tuesday, start Wednesday July 8, 10 to 2, bring a device, Tuesday pay covered. Two addresses bounced on July 7, follow up with those two families by phone.", "chip": "done", "chipText": "Sent" },
       { "name": "DTE reply sent", "note": "Emailed Monique + Mark on Jul 2 with the full picture, open to her schedule.", "chip": "done", "chipText": "Done" },
       { "name": "Gwen (GDYT)", "note": "Kevin approved, Nathan & Amani removed. Roster locked at 15.", "chip": "done", "chipText": "Done" },
       { "name": "Kamilia, Micah, Keosha", "note": "You answered all three yourself (budget, Tristan, Week 4 health).", "chip": "done", "chipText": "Done" }
