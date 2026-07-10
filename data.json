@@ -1,7 +1,7 @@
 {
-  "updated": "July 9, 2026. Day two, Thursday, in person 10 to 2, Workplace Foundations. Wednesday's first day is behind us. Watch the weather, DTE sent another storm alert for this afternoon into Friday.",
+  "updated": "July 10, 2026. Day three, Friday, virtual and async, Capstone Kickoff. Week 1 in-person days are behind us. New this morning: Kamilia approved the CPR certification for all 15 youth, so Week 4 CPR is locked.",
   "firstDay": "2026-07-08",
-  "headline": "Today is Thursday July 9, in person 10 to 2, Workplace Foundations. DTE storm alert for this afternoon into Friday, keep an eye on it. Friday is already virtual and async.",
+  "headline": "Today is Friday July 10, virtual and asynchronous. Youth submit their Capstone Kickoff on their own time. Week 1 wraps here, Financial Literacy starts Monday. CPR is now approved and locked for Thursday July 30.",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)", "tag": "No power at the Branch after Friday's storm",
@@ -25,8 +25,8 @@
       ]
     },
     {
-      "day": "THURSDAY, July 9 (TODAY)", "tag": "Workplace Foundations · in person, 10–2",
-      "note": "Today. Fully built. The 11–12 slot (was DTE) can take any built AI work-readiness session. Ethics Court and Time Management each have a guide and deck ready.",
+      "day": "THURSDAY, July 9", "tag": "Done. Workplace Foundations · in person, 10–2",
+      "note": "Done. Day two, in person 10 to 2. Team-building and AI reflection, a built work-readiness session, then Workplace Ethics Court and Time Management.",
       "sessions": [
         { "id": "h9-1", "time": "10:00–11:00", "activity": "Team-Building + AI Day Reflection", "who": "Je'Tina" },
         { "id": "h9-2", "time": "11:00–12:00", "activity": "Slot a built session (Interview / Job Post / Decode)", "who": "Jermaine — pick one, all built" },
@@ -36,21 +36,20 @@
       ]
     },
     {
-      "day": "FRIDAY, July 10", "tag": "Virtual · asynchronous", "note": "",
+      "day": "FRIDAY, July 10 (TODAY)", "tag": "Virtual · asynchronous", "note": "Today. Virtual and self-paced. Youth submit their Capstone Kickoff on their own time. No live session, so weather is not a factor today.",
       "sessions": [
         { "id": "f10-1", "time": "Async", "activity": "Capstone Kickoff Submission", "who": "Youth, self-paced" }
       ]
     }
   ],
   "doNow": [
-    { "id": "dn-today", "n": 1, "title": "Pick today's 11 AM slot", "desc": "Thursday is fully built. The 11–12 slot can take any built AI work-readiness session: Interview, Job Post, or Decode. Ethics Court and Time Management are set for the afternoon. Just pick the 11 AM one. All in Curriculum/Week 1.", "chip": "warn", "chipText": "Pick one" },
-    { "id": "dn-storm", "n": 2, "title": "Watch the weather today and Friday", "desc": "DTE sent a storm alert for this afternoon into Friday. Last Friday's storm took the Branch's power and cost us Tuesday. Thursday is in person 10 to 2, so have a backup plan if power drops. Friday is already virtual and async, so that day is covered either way.", "chip": "warn", "chipText": "Storm alert" },
-    { "id": "dn-app", "n": 3, "title": "Get the 15 youth into the GDYT Empower App", "desc": "Kelsey at Connect Detroit sent the app sign-up reminder with a youth instructions deck. The app's modules also satisfy the GDYT financial literacy requirement, and it's separate from payroll. Connect Detroit will send weekly emails showing who still needs to register, so get everyone in early.", "chip": "warn", "chipText": "Register" },
-    { "id": "dn-shantael", "n": 4, "title": "Pay Shantael's SEL invoice", "desc": "$1,500, still open.", "chip": "warn", "chipText": "Pay" },
-    { "id": "dn-bank", "n": 5, "title": "Bank partner for Week 2 credit", "desc": "Thursday July 16, 11–12 is still open.", "chip": "warn", "chipText": "Open" },
-    { "id": "dn-wk4", "n": 6, "title": "Lock Week 4 dates", "desc": "Tasha CPR, Keosha, Zipporah — pick the days.", "chip": "warn", "chipText": "Open" },
-    { "id": "dn-texts", "n": 7, "title": "Confirm Week 3 texts", "desc": "Moe (7/21, noon), DeQuan (7/23, 11a), Darryl (8/6, 11a).", "chip": "warn", "chipText": "Send" },
-    { "id": "dn-fam", "n": 8, "title": "Confirm the two bounced families are set for the rest", "desc": "Two addresses bounced on the July 6 all-family email. First day has passed. Confirm both families by text or call that they have the schedule for the remaining weeks. One of the two also has a working gmail on the same thread.", "chip": "warn", "chipText": "Confirm two" }
+    { "id": "dn-cpr-cost", "n": 1, "title": "Price CPR for staff and youth council", "desc": "Kamilia approved the CPR and First Aid cert for all 15 youth (Natosha Gurley, RN, $12 each, about $180). She now wants the total cost to also certify staff and some youth council members. Natosha is open to more people. Get a headcount and send Kamilia the number.", "chip": "warn", "chipText": "Get a price" },
+    { "id": "dn-app", "n": 2, "title": "Get the 15 youth into the GDYT Empower App", "desc": "Kelsey at Connect Detroit sent the app sign-up reminder with a youth instructions deck. The app's modules also satisfy the GDYT financial literacy requirement, and it's separate from payroll. Connect Detroit will send weekly emails showing who still needs to register, so get everyone in early.", "chip": "warn", "chipText": "Register" },
+    { "id": "dn-shantael", "n": 3, "title": "Pay Shantael's SEL invoice", "desc": "$1,500, still open.", "chip": "warn", "chipText": "Pay" },
+    { "id": "dn-bank", "n": 4, "title": "Bank partner for Week 2 credit", "desc": "Thursday July 16, 11–12 is still open.", "chip": "warn", "chipText": "Open" },
+    { "id": "dn-wk4", "n": 5, "title": "Lock the rest of Week 4", "desc": "CPR is locked for Thursday July 30 (approved). Still need Keosha's health day (7/29 or 7/30) and Zipporah's Financial Wellness date.", "chip": "warn", "chipText": "Open" },
+    { "id": "dn-texts", "n": 6, "title": "Confirm Week 3 texts", "desc": "Moe (7/21, noon), DeQuan (7/23, 11a), Darryl (8/6, 11a).", "chip": "warn", "chipText": "Send" },
+    { "id": "dn-fam", "n": 7, "title": "Confirm the two bounced families are set for the rest", "desc": "Two addresses bounced on the July 6 all-family email. Week 1 is done. Confirm both families by text or call that they have the schedule for the remaining weeks. One of the two also has a working gmail on the same thread.", "chip": "warn", "chipText": "Confirm two" }
   ],
   "weeks": [
     { "num": "WEEK 1", "title": "Work Readiness & AI Foundations", "dates": "Jul 7–10", "items": [
@@ -75,7 +74,7 @@
     { "num": "WEEK 4", "title": "College Prep & Healthy Living", "dates": "Jul 27–31", "items": [
       { "dot": "g", "name": "Wayne State Campus Day (field trip)", "who": "Stacie Clayton — Tue 7/28, full day — confirmed" },
       { "dot": "a", "name": "Health & Wellness", "who": "Keosha King + daughter — 7/29 or 7/30" },
-      { "dot": "a", "name": "CPR & First Aid Cert", "who": "Tasha, RN (AHA) — 7/29 or 7/30, 2 hrs" },
+      { "dot": "g", "name": "CPR & First Aid Cert", "who": "Natosha Gurley, RN — Rhythm of Life — Thu 7/30, ~2 hrs — approved" },
       { "dot": "g", "name": "SEL", "who": "Shantael Harbin — Wed 7/29, 5p (invoice to pay)" },
       { "dot": "r", "name": "Mental Health", "who": "Needs a name" }
     ]},
@@ -110,11 +109,11 @@
   "status": {
     "stats": [
       { "v": "15", "l": "Youth locked" },
-      { "v": "Thu", "l": "Today, in person" },
+      { "v": "Fri", "l": "Today, virtual" },
       { "v": "$2,340", "l": "Budget set" }
     ],
     "items": [
-      { "title": "First day is behind us", "desc": "Wednesday opened the program: orientation with you and Je'Tina, the DOL at 11, then AI Day Part 1 and 2. Thursday is Workplace Foundations, in person 10 to 2. Tuesday stayed off for the power outage and everyone was paid.", "chip": "done", "chipText": "Underway" },
+      { "title": "Week 1 in-person days are done", "desc": "Wednesday opened the program: orientation, the DOL, then AI Day Part 1 and 2. Thursday was Workplace Foundations, in person 10 to 2. Friday is virtual and async, youth submit their Capstone Kickoff. Financial Literacy starts Monday.", "chip": "done", "chipText": "Underway" },
       { "title": "Roster locked", "desc": "15 youth (9 young women, 6 young men, ages 14–19).", "chip": "done", "chipText": "Done" },
       { "title": "Orientation delivered", "desc": "Deck, family agenda, take-home guide, registration form all out.", "chip": "done", "chipText": "Done" },
       { "title": "Budget set — $2,340", "desc": "Food $600 · SEL $1,500 · CPR $240.", "chip": "done", "chipText": "Done" },
