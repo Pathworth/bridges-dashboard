@@ -1,7 +1,7 @@
 {
-  "updated": "July 10, 2026. Day three, Friday, virtual and async, Capstone Kickoff. Week 1 in-person days are behind us. New this morning: Kamilia approved the CPR certification for all 15 youth, so Week 4 CPR is locked.",
+  "updated": "July 11, 2026. Saturday, weekend. Week 1 is fully done, three in-person days plus Friday's async Capstone Kickoff. Financial Literacy starts Monday. CPR is locked for all 15 youth; Kamilia now wants the cost to add staff and youth council.",
   "firstDay": "2026-07-08",
-  "headline": "Today is Friday July 10, virtual and asynchronous. Youth submit their Capstone Kickoff on their own time. Week 1 wraps here, Financial Literacy starts Monday. CPR is now approved and locked for Thursday July 30.",
+  "headline": "It's the weekend. Week 1 is behind us, orientation, DOL, AI Day, Workplace Foundations, and the Friday Capstone Kickoff. Monday July 13 opens Week 2, Financial Literacy. CPR is approved and locked for Thursday July 30.",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)", "tag": "No power at the Branch after Friday's storm",
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "day": "FRIDAY, July 10 (TODAY)", "tag": "Virtual · asynchronous", "note": "Today. Virtual and self-paced. Youth submit their Capstone Kickoff on their own time. No live session, so weather is not a factor today.",
+      "day": "FRIDAY, July 10", "tag": "Done. Virtual · asynchronous", "note": "Done. Virtual and self-paced. Youth submitted their Capstone Kickoff on their own time. This closed out Week 1.",
       "sessions": [
         { "id": "f10-1", "time": "Async", "activity": "Capstone Kickoff Submission", "who": "Youth, self-paced" }
       ]
@@ -109,11 +109,11 @@
   "status": {
     "stats": [
       { "v": "15", "l": "Youth locked" },
-      { "v": "Fri", "l": "Today, virtual" },
+      { "v": "Wk 2", "l": "Starts Monday" },
       { "v": "$2,340", "l": "Budget set" }
     ],
     "items": [
-      { "title": "Week 1 in-person days are done", "desc": "Wednesday opened the program: orientation, the DOL, then AI Day Part 1 and 2. Thursday was Workplace Foundations, in person 10 to 2. Friday is virtual and async, youth submit their Capstone Kickoff. Financial Literacy starts Monday.", "chip": "done", "chipText": "Underway" },
+      { "title": "Week 1 is fully done", "desc": "Wednesday opened the program: orientation, the DOL, then AI Day Part 1 and 2. Thursday was Workplace Foundations, in person 10 to 2. Friday was virtual and async, youth submitted their Capstone Kickoff. It's the weekend now. Financial Literacy starts Monday.", "chip": "done", "chipText": "Week 1 done" },
       { "title": "Roster locked", "desc": "15 youth (9 young women, 6 young men, ages 14–19).", "chip": "done", "chipText": "Done" },
       { "title": "Orientation delivered", "desc": "Deck, family agenda, take-home guide, registration form all out.", "chip": "done", "chipText": "Done" },
       { "title": "Budget set — $2,340", "desc": "Food $600 · SEL $1,500 · CPR $240.", "chip": "done", "chipText": "Done" },
