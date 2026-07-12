@@ -1,127 +1,488 @@
 {
-  "updated": "July 12, 2026. Sunday. Week 2, Financial Literacy, opens tomorrow. Two participants (a brother and sister) wrote in asking to go virtual July 20 to 29 and said they are fully out July 21 to 24, which is the in-person core of Week 3. They need a reply and a virtual plan. Huntington's Courtney Elledge still cannot do Banking 101 this year, she offered materials, so the banking side of Week 2 needs a new plan fast. CPR is locked for all 15 youth; Kamilia still wants the cost to add staff and youth council.",
+  "updated": "July 12, 2026. Week 2 Financial Literacy is fully built: six session guides, decks with the prompts on screen, the student Money Workbook, the Game of Life materials, and a scan-in hub for the youth. Banking and credit partners are still open.",
   "firstDay": "2026-07-08",
   "headline": "Week 2, Financial Literacy, opens tomorrow (Monday July 13). Huntington backed out of Banking 101 this year, so both the banking and credit sessions now need a partner. YNAB with Jermaine is set. CPR is approved and locked for Thursday July 30.",
   "week1": [
     {
-      "day": "TUESDAY, July 7 (CANCELED)", "tag": "No power at the Branch after Friday's storm",
+      "day": "TUESDAY, July 7 (CANCELED)",
+      "tag": "No power at the Branch after Friday's storm",
       "note": "Canceled. Orientation moves to Wednesday. Everyone still gets paid for this day. Families were notified the night of July 6.",
       "sessions": [
-        { "id": "t7-1", "time": "10:00–11:00", "activity": "Welcome + Building Tour", "who": "Jermaine" },
-        { "id": "t7-2", "time": "11:00–12:00", "activity": "Team-Building", "who": "Je'Tina" },
-        { "id": "t7-3", "time": "12:00–1:00", "activity": "Program Overview + Expectations", "who": "Jermaine" },
-        { "id": "t7-4", "time": "1:00–2:00", "activity": "Capstone Introduction", "who": "Jermaine" }
+        {
+          "id": "t7-1",
+          "time": "10:00–11:00",
+          "activity": "Welcome + Building Tour",
+          "who": "Jermaine"
+        },
+        {
+          "id": "t7-2",
+          "time": "11:00–12:00",
+          "activity": "Team-Building",
+          "who": "Je'Tina"
+        },
+        {
+          "id": "t7-3",
+          "time": "12:00–1:00",
+          "activity": "Program Overview + Expectations",
+          "who": "Jermaine"
+        },
+        {
+          "id": "t7-4",
+          "time": "1:00–2:00",
+          "activity": "Capstone Introduction",
+          "who": "Jermaine"
+        }
       ]
     },
     {
-      "day": "WEDNESDAY, July 8, the first day", "tag": "Done. Orientation plus U.S. DOL, in person 10 to 2",
+      "day": "WEDNESDAY, July 8, the first day",
+      "tag": "Done. Orientation plus U.S. DOL, in person 10 to 2",
       "note": "Done. This was the first day. Orientation with Jermaine and Je'Tina, the U.S. Department of Labor (Mildred Kress) on wages and workplace rights, then AI Day Part 1 and Part 2.",
       "sessions": [
-        { "id": "w8-1", "time": "10:00–11:00", "activity": "Team-Building + Check-In", "who": "Je'Tina" },
-        { "id": "w8-2", "time": "11:00–12:00", "activity": "U.S. DOL Workplace Rights", "who": "Mildred Kress, U.S. DOL — confirmed" },
-        { "id": "w8-3", "time": "12:00–12:15", "activity": "Presenter Reflection Circle", "who": "Jermaine" },
-        { "id": "w8-4", "time": "12:15–1:00", "activity": "AI Day Part 1 — What AI Really Is", "who": "Jermaine — guide + deck built" },
-        { "id": "w8-5", "time": "1:00–2:00", "activity": "AI Day Part 2 — Resume From Zero", "who": "Jermaine — guide + deck built" }
+        {
+          "id": "w8-1",
+          "time": "10:00–11:00",
+          "activity": "Team-Building + Check-In",
+          "who": "Je'Tina"
+        },
+        {
+          "id": "w8-2",
+          "time": "11:00–12:00",
+          "activity": "U.S. DOL Workplace Rights",
+          "who": "Mildred Kress, U.S. DOL — confirmed"
+        },
+        {
+          "id": "w8-3",
+          "time": "12:00–12:15",
+          "activity": "Presenter Reflection Circle",
+          "who": "Jermaine"
+        },
+        {
+          "id": "w8-4",
+          "time": "12:15–1:00",
+          "activity": "AI Day Part 1 — What AI Really Is",
+          "who": "Jermaine — guide + deck built"
+        },
+        {
+          "id": "w8-5",
+          "time": "1:00–2:00",
+          "activity": "AI Day Part 2 — Resume From Zero",
+          "who": "Jermaine — guide + deck built"
+        }
       ]
     },
     {
-      "day": "THURSDAY, July 9", "tag": "Done. Workplace Foundations · in person, 10–2",
+      "day": "THURSDAY, July 9",
+      "tag": "Done. Workplace Foundations · in person, 10–2",
       "note": "Done. Day two, in person 10 to 2. Team-building and AI reflection, a built work-readiness session, then Workplace Ethics Court and Time Management.",
       "sessions": [
-        { "id": "h9-1", "time": "10:00–11:00", "activity": "Team-Building + AI Day Reflection", "who": "Je'Tina" },
-        { "id": "h9-2", "time": "11:00–12:00", "activity": "Slot a built session (Interview / Job Post / Decode)", "who": "Jermaine — pick one, all built" },
-        { "id": "h9-3", "time": "12:00–12:15", "activity": "Presenter Reflection Circle", "who": "Jermaine" },
-        { "id": "h9-4", "time": "12:15–1:00", "activity": "Workplace Ethics Court", "who": "Jermaine — guide + deck built" },
-        { "id": "h9-5", "time": "1:00–2:00", "activity": "Time Management Setup", "who": "Jermaine — guide + deck built" }
+        {
+          "id": "h9-1",
+          "time": "10:00–11:00",
+          "activity": "Team-Building + AI Day Reflection",
+          "who": "Je'Tina"
+        },
+        {
+          "id": "h9-2",
+          "time": "11:00–12:00",
+          "activity": "Slot a built session (Interview / Job Post / Decode)",
+          "who": "Jermaine — pick one, all built"
+        },
+        {
+          "id": "h9-3",
+          "time": "12:00–12:15",
+          "activity": "Presenter Reflection Circle",
+          "who": "Jermaine"
+        },
+        {
+          "id": "h9-4",
+          "time": "12:15–1:00",
+          "activity": "Workplace Ethics Court",
+          "who": "Jermaine — guide + deck built"
+        },
+        {
+          "id": "h9-5",
+          "time": "1:00–2:00",
+          "activity": "Time Management Setup",
+          "who": "Jermaine — guide + deck built"
+        }
       ]
     },
     {
-      "day": "FRIDAY, July 10", "tag": "Done. Virtual · asynchronous", "note": "Done. Virtual and self-paced. Youth submitted their Capstone Kickoff on their own time. This closed out Week 1.",
+      "day": "FRIDAY, July 10",
+      "tag": "Done. Virtual · asynchronous",
+      "note": "Done. Virtual and self-paced. Youth submitted their Capstone Kickoff on their own time. This closed out Week 1.",
       "sessions": [
-        { "id": "f10-1", "time": "Async", "activity": "Capstone Kickoff Submission", "who": "Youth, self-paced" }
+        {
+          "id": "f10-1",
+          "time": "Async",
+          "activity": "Capstone Kickoff Submission",
+          "who": "Youth, self-paced"
+        }
       ]
     }
   ],
   "doNow": [
-    { "id": "dn-cpr-cost", "n": 1, "title": "Price CPR for staff and youth council", "desc": "Kamilia approved the CPR and First Aid cert for all 15 youth (Natosha Gurley, RN, $12 each, about $180). She now wants the total cost to also certify staff and some youth council members. Natosha is open to more people. Get a headcount and send Kamilia the number.", "chip": "warn", "chipText": "Get a price" },
-    { "id": "dn-app", "n": 2, "title": "Get the 15 youth into the GDYT Empower App", "desc": "Kelsey at Connect Detroit sent the app sign-up reminder with a youth instructions deck. The app's modules also satisfy the GDYT financial literacy requirement, and it's separate from payroll. Connect Detroit will send weekly emails showing who still needs to register, so get everyone in early.", "chip": "warn", "chipText": "Register" },
-    { "id": "dn-shantael", "n": 3, "title": "Pay Shantael's SEL invoice", "desc": "$1,500, still open.", "chip": "warn", "chipText": "Pay" },
-    { "id": "dn-bank", "n": 4, "title": "Cover the banking side of Week 2 (Huntington out)", "desc": "Courtney Elledge at Huntington wrote back and cannot do Banking 101 this year. She offered to send financial education and banking materials for the youth to use during the week. So now both Banking 101 (Thu isn't set) and the credit session need a plan. Take her materials, and either find a fast replacement or have Jermaine run Banking 101. Week 2 opens tomorrow.", "chip": "warn", "chipText": "Urgent" },
-    { "id": "dn-wk4", "n": 5, "title": "Lock the rest of Week 4", "desc": "CPR is locked for Thursday July 30 (approved). Still need Keosha's health day (7/29 or 7/30) and Zipporah's Financial Wellness date.", "chip": "warn", "chipText": "Open" },
-    { "id": "dn-texts", "n": 6, "title": "Confirm Week 3 texts", "desc": "Moe (7/21, noon), DeQuan (7/23, 11a), Darryl (8/6, 11a).", "chip": "warn", "chipText": "Send" },
-    { "id": "dn-virtual", "n": 7, "title": "Answer the two Week 3 virtual requests", "desc": "A brother and sister both emailed July 12 asking to work virtually July 20 to 29, and they are fully out July 21 to 24. That covers the in-person heart of Week 3 (Dream Car Reveal Tue 7/21, Entrepreneur Panel Thu 7/23). Reply to work out a virtual plan for those days so they stay on payroll and don't fall behind on the Capstone.", "chip": "warn", "chipText": "Reply" },
-    { "id": "dn-fam", "n": 8, "title": "Confirm the two bounced families are set for the rest", "desc": "Two addresses bounced on the July 6 all-family email. Week 1 is done. Confirm both families by text or call that they have the schedule for the remaining weeks. One of the two also has a working gmail on the same thread.", "chip": "warn", "chipText": "Confirm two" }
+    {
+      "id": "dn-cpr-cost",
+      "n": 1,
+      "title": "Price CPR for staff and youth council",
+      "desc": "Kamilia approved the CPR and First Aid cert for all 15 youth (Natosha Gurley, RN, $12 each, about $180). She now wants the total cost to also certify staff and some youth council members. Natosha is open to more people. Get a headcount and send Kamilia the number.",
+      "chip": "warn",
+      "chipText": "Get a price"
+    },
+    {
+      "id": "dn-app",
+      "n": 2,
+      "title": "Get the 15 youth into the GDYT Empower App",
+      "desc": "Kelsey at Connect Detroit sent the app sign-up reminder with a youth instructions deck. The app's modules also satisfy the GDYT financial literacy requirement, and it's separate from payroll. Connect Detroit will send weekly emails showing who still needs to register, so get everyone in early.",
+      "chip": "warn",
+      "chipText": "Register"
+    },
+    {
+      "id": "dn-shantael",
+      "n": 3,
+      "title": "Pay Shantael's SEL invoice",
+      "desc": "$1,500, still open.",
+      "chip": "warn",
+      "chipText": "Pay"
+    },
+    {
+      "id": "dn-bank",
+      "n": 4,
+      "title": "Cover the banking side of Week 2 (Huntington out)",
+      "desc": "Courtney Elledge at Huntington wrote back and cannot do Banking 101 this year. She offered to send financial education and banking materials for the youth to use during the week. So now both Banking 101 (Thu isn't set) and the credit session need a plan. Take her materials, and either find a fast replacement or have Jermaine run Banking 101. Week 2 opens tomorrow.",
+      "chip": "warn",
+      "chipText": "Urgent"
+    },
+    {
+      "id": "dn-wk4",
+      "n": 5,
+      "title": "Lock the rest of Week 4",
+      "desc": "CPR is locked for Thursday July 30 (approved). Still need Keosha's health day (7/29 or 7/30) and Zipporah's Financial Wellness date.",
+      "chip": "warn",
+      "chipText": "Open"
+    },
+    {
+      "id": "dn-texts",
+      "n": 6,
+      "title": "Confirm Week 3 texts",
+      "desc": "Moe (7/21, noon), DeQuan (7/23, 11a), Darryl (8/6, 11a).",
+      "chip": "warn",
+      "chipText": "Send"
+    },
+    {
+      "id": "dn-virtual",
+      "n": 7,
+      "title": "Answer the two Week 3 virtual requests",
+      "desc": "A brother and sister both emailed July 12 asking to work virtually July 20 to 29, and they are fully out July 21 to 24. That covers the in-person heart of Week 3 (Dream Car Reveal Tue 7/21, Entrepreneur Panel Thu 7/23). Reply to work out a virtual plan for those days so they stay on payroll and don't fall behind on the Capstone.",
+      "chip": "warn",
+      "chipText": "Reply"
+    },
+    {
+      "id": "dn-fam",
+      "n": 8,
+      "title": "Confirm the two bounced families are set for the rest",
+      "desc": "Two addresses bounced on the July 6 all-family email. Week 1 is done. Confirm both families by text or call that they have the schedule for the remaining weeks. One of the two also has a working gmail on the same thread.",
+      "chip": "warn",
+      "chipText": "Confirm two"
+    }
   ],
   "weeks": [
-    { "num": "WEEK 1", "title": "Work Readiness & AI Foundations", "dates": "Jul 7–10", "items": [
-      { "dot": "g", "name": "Orientation Day (Wed)", "who": "Jermaine + Je'Tina — ready" },
-      { "dot": "g", "name": "DOL Workplace Rights (Wed)", "who": "Mildred Kress, U.S. DOL — confirmed" },
-      { "dot": "g", "name": "Session 1: What AI Really Is", "who": "Jermaine — guide + deck built" },
-      { "dot": "g", "name": "Resume, Interview, Job Post", "who": "Jermaine — 3 sessions built" },
-      { "dot": "g", "name": "Workplace Ethics Court", "who": "Jermaine — guide + deck built" },
-      { "dot": "g", "name": "Time Management Setup", "who": "Jermaine — guide + deck built" }
-    ]},
-    { "num": "WEEK 2", "title": "Financial Literacy", "dates": "Jul 13–17", "items": [
-      { "dot": "g", "name": "Curriculum built, 6 sessions", "who": "Guides, decks, and student QR docs, in Curriculum/Week 2" },
-      { "dot": "g", "name": "Four Rules, AI Budget, Raising Your Zero", "who": "Jermaine — Wednesday" },
-      { "dot": "g", "name": "The Game of Life", "who": "Je'Tina — Thursday, 2-hour station game, built" },
-      { "dot": "r", "name": "Banking + Credit partner", "who": "Huntington out, sending materials. Still need a bank partner or Jermaine runs it." },
-      { "dot": "a", "name": "Financial Wellness (Zipporah)", "who": "Held this week, not followed up yet" }
-    ]},
-    { "num": "WEEK 3", "title": "Entrepreneurship & AI for Creators", "dates": "Jul 20–24", "items": [
-      { "dot": "a", "name": "Dream Car Reveal", "who": "Moe Kebe — Tue 7/21, noon (text to send)" },
-      { "dot": "a", "name": "Entrepreneur Panel", "who": "DeQuan Mixon — Thu 7/23, 11a (+1–2 more)" },
-      { "dot": "g", "name": "Branding & AI for Creators", "who": "Jermaine" }
-    ]},
-    { "num": "WEEK 4", "title": "College Prep & Healthy Living", "dates": "Jul 27–31", "items": [
-      { "dot": "g", "name": "Wayne State Campus Day (field trip)", "who": "Stacie Clayton — Tue 7/28, full day — confirmed" },
-      { "dot": "a", "name": "Health & Wellness", "who": "Keosha King + daughter — 7/29 or 7/30" },
-      { "dot": "g", "name": "CPR & First Aid Cert", "who": "Natosha Gurley, RN — Rhythm of Life — Thu 7/30, ~2 hrs — approved" },
-      { "dot": "g", "name": "SEL", "who": "Shantael Harbin — Wed 7/29, 5p (invoice to pay)" },
-      { "dot": "r", "name": "Mental Health", "who": "Needs a name" }
-    ]},
-    { "num": "WEEK 5", "title": "NAACP Week · Civic Engagement & AI Ethics", "dates": "Aug 3–7", "items": [
-      { "dot": "g", "name": "Election Day Voter Hotline", "who": "Jermaine + NAACP staff — Tue 8/4" },
-      { "dot": "a", "name": "Better Together, Civic Engagement", "who": "Darryl Woods — Thu 8/6, 11a (text to send)" },
-      { "dot": "r", "name": "NAACP Political Education", "who": "Needs a presenter" },
-      { "dot": "g", "name": "AI Ethics Day", "who": "Jermaine" }
-    ]},
-    { "num": "WEEK 6", "title": "Capstone & Career", "dates": "Aug 10–14", "items": [
-      { "dot": "g", "name": "Capstone polish & final practice", "who": "Jermaine" },
-      { "dot": "g", "name": "Capstone Presentations to the ED", "who": "Kamilia Landrum — Thu 8/13" }
-    ]}
+    {
+      "num": "WEEK 1",
+      "title": "Work Readiness & AI Foundations",
+      "dates": "Jul 7–10",
+      "items": [
+        {
+          "dot": "g",
+          "name": "Orientation Day (Wed)",
+          "who": "Jermaine + Je'Tina — ready"
+        },
+        {
+          "dot": "g",
+          "name": "DOL Workplace Rights (Wed)",
+          "who": "Mildred Kress, U.S. DOL — confirmed"
+        },
+        {
+          "dot": "g",
+          "name": "Session 1: What AI Really Is",
+          "who": "Jermaine — guide + deck built"
+        },
+        {
+          "dot": "g",
+          "name": "Resume, Interview, Job Post",
+          "who": "Jermaine — 3 sessions built"
+        },
+        {
+          "dot": "g",
+          "name": "Workplace Ethics Court",
+          "who": "Jermaine — guide + deck built"
+        },
+        {
+          "dot": "g",
+          "name": "Time Management Setup",
+          "who": "Jermaine — guide + deck built"
+        }
+      ]
+    },
+    {
+      "num": "WEEK 2",
+      "title": "Financial Literacy",
+      "dates": "Jul 13–17",
+      "items": [
+        {
+          "dot": "g",
+          "name": "Curriculum built, 6 sessions + Game of Life",
+          "who": "Guides, decks, workbook, student hub QR, all in Curriculum/Week 2"
+        },
+        {
+          "dot": "g",
+          "name": "YNAB, AI Budget, Raising Your Zero",
+          "who": "Jermaine, built from your 2024 programs"
+        },
+        {
+          "dot": "r",
+          "name": "Banking 101 partner",
+          "who": "Huntington out. Jermaine covers it or find a partner."
+        },
+        {
+          "dot": "r",
+          "name": "Credit session partner",
+          "who": "Still open"
+        },
+        {
+          "dot": "a",
+          "name": "Financial Wellness (Zipporah)",
+          "who": "Held for this week"
+        }
+      ]
+    },
+    {
+      "num": "WEEK 3",
+      "title": "Entrepreneurship & AI for Creators",
+      "dates": "Jul 20–24",
+      "items": [
+        {
+          "dot": "a",
+          "name": "Dream Car Reveal",
+          "who": "Moe Kebe — Tue 7/21, noon (text to send)"
+        },
+        {
+          "dot": "a",
+          "name": "Entrepreneur Panel",
+          "who": "DeQuan Mixon — Thu 7/23, 11a (+1–2 more)"
+        },
+        {
+          "dot": "g",
+          "name": "Branding & AI for Creators",
+          "who": "Jermaine"
+        }
+      ]
+    },
+    {
+      "num": "WEEK 4",
+      "title": "College Prep & Healthy Living",
+      "dates": "Jul 27–31",
+      "items": [
+        {
+          "dot": "g",
+          "name": "Wayne State Campus Day (field trip)",
+          "who": "Stacie Clayton — Tue 7/28, full day — confirmed"
+        },
+        {
+          "dot": "a",
+          "name": "Health & Wellness",
+          "who": "Keosha King + daughter — 7/29 or 7/30"
+        },
+        {
+          "dot": "g",
+          "name": "CPR & First Aid Cert",
+          "who": "Natosha Gurley, RN — Rhythm of Life — Thu 7/30, ~2 hrs — approved"
+        },
+        {
+          "dot": "g",
+          "name": "SEL",
+          "who": "Shantael Harbin — Wed 7/29, 5p (invoice to pay)"
+        },
+        {
+          "dot": "r",
+          "name": "Mental Health",
+          "who": "Needs a name"
+        }
+      ]
+    },
+    {
+      "num": "WEEK 5",
+      "title": "NAACP Week · Civic Engagement & AI Ethics",
+      "dates": "Aug 3–7",
+      "items": [
+        {
+          "dot": "g",
+          "name": "Election Day Voter Hotline",
+          "who": "Jermaine + NAACP staff — Tue 8/4"
+        },
+        {
+          "dot": "a",
+          "name": "Better Together, Civic Engagement",
+          "who": "Darryl Woods — Thu 8/6, 11a (text to send)"
+        },
+        {
+          "dot": "r",
+          "name": "NAACP Political Education",
+          "who": "Needs a presenter"
+        },
+        {
+          "dot": "g",
+          "name": "AI Ethics Day",
+          "who": "Jermaine"
+        }
+      ]
+    },
+    {
+      "num": "WEEK 6",
+      "title": "Capstone & Career",
+      "dates": "Aug 10–14",
+      "items": [
+        {
+          "dot": "g",
+          "name": "Capstone polish & final practice",
+          "who": "Jermaine"
+        },
+        {
+          "dot": "g",
+          "name": "Capstone Presentations to the ED",
+          "who": "Kamilia Landrum — Thu 8/13"
+        }
+      ]
+    }
   ],
   "inbox": {
     "waiting": [
-      { "name": "Monique Johnson (DTE)", "note": "New DTE presenter, Mark connected her. You emailed her Jul 2. She is not free Week 1, so DTE moves to a later week. No reply yet (DTE had a big storm/outage over the weekend).", "chip": "wait", "chipText": "No reply yet" },
-      { "name": "Zipporah Bolar", "note": "Checking her schedule for the Financial Wellness session (Week 2 or 4).", "chip": "wait", "chipText": "Pending reply" },
-      { "name": "GDYT payroll pivot", "note": "MOF isn't ready for Payroll 1. Agencies report hours instead; Nicole Hill sends a customized sheet. Connect Detroit ran payroll trainings June 30 and July 7 (refresher). Watch for the sheet, be ready for Payroll 2.", "chip": "wait", "chipText": "Watch for sheet" },
-      { "name": "GDYT Empower App", "note": "Kelsey (Connect Detroit) sent app sign-up instructions Jul 6, with a youth how-to deck attached. Youth register in the Empower App; its modules cover the GDYT financial literacy requirement (separate from payroll). Connect Detroit sends weekly emails flagging who still needs to register.", "chip": "wait", "chipText": "Register youth" }
+      {
+        "name": "Monique Johnson (DTE)",
+        "note": "New DTE presenter, Mark connected her. You emailed her Jul 2. She is not free Week 1, so DTE moves to a later week. No reply yet (DTE had a big storm/outage over the weekend).",
+        "chip": "wait",
+        "chipText": "No reply yet"
+      },
+      {
+        "name": "Zipporah Bolar",
+        "note": "Checking her schedule for the Financial Wellness session (Week 2 or 4).",
+        "chip": "wait",
+        "chipText": "Pending reply"
+      },
+      {
+        "name": "GDYT payroll pivot",
+        "note": "MOF isn't ready for Payroll 1. Agencies report hours instead; Nicole Hill sends a customized sheet. Connect Detroit ran payroll trainings June 30 and July 7 (refresher). Watch for the sheet, be ready for Payroll 2.",
+        "chip": "wait",
+        "chipText": "Watch for sheet"
+      },
+      {
+        "name": "GDYT Empower App",
+        "note": "Kelsey (Connect Detroit) sent app sign-up instructions Jul 6, with a youth how-to deck attached. Youth register in the Empower App; its modules cover the GDYT financial literacy requirement (separate from payroll). Connect Detroit sends weekly emails flagging who still needs to register.",
+        "chip": "wait",
+        "chipText": "Register youth"
+      }
     ],
     "needs": [
-      { "name": "Shantael Harbin", "note": "SEL confirmed, invoice sent. Pay the $1,500.", "chip": "warn", "chipText": "Pay invoice" },
-      { "name": "Two participants, Week 3 virtual", "note": "A brother and sister both emailed July 12 (parent copied) asking to go virtual July 20 to 29, fully out July 21 to 24. That is the in-person core of Week 3. Reply and set a virtual plan so they keep hours and stay on the Capstone.", "chip": "warn", "chipText": "Reply" }
+      {
+        "name": "Shantael Harbin",
+        "note": "SEL confirmed, invoice sent. Pay the $1,500.",
+        "chip": "warn",
+        "chipText": "Pay invoice"
+      },
+      {
+        "name": "Two participants, Week 3 virtual",
+        "note": "A brother and sister both emailed July 12 (parent copied) asking to go virtual July 20 to 29, fully out July 21 to 24. That is the in-person core of Week 3. Reply and set a virtual plan so they keep hours and stay on the Capstone.",
+        "chip": "warn",
+        "chipText": "Reply"
+      }
     ],
     "closed": [
-      { "name": "Huntington (Courtney Elledge)", "note": "Replied July 10. Cannot do Banking 101 in person this year, her schedule got too tight. She offered to send financial education and banking materials for the youth to use during the week. Banking 101 now needs a plan (see Do Now).", "chip": "warn", "chipText": "Declined" },
-      { "name": "Week 1 logistics sent to families", "note": "All-family email went out the night of July 6: no Tuesday, start Wednesday July 8, 10 to 2, bring a device, Tuesday pay covered. Two addresses bounced on July 7, follow up with those two families by phone.", "chip": "done", "chipText": "Sent" },
-      { "name": "DTE reply sent", "note": "Emailed Monique + Mark on Jul 2 with the full picture, open to her schedule.", "chip": "done", "chipText": "Done" },
-      { "name": "Gwen (GDYT)", "note": "Kevin approved, Nathan & Amani removed. Roster locked at 15.", "chip": "done", "chipText": "Done" },
-      { "name": "Kamilia, Micah, Keosha", "note": "You answered all three yourself (budget, Tristan, Week 4 health).", "chip": "done", "chipText": "Done" }
+      {
+        "name": "Huntington (Courtney Elledge)",
+        "note": "Replied July 10. Cannot do Banking 101 in person this year, her schedule got too tight. She offered to send financial education and banking materials for the youth to use during the week. Banking 101 now needs a plan (see Do Now).",
+        "chip": "warn",
+        "chipText": "Declined"
+      },
+      {
+        "name": "Week 1 logistics sent to families",
+        "note": "All-family email went out the night of July 6: no Tuesday, start Wednesday July 8, 10 to 2, bring a device, Tuesday pay covered. Two addresses bounced on July 7, follow up with those two families by phone.",
+        "chip": "done",
+        "chipText": "Sent"
+      },
+      {
+        "name": "DTE reply sent",
+        "note": "Emailed Monique + Mark on Jul 2 with the full picture, open to her schedule.",
+        "chip": "done",
+        "chipText": "Done"
+      },
+      {
+        "name": "Gwen (GDYT)",
+        "note": "Kevin approved, Nathan & Amani removed. Roster locked at 15.",
+        "chip": "done",
+        "chipText": "Done"
+      },
+      {
+        "name": "Kamilia, Micah, Keosha",
+        "note": "You answered all three yourself (budget, Tristan, Week 4 health).",
+        "chip": "done",
+        "chipText": "Done"
+      }
     ]
   },
   "status": {
     "stats": [
-      { "v": "15", "l": "Youth locked" },
-      { "v": "Wk 2", "l": "Starts Monday" },
-      { "v": "$2,340", "l": "Budget set" }
+      {
+        "v": "15",
+        "l": "Youth locked"
+      },
+      {
+        "v": "Wk 2",
+        "l": "Starts Monday"
+      },
+      {
+        "v": "$2,340",
+        "l": "Budget set"
+      }
     ],
     "items": [
-      { "title": "Week 1 is fully done", "desc": "Wednesday opened the program: orientation, the DOL, then AI Day Part 1 and 2. Thursday was Workplace Foundations, in person 10 to 2. Friday was virtual and async, youth submitted their Capstone Kickoff. It's the weekend now. Financial Literacy starts Monday.", "chip": "done", "chipText": "Week 1 done" },
-      { "title": "Roster locked", "desc": "15 youth (9 young women, 6 young men, ages 14–19).", "chip": "done", "chipText": "Done" },
-      { "title": "Orientation delivered", "desc": "Deck, family agenda, take-home guide, registration form all out.", "chip": "done", "chipText": "Done" },
-      { "title": "Budget set — $2,340", "desc": "Food $600 · SEL $1,500 · CPR $240.", "chip": "done", "chipText": "Done" },
-      { "title": "Week 1 curriculum built", "desc": "All 6 sessions (guide + Signature deck), the Day One intake sheet, and a START HERE map. Volunteer-runnable, free ChatGPT. In Curriculum/Week 1.", "chip": "done", "chipText": "Done" }
+      {
+        "title": "Week 1 is fully done",
+        "desc": "Wednesday opened the program: orientation, the DOL, then AI Day Part 1 and 2. Thursday was Workplace Foundations, in person 10 to 2. Friday was virtual and async, youth submitted their Capstone Kickoff. It's the weekend now. Financial Literacy starts Monday.",
+        "chip": "done",
+        "chipText": "Week 1 done"
+      },
+      {
+        "title": "Roster locked",
+        "desc": "15 youth (9 young women, 6 young men, ages 14–19).",
+        "chip": "done",
+        "chipText": "Done"
+      },
+      {
+        "title": "Orientation delivered",
+        "desc": "Deck, family agenda, take-home guide, registration form all out.",
+        "chip": "done",
+        "chipText": "Done"
+      },
+      {
+        "title": "Budget set — $2,340",
+        "desc": "Food $600 · SEL $1,500 · CPR $240.",
+        "chip": "done",
+        "chipText": "Done"
+      },
+      {
+        "title": "Week 1 curriculum built",
+        "desc": "All 6 sessions (guide + Signature deck), the Day One intake sheet, and a START HERE map. Volunteer-runnable, free ChatGPT. In Curriculum/Week 1.",
+        "chip": "done",
+        "chipText": "Done"
+      },
+      {
+        "title": "Week 2 curriculum built",
+        "desc": "Six sessions with guides and decks, the student Money Workbook, the Game of Life materials for Je'Tina, a ChatGPT setup, and a scan-in hub at pathworth.github.io/bridges-dashboard/week2.html. Prompts on the slides, written clean and reusable.",
+        "chip": "done",
+        "chipText": "Done"
+      }
     ]
   }
 }
