@@ -1,5 +1,5 @@
 {
-  "updated": "July 12, 2026. Sunday. Week 2, Financial Literacy, opens tomorrow. Huntington's Courtney Elledge wrote back and cannot do Banking 101 this year, she offered to send materials instead, so the banking side of Week 2 needs a new plan fast. CPR is locked for all 15 youth; Kamilia still wants the cost to add staff and youth council.",
+  "updated": "July 12, 2026. Sunday. Week 2, Financial Literacy, opens tomorrow. Two participants (a brother and sister) wrote in asking to go virtual July 20 to 29 and said they are fully out July 21 to 24, which is the in-person core of Week 3. They need a reply and a virtual plan. Huntington's Courtney Elledge still cannot do Banking 101 this year, she offered materials, so the banking side of Week 2 needs a new plan fast. CPR is locked for all 15 youth; Kamilia still wants the cost to add staff and youth council.",
   "firstDay": "2026-07-08",
   "headline": "Week 2, Financial Literacy, opens tomorrow (Monday July 13). Huntington backed out of Banking 101 this year, so both the banking and credit sessions now need a partner. YNAB with Jermaine is set. CPR is approved and locked for Thursday July 30.",
   "week1": [
@@ -49,7 +49,8 @@
     { "id": "dn-bank", "n": 4, "title": "Cover the banking side of Week 2 (Huntington out)", "desc": "Courtney Elledge at Huntington wrote back and cannot do Banking 101 this year. She offered to send financial education and banking materials for the youth to use during the week. So now both Banking 101 (Thu isn't set) and the credit session need a plan. Take her materials, and either find a fast replacement or have Jermaine run Banking 101. Week 2 opens tomorrow.", "chip": "warn", "chipText": "Urgent" },
     { "id": "dn-wk4", "n": 5, "title": "Lock the rest of Week 4", "desc": "CPR is locked for Thursday July 30 (approved). Still need Keosha's health day (7/29 or 7/30) and Zipporah's Financial Wellness date.", "chip": "warn", "chipText": "Open" },
     { "id": "dn-texts", "n": 6, "title": "Confirm Week 3 texts", "desc": "Moe (7/21, noon), DeQuan (7/23, 11a), Darryl (8/6, 11a).", "chip": "warn", "chipText": "Send" },
-    { "id": "dn-fam", "n": 7, "title": "Confirm the two bounced families are set for the rest", "desc": "Two addresses bounced on the July 6 all-family email. Week 1 is done. Confirm both families by text or call that they have the schedule for the remaining weeks. One of the two also has a working gmail on the same thread.", "chip": "warn", "chipText": "Confirm two" }
+    { "id": "dn-virtual", "n": 7, "title": "Answer the two Week 3 virtual requests", "desc": "A brother and sister both emailed July 12 asking to work virtually July 20 to 29, and they are fully out July 21 to 24. That covers the in-person heart of Week 3 (Dream Car Reveal Tue 7/21, Entrepreneur Panel Thu 7/23). Reply to work out a virtual plan for those days so they stay on payroll and don't fall behind on the Capstone.", "chip": "warn", "chipText": "Reply" },
+    { "id": "dn-fam", "n": 8, "title": "Confirm the two bounced families are set for the rest", "desc": "Two addresses bounced on the July 6 all-family email. Week 1 is done. Confirm both families by text or call that they have the schedule for the remaining weeks. One of the two also has a working gmail on the same thread.", "chip": "warn", "chipText": "Confirm two" }
   ],
   "weeks": [
     { "num": "WEEK 1", "title": "Work Readiness & AI Foundations", "dates": "Jul 7–10", "items": [
@@ -97,7 +98,8 @@
       { "name": "GDYT Empower App", "note": "Kelsey (Connect Detroit) sent app sign-up instructions Jul 6, with a youth how-to deck attached. Youth register in the Empower App; its modules cover the GDYT financial literacy requirement (separate from payroll). Connect Detroit sends weekly emails flagging who still needs to register.", "chip": "wait", "chipText": "Register youth" }
     ],
     "needs": [
-      { "name": "Shantael Harbin", "note": "SEL confirmed, invoice sent. Pay the $1,500.", "chip": "warn", "chipText": "Pay invoice" }
+      { "name": "Shantael Harbin", "note": "SEL confirmed, invoice sent. Pay the $1,500.", "chip": "warn", "chipText": "Pay invoice" },
+      { "name": "Two participants, Week 3 virtual", "note": "A brother and sister both emailed July 12 (parent copied) asking to go virtual July 20 to 29, fully out July 21 to 24. That is the in-person core of Week 3. Reply and set a virtual plan so they keep hours and stay on the Capstone.", "chip": "warn", "chipText": "Reply" }
     ],
     "closed": [
       { "name": "Huntington (Courtney Elledge)", "note": "Replied July 10. Cannot do Banking 101 in person this year, her schedule got too tight. She offered to send financial education and banking materials for the youth to use during the week. Banking 101 now needs a plan (see Do Now).", "chip": "warn", "chipText": "Declined" },
