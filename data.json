@@ -1,7 +1,7 @@
 {
-  "updated": "July 11, 2026. Saturday, weekend. Week 1 is fully done, three in-person days plus Friday's async Capstone Kickoff. Financial Literacy starts Monday. CPR is locked for all 15 youth; Kamilia now wants the cost to add staff and youth council.",
+  "updated": "July 12, 2026. Sunday. Week 2, Financial Literacy, opens tomorrow. Huntington's Courtney Elledge wrote back and cannot do Banking 101 this year, she offered to send materials instead, so the banking side of Week 2 needs a new plan fast. CPR is locked for all 15 youth; Kamilia still wants the cost to add staff and youth council.",
   "firstDay": "2026-07-08",
-  "headline": "It's the weekend. Week 1 is behind us, orientation, DOL, AI Day, Workplace Foundations, and the Friday Capstone Kickoff. Monday July 13 opens Week 2, Financial Literacy. CPR is approved and locked for Thursday July 30.",
+  "headline": "Week 2, Financial Literacy, opens tomorrow (Monday July 13). Huntington backed out of Banking 101 this year, so both the banking and credit sessions now need a partner. YNAB with Jermaine is set. CPR is approved and locked for Thursday July 30.",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)", "tag": "No power at the Branch after Friday's storm",
@@ -46,7 +46,7 @@
     { "id": "dn-cpr-cost", "n": 1, "title": "Price CPR for staff and youth council", "desc": "Kamilia approved the CPR and First Aid cert for all 15 youth (Natosha Gurley, RN, $12 each, about $180). She now wants the total cost to also certify staff and some youth council members. Natosha is open to more people. Get a headcount and send Kamilia the number.", "chip": "warn", "chipText": "Get a price" },
     { "id": "dn-app", "n": 2, "title": "Get the 15 youth into the GDYT Empower App", "desc": "Kelsey at Connect Detroit sent the app sign-up reminder with a youth instructions deck. The app's modules also satisfy the GDYT financial literacy requirement, and it's separate from payroll. Connect Detroit will send weekly emails showing who still needs to register, so get everyone in early.", "chip": "warn", "chipText": "Register" },
     { "id": "dn-shantael", "n": 3, "title": "Pay Shantael's SEL invoice", "desc": "$1,500, still open.", "chip": "warn", "chipText": "Pay" },
-    { "id": "dn-bank", "n": 4, "title": "Bank partner for Week 2 credit", "desc": "Thursday July 16, 11–12 is still open.", "chip": "warn", "chipText": "Open" },
+    { "id": "dn-bank", "n": 4, "title": "Cover the banking side of Week 2 (Huntington out)", "desc": "Courtney Elledge at Huntington wrote back and cannot do Banking 101 this year. She offered to send financial education and banking materials for the youth to use during the week. So now both Banking 101 (Thu isn't set) and the credit session need a plan. Take her materials, and either find a fast replacement or have Jermaine run Banking 101. Week 2 opens tomorrow.", "chip": "warn", "chipText": "Urgent" },
     { "id": "dn-wk4", "n": 5, "title": "Lock the rest of Week 4", "desc": "CPR is locked for Thursday July 30 (approved). Still need Keosha's health day (7/29 or 7/30) and Zipporah's Financial Wellness date.", "chip": "warn", "chipText": "Open" },
     { "id": "dn-texts", "n": 6, "title": "Confirm Week 3 texts", "desc": "Moe (7/21, noon), DeQuan (7/23, 11a), Darryl (8/6, 11a).", "chip": "warn", "chipText": "Send" },
     { "id": "dn-fam", "n": 7, "title": "Confirm the two bounced families are set for the rest", "desc": "Two addresses bounced on the July 6 all-family email. Week 1 is done. Confirm both families by text or call that they have the schedule for the remaining weeks. One of the two also has a working gmail on the same thread.", "chip": "warn", "chipText": "Confirm two" }
@@ -61,7 +61,7 @@
       { "dot": "g", "name": "Time Management Setup", "who": "Jermaine — guide + deck built" }
     ]},
     { "num": "WEEK 2", "title": "Financial Literacy", "dates": "Jul 13–17", "items": [
-      { "dot": "a", "name": "Banking 101", "who": "Huntington — Courtney Elledge, Kassie Kretzschmar (pending)" },
+      { "dot": "r", "name": "Banking 101", "who": "Huntington declined this year. Courtney offered to send materials. Need a presenter or Jermaine runs it." },
       { "dot": "g", "name": "YNAB + AI as a budget assistant", "who": "Jermaine" },
       { "dot": "r", "name": "Credit session", "who": "Need a new bank partner" },
       { "dot": "a", "name": "Financial Wellness Family Tree", "who": "Zipporah — checking her schedule" }
@@ -100,6 +100,7 @@
       { "name": "Shantael Harbin", "note": "SEL confirmed, invoice sent. Pay the $1,500.", "chip": "warn", "chipText": "Pay invoice" }
     ],
     "closed": [
+      { "name": "Huntington (Courtney Elledge)", "note": "Replied July 10. Cannot do Banking 101 in person this year, her schedule got too tight. She offered to send financial education and banking materials for the youth to use during the week. Banking 101 now needs a plan (see Do Now).", "chip": "warn", "chipText": "Declined" },
       { "name": "Week 1 logistics sent to families", "note": "All-family email went out the night of July 6: no Tuesday, start Wednesday July 8, 10 to 2, bring a device, Tuesday pay covered. Two addresses bounced on July 7, follow up with those two families by phone.", "chip": "done", "chipText": "Sent" },
       { "name": "DTE reply sent", "note": "Emailed Monique + Mark on Jul 2 with the full picture, open to her schedule.", "chip": "done", "chipText": "Done" },
       { "name": "Gwen (GDYT)", "note": "Kevin approved, Nathan & Amani removed. Roster locked at 15.", "chip": "done", "chipText": "Done" },
