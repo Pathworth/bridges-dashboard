@@ -1,7 +1,7 @@
 {
-  "updated": "July 12, 2026. Week 2 Financial Literacy is fully built: six session guides, decks with the prompts on screen, the student Money Workbook, the Game of Life materials, and a scan-in hub for the youth. Banking and credit partners are still open.",
+  "updated": "July 13, 2026. Week 2 Financial Literacy opens today. GDYT sent a payroll update: our youth started July 6, so they are Payroll 2, first pay July 31. Pay cards pick up Thursday July 23, by Calendly appointment only, and you bring sign-in and benchmark sheets or the cards are not released. Banking and credit partners are still open.",
   "firstDay": "2026-07-08",
-  "headline": "Week 2, Financial Literacy, opens tomorrow (Monday July 13). Huntington backed out of Banking 101 this year, so both the banking and credit sessions now need a partner. YNAB with Jermaine is set. CPR is approved and locked for Thursday July 30.",
+  "headline": "Week 2, Financial Literacy, opens today (Monday July 13). Huntington backed out of Banking 101 this year, so both the banking and credit sessions still need a partner. YNAB with Jermaine is set. CPR is approved and locked for Thursday July 30. GDYT: our youth are Payroll 2, first pay July 31, pay cards pick up Thursday July 23 by appointment.",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)",
@@ -372,10 +372,10 @@
         "chipText": "Pending reply"
       },
       {
-        "name": "GDYT payroll pivot",
-        "note": "MOF isn't ready for Payroll 1. Agencies report hours instead; Nicole Hill sends a customized sheet. Connect Detroit ran payroll trainings June 30 and July 7 (refresher). Watch for the sheet, be ready for Payroll 2.",
+        "name": "GDYT payroll + pay cards",
+        "note": "Nicole Hill's July 13 update: MOF payroll still not live, no timesheet access yet, keep tracking hours and benchmarks by hand. Our youth started July 6, so they are Payroll 2, first pay July 31 (June 22 to July 3 starters get Pay Day 1 on July 17). Pay card pickup for our group is Thursday July 23, by Calendly appointment only, and you must bring sign-in and benchmark sheets or the cards are not released. GDYT monitors will visit the worksite over the next few weeks.",
         "chip": "wait",
-        "chipText": "Watch for sheet"
+        "chipText": "Pickup Jul 23"
       },
       {
         "name": "GDYT Empower App",
