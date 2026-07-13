@@ -1,5 +1,5 @@
 {
-  "updated": "July 13, 2026. Week 2 Financial Literacy opens today. GDYT sent a payroll update: our youth started July 6, so they are Payroll 2, first pay July 31. Pay cards pick up Thursday July 23, by Calendly appointment only, and you bring sign-in and benchmark sheets or the cards are not released. Banking and credit partners are still open.",
+  "updated": "July 13, 2026, evening sync. New today: Connect Detroit (Shuna Hayward) sent the 2026 Young Professionals Conference details. It moved to Wednesday August 5, 8:30 to 2:00 at Huntington Place, sponsored by DWIHN for the summer youth employment programs. It is free, with breakfast, lunch, breakout sessions and a resource fair. Registration for the org, youth and chaperones is due Monday July 20, first come first served. August 5 is open in our Week 5, so it could be the youth's field day that week. Everything from this morning still stands: Week 2 Financial Literacy is running, banking and credit sessions still need a partner, GDYT pay cards for our group pick up Thursday July 23 by Calendly appointment.",
   "firstDay": "2026-07-08",
   "headline": "Week 2, Financial Literacy, opens today (Monday July 13). Huntington backed out of Banking 101 this year, so both the banking and credit sessions still need a partner. YNAB with Jermaine is set. CPR is approved and locked for Thursday July 30. GDYT: our youth are Payroll 2, first pay July 31, pay cards pick up Thursday July 23 by appointment.",
   "week1": [
@@ -186,6 +186,14 @@
       "desc": "Two addresses bounced on the July 6 all-family email. Week 1 is done. Confirm both families by text or call that they have the schedule for the remaining weeks. One of the two also has a working gmail on the same thread.",
       "chip": "warn",
       "chipText": "Confirm two"
+    },
+    {
+      "id": "dn-ypc",
+      "n": 9,
+      "title": "Decide on the Young Professionals Conference (register by July 20)",
+      "desc": "Connect Detroit (Shuna Hayward) sent the 2026 Young Professionals Conference details. It moved from July 23 to Wednesday August 5, 8:30 to 2:00 at Huntington Place, sponsored by DWIHN for the summer youth employment programs. Free, with breakfast, lunch, breakout sessions and a resource fair. Registration for the org, youth and chaperones is due Monday July 20, and space is first come first served. August 5 is open in our Week 5, so this could be the youth's field day that week. Decide if we are going and register.",
+      "chip": "warn",
+      "chipText": "By Jul 20"
     }
   ],
   "weeks": [
@@ -318,6 +326,11 @@
       "dates": "Aug 3–7",
       "items": [
         {
+          "dot": "a",
+          "name": "Young Professionals Conference (optional field day)",
+          "who": "DWIHN via Connect Detroit — Wed 8/5, Huntington Place, register by 7/20"
+        },
+        {
           "dot": "g",
           "name": "Election Day Voter Hotline",
           "who": "Jermaine + NAACP staff — Tue 8/4"
@@ -382,6 +395,12 @@
         "note": "Kelsey (Connect Detroit) sent app sign-up instructions Jul 6, with a youth how-to deck attached. Youth register in the Empower App; its modules cover the GDYT financial literacy requirement (separate from payroll). Connect Detroit sends weekly emails flagging who still needs to register.",
         "chip": "wait",
         "chipText": "Register youth"
+      },
+      {
+        "name": "Young Professionals Conference (Connect Detroit)",
+        "note": "Shuna Hayward sent the 2026 YPC details July 13. New date is Wednesday August 5, 8:30 to 2:00 at Huntington Place (moved from July 23), sponsored by DWIHN for the summer youth employment programs. Register the org, youth and chaperones by Monday July 20, first come first served. Free, and it fits the open Aug 5 slot in our Week 5.",
+        "chip": "wait",
+        "chipText": "Register by Jul 20"
       }
     ],
     "needs": [
