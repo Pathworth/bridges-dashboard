@@ -1,7 +1,7 @@
 {
-  "updated": "July 15, 2026 sync. Life Be Life'ing was rebuilt and is now the deepest piece we have. It is your 2024 game with your roles, your scripts and your $4,000 kept word for word, plus four things it never had: a way to win (most savings still standing), a Floor so nobody starves the family to bank the money, a Reality Check that hits them with what Detroit actually costs, and The Choice, the rule for when a family cannot cover a bill and every door charges them more. All four pieces are rebuilt in the Signature as PDFs: the Session Guide, the Family Budget Sheet, the Role Cards and the Life Event Cards (60+ cards now, including income shocks and 12 wild cards). Still open from the last sync: banking and credit both need a partner, confirm all 15 are on the GDYT Approved for Placement list, Payroll 2 timesheets are still not live in myOneFlow so keep tracking hours by hand, and YPC registration is due Monday July 20.",
+  "updated": "July 15, 2026 sync. Two things moved. DTE finally has a name and a date: Jon Johnson, Program Manager in Workforce Development, wants to bring Work Readiness on Tuesday August 4 at noon. That day is already our Election Day Voter Hotline, and August 4 was not one of the days you offered him, you offered Wednesday the 5th or Thursday the 6th. So he needs an answer with a real day. Wayne State is also waiting on you. Jessica Archer will not build the July 28 schedule until she knows what the group has already seen on campus and what you want them to get out of the day, and you told her you would send that this morning. Lunch is still unconfirmed on their end. Everything else from the last sync still stands: banking and credit both need a partner, confirm all 15 are on the GDYT Approved for Placement list, Payroll 2 timesheets are still not live in myOneFlow so keep tracking hours by hand, and YPC registration is due Monday July 20.",
   "firstDay": "2026-07-08",
-  "headline": "Week 2, Financial Literacy, is underway (opened Monday July 13). Huntington backed out of Banking 101 this year, so both the banking and credit sessions still need a partner. YNAB with Jermaine is set. CPR is approved and locked for Thursday July 30. GDYT: our youth are Payroll 2, first pay July 31, pay cards pick up Thursday July 23 by appointment.",
+  "headline": "Week 2, Financial Literacy, is underway (opened Monday July 13). Huntington backed out of Banking 101 this year, so both the banking and credit sessions still need a partner. YNAB with Jermaine is set. DTE is back in with Jon Johnson on Work Readiness, but he picked August 4, which collides with the Voter Hotline, so send him a day. Wayne State needs your answers before they finish the July 28 campus day. CPR is approved and locked for Thursday July 30. GDYT: our youth are Payroll 2, first pay July 31, pay cards pick up Thursday July 23 by appointment.",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)",
@@ -124,8 +124,32 @@
   ],
   "doNow": [
     {
-      "id": "dn-cpr-cost",
+      "id": "dn-wsu",
       "n": 1,
+      "title": "Send Wayne State what you want out of the campus day",
+      "desc": "Jessica Archer at WSU will not send the July 28 schedule until she hears back from you. She asked two things: has the group been to Wayne State before, and what do you want them to see or hear, like faculty from a particular field or a specific program. You told her July 14 you would ask the young people and send it over the next morning. Several of them have been on campus in past years, so she wants to build on that instead of repeating it. She is still working out lunch and will confirm.",
+      "chip": "warn",
+      "chipText": "Owed today"
+    },
+    {
+      "id": "dn-dte",
+      "n": 2,
+      "title": "Give DTE a day that actually works",
+      "desc": "Monique handed BRIDGES to Jon Johnson, a Program Manager in Workforce Development at DTE, and he is in. He is asking to bring Work Readiness on Tuesday August 4 at 12:00. Two problems: August 4 is our Election Day Voter Hotline, and it was not one of the days you offered him. You offered Wednesday August 5 or Thursday August 6. August 5 may go to the Young Professionals Conference, and Darryl has 11:00 on August 6, so noon on the 6th is the clean answer if you want both. Write him back with a day.",
+      "chip": "warn",
+      "chipText": "Date conflict"
+    },
+    {
+      "id": "dn-bank",
+      "n": 3,
+      "title": "Cover the banking side of Week 2 (Huntington out)",
+      "desc": "Courtney Elledge at Huntington wrote back and cannot do Banking 101 this year. She offered to send financial education and banking materials for the youth to use during the week. So now both Banking 101 and the credit session still need a plan. Take her materials, and either find a fast replacement or have Jermaine run Banking 101. Week 2 is already underway, so this needs a plan now.",
+      "chip": "warn",
+      "chipText": "Urgent"
+    },
+    {
+      "id": "dn-cpr-cost",
+      "n": 4,
       "title": "Price CPR for staff and youth council",
       "desc": "Kamilia approved the CPR and First Aid cert for all 15 youth (Natosha Gurley, RN, $12 each, about $180). She now wants the total cost to also certify staff and some youth council members. Natosha is open to more people. Get a headcount and send Kamilia the number.",
       "chip": "warn",
@@ -133,7 +157,7 @@
     },
     {
       "id": "dn-yet",
-      "n": 2,
+      "n": 5,
       "title": "Confirm all 15 are on the final GDYT approved list",
       "desc": "Nicole Hill's July 14 update says the Youth Enrollment Tracker now holds the final Approved for Placement list, and only youth on it can work or be paid. Youth who worked before being approved cannot be paid for that time, and GDYT will not cover unapproved youth. Check the YET and confirm all 15 of ours show Approved for Placement. Also get the worksite ready for GDYT monitor visits over the next few weeks: original work permits on hand and a first aid kit.",
       "chip": "warn",
@@ -141,31 +165,31 @@
     },
     {
       "id": "dn-app",
-      "n": 3,
+      "n": 6,
       "title": "Get the 15 youth into the GDYT Empower App",
       "desc": "Kelsey at Connect Detroit sent the app sign-up reminder with a youth instructions deck. The app's modules also satisfy the GDYT financial literacy requirement, and it's separate from payroll. Connect Detroit will send weekly emails showing who still needs to register, so get everyone in early.",
       "chip": "warn",
       "chipText": "Register"
     },
     {
+      "id": "dn-ypc",
+      "n": 7,
+      "title": "Decide on the Young Professionals Conference (register by July 20)",
+      "desc": "Connect Detroit (Shuna Hayward) sent the 2026 Young Professionals Conference details. It moved from July 23 to Wednesday August 5, 8:30 to 2:00 at Huntington Place, sponsored by DWIHN for the summer youth employment programs. Free, with breakfast, lunch, breakout sessions and a resource fair. Registration for the org, youth and chaperones is due Monday July 20, and space is first come first served. August 5 is open in our Week 5, so this could be the youth's field day that week. Note that August 5 is also one of the days you offered DTE, so pick one. Decide if we are going and register.",
+      "chip": "warn",
+      "chipText": "By Jul 20"
+    },
+    {
       "id": "dn-shantael",
-      "n": 4,
+      "n": 8,
       "title": "Pay Shantael's SEL invoice",
       "desc": "$1,500, still open.",
       "chip": "warn",
       "chipText": "Pay"
     },
     {
-      "id": "dn-bank",
-      "n": 5,
-      "title": "Cover the banking side of Week 2 (Huntington out)",
-      "desc": "Courtney Elledge at Huntington wrote back and cannot do Banking 101 this year. She offered to send financial education and banking materials for the youth to use during the week. So now both Banking 101 and the credit session still need a plan. Take her materials, and either find a fast replacement or have Jermaine run Banking 101. Week 2 is already underway, so this needs a plan now.",
-      "chip": "warn",
-      "chipText": "Urgent"
-    },
-    {
       "id": "dn-wk4",
-      "n": 6,
+      "n": 9,
       "title": "Lock the rest of Week 4",
       "desc": "CPR is locked for Thursday July 30 (approved). Still need Keosha's health day (7/29 or 7/30) and Zipporah's Financial Wellness date.",
       "chip": "warn",
@@ -173,7 +197,7 @@
     },
     {
       "id": "dn-texts",
-      "n": 7,
+      "n": 10,
       "title": "Confirm Week 3 texts",
       "desc": "Moe (7/21, noon), DeQuan (7/23, 11a), Darryl (8/6, 11a).",
       "chip": "warn",
@@ -181,7 +205,7 @@
     },
     {
       "id": "dn-virtual",
-      "n": 8,
+      "n": 11,
       "title": "Answer the two Week 3 virtual requests",
       "desc": "A brother and sister both emailed July 12 asking to work virtually July 20 to 29, and they are fully out July 21 to 24. That covers the in-person heart of Week 3 (Dream Car Reveal Tue 7/21, Entrepreneur Panel Thu 7/23). Reply to work out a virtual plan for those days so they stay on payroll and don't fall behind on the Capstone.",
       "chip": "warn",
@@ -189,19 +213,11 @@
     },
     {
       "id": "dn-fam",
-      "n": 9,
+      "n": 12,
       "title": "Confirm the two bounced families are set for the rest",
       "desc": "Two addresses bounced on the July 6 all-family email. Week 1 is done. Confirm both families by text or call that they have the schedule for the remaining weeks. One of the two also has a working gmail on the same thread.",
       "chip": "warn",
       "chipText": "Confirm two"
-    },
-    {
-      "id": "dn-ypc",
-      "n": 10,
-      "title": "Decide on the Young Professionals Conference (register by July 20)",
-      "desc": "Connect Detroit (Shuna Hayward) sent the 2026 Young Professionals Conference details. It moved from July 23 to Wednesday August 5, 8:30 to 2:00 at Huntington Place, sponsored by DWIHN for the summer youth employment programs. Free, with breakfast, lunch, breakout sessions and a resource fair. Registration for the org, youth and chaperones is due Monday July 20, and space is first come first served. August 5 is open in our Week 5, so this could be the youth's field day that week. Decide if we are going and register.",
-      "chip": "warn",
-      "chipText": "By Jul 20"
     }
   ],
   "weeks": [
@@ -314,7 +330,7 @@
         {
           "dot": "g",
           "name": "Wayne State Campus Day (field trip)",
-          "who": "Stacie Clayton, Tue 7/28, full day, confirmed"
+          "who": "Tue 7/28, 10 to 2, confirmed. Stacie handed us to Jessica Archer. Schedule and lunch pending your answers."
         },
         {
           "dot": "a",
@@ -355,6 +371,11 @@
         },
         {
           "dot": "a",
+          "name": "DTE Work Readiness",
+          "who": "Jon Johnson, DTE Workforce Development. He asked for Tue 8/4 at noon, which is Voter Hotline day. Send him 8/6 at noon."
+        },
+        {
+          "dot": "a",
           "name": "Better Together, Civic Engagement",
           "who": "Darryl Woods, Thu 8/6, 11a (text to send)"
         },
@@ -391,12 +412,6 @@
   "inbox": {
     "waiting": [
       {
-        "name": "Monique Johnson (DTE)",
-        "note": "New DTE presenter, Mark connected her. You emailed her Jul 2. She is not free Week 1, so DTE moves to a later week. No reply yet (DTE had a big storm/outage over the weekend).",
-        "chip": "wait",
-        "chipText": "No reply yet"
-      },
-      {
         "name": "Zipporah Bolar",
         "note": "Checking her schedule for the Financial Wellness session (Week 2 or 4).",
         "chip": "wait",
@@ -428,6 +443,18 @@
       }
     ],
     "needs": [
+      {
+        "name": "Jon Johnson (DTE)",
+        "note": "Replied July 14 and copied Monique, Mark, Je'Tina and Kamilia. He is a Program Manager in Workforce Development at DTE, Monique passed BRIDGES to him, and he is in on Work Readiness. He asked to confirm Tuesday August 4 at 12:00, but that is our Election Day Voter Hotline and it was not on the list you gave him. You offered Wednesday August 5 or Thursday August 6. Send him a day.",
+        "chip": "warn",
+        "chipText": "Send a day"
+      },
+      {
+        "name": "Jessica Archer (Wayne State)",
+        "note": "She is holding the July 28 schedule until you answer two questions from her July 13 note: has the group been to WSU before, and what do you want them to see or hear, faculty from a field or a specific program. You replied July 14 that you would ask the young people and send it the next morning, so it is owed today. She is still sorting lunch and will confirm.",
+        "chip": "warn",
+        "chipText": "Owed today"
+      },
       {
         "name": "Shantael Harbin",
         "note": "SEL confirmed, invoice sent. Pay the $1,500.",
@@ -492,7 +519,7 @@
     "items": [
       {
         "title": "Week 1 is fully done",
-        "desc": "Wednesday opened the program: orientation, the DOL, then AI Day Part 1 and 2. Thursday was Workplace Foundations, in person 10 to 2. Friday was virtual and async, youth submitted their Capstone Kickoff. It's the weekend now. Financial Literacy starts Monday.",
+        "desc": "Wednesday opened the program: orientation, the DOL, then AI Day Part 1 and 2. Thursday was Workplace Foundations, in person 10 to 2. Friday was virtual and async, youth submitted their Capstone Kickoff. Week 2, Financial Literacy, opened Monday July 13 and is running now.",
         "chip": "done",
         "chipText": "Week 1 done"
       },
