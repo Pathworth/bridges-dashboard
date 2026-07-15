@@ -1,5 +1,5 @@
 {
-  "updated": "July 15, 2026 sync. Two things moved. DTE finally has a name and a date: Jon Johnson, Program Manager in Workforce Development, wants to bring Work Readiness on Tuesday August 4 at noon. That day is already our Election Day Voter Hotline, and August 4 was not one of the days you offered him, you offered Wednesday the 5th or Thursday the 6th. So he needs an answer with a real day. Wayne State is also waiting on you. Jessica Archer will not build the July 28 schedule until she knows what the group has already seen on campus and what you want them to get out of the day, and you told her you would send that this morning. Lunch is still unconfirmed on their end. Everything else from the last sync still stands: banking and credit both need a partner, confirm all 15 are on the GDYT Approved for Placement list, Payroll 2 timesheets are still not live in myOneFlow so keep tracking hours by hand, and YPC registration is due Monday July 20.",
+  "updated": "July 15, 2026 sync. Read the inbox. Two new things. Shuna Hayward asked you today to present Your Digital Footprint at the Young Professionals Conference on August 5, two 45 minute breakouts at 10:25 and 11:25, $250 honorarium. That is the same day as the YPC field day you have to register for by Monday July 20, so one trip covers both and your youth can sit in your session. And DTE came back: Jon Johnson asked for Tuesday August 4 at noon, a day you never offered, and it lands on the primary and Voter Hotline day. Wednesday July 22 is the only open day in Week 3 and you already offered it to him. Also cleaned a participant's full name off this public page. Still open: banking and credit for this week, Mental Health in Week 4, NAACP Political Education in Week 5, Wayne State is holding the July 28 schedule on your answer, and Shantael's $1,500 invoice is unpaid.",
   "firstDay": "2026-07-08",
   "headline": "Week 2, Financial Literacy, is underway (opened Monday July 13). Huntington backed out of Banking 101 this year, so both the banking and credit sessions still need a partner. YNAB with Jermaine is set. DTE is back in with Jon Johnson on Work Readiness, but he picked August 4, which collides with the Voter Hotline, so send him a day. Wayne State needs your answers before they finish the July 28 campus day. CPR is approved and locked for Thursday July 30. GDYT: our youth are Payroll 2, first pay July 31, pay cards pick up Thursday July 23 by appointment.",
   "week1": [
@@ -124,20 +124,20 @@
   ],
   "doNow": [
     {
-      "id": "dn-wsu",
+      "id": "dn-dte-day",
       "n": 1,
+      "title": "Give DTE a day, they picked one you did not offer",
+      "desc": "Jon Johnson, Program Manager in Workforce Development at DTE, came in July 14 on Work Readiness and asked to confirm Tuesday August 4 at 12:00. You never offered August 4. Your July 10 email offered Tue 7/21, Wed 7/22 or Thu 7/23, and then Wed 8/5 or Thu 8/6. He read week of August 4 and picked the Tuesday. August 4 is the primary, it is Voter Hotline day, and August 5 is the YPC field day, so that whole week is spoken for. Two clean answers: Wednesday July 22, which is the only open day in Week 3 and one you already offered him, or Thursday August 6 at noon, which you also offered but stacks him behind Darryl Woods at 11. Wednesday July 22 is the cleaner one.",
+      "chip": "warn",
+      "chipText": "Owed"
+    },
+    {
+      "id": "dn-wsu",
+      "n": 2,
       "title": "Send Wayne State what you want out of the campus day",
       "desc": "Jessica Archer at WSU will not send the July 28 schedule until she hears back from you. She asked two things: has the group been to Wayne State before, and what do you want them to see or hear, like faculty from a particular field or a specific program. You told her July 14 you would ask the young people and send it over the next morning. Several of them have been on campus in past years, so she wants to build on that instead of repeating it. She is still working out lunch and will confirm.",
       "chip": "warn",
       "chipText": "Owed today"
-    },
-    {
-      "id": "dn-dte",
-      "n": 2,
-      "title": "Give DTE a day that actually works",
-      "desc": "Monique handed BRIDGES to Jon Johnson, a Program Manager in Workforce Development at DTE, and he is in. He is asking to bring Work Readiness on Tuesday August 4 at 12:00. Two problems: August 4 is our Election Day Voter Hotline, and it was not one of the days you offered him. You offered Wednesday August 5 or Thursday August 6. August 5 may go to the Young Professionals Conference, and Darryl has 11:00 on August 6, so noon on the 6th is the clean answer if you want both. Write him back with a day.",
-      "chip": "warn",
-      "chipText": "Date conflict"
     },
     {
       "id": "dn-bank",
@@ -174,10 +174,10 @@
     {
       "id": "dn-ypc",
       "n": 7,
-      "title": "Decide on the Young Professionals Conference (register by July 20)",
-      "desc": "Connect Detroit (Shuna Hayward) sent the 2026 Young Professionals Conference details. It moved from July 23 to Wednesday August 5, 8:30 to 2:00 at Huntington Place, sponsored by DWIHN for the summer youth employment programs. Free, with breakfast, lunch, breakout sessions and a resource fair. Registration for the org, youth and chaperones is due Monday July 20, and space is first come first served. August 5 is open in our Week 5, so this could be the youth's field day that week. Note that August 5 is also one of the days you offered DTE, so pick one. Decide if we are going and register.",
+      "title": "Answer Shuna on YPC, the field day and your workshop",
+      "desc": "Two answers owed, both for Wednesday August 5 at Huntington Place. The field day for the youth has to be registered by Monday July 20, first come first served, so this is a five day fuse. Separately, Shuna asked July 15 if you will present Your Digital Footprint again, social media and AI, cyberbullying, internet safety, two 45 minute breakouts at 10:25 and 11:25, $250 honorarium. The two fit together: bring the youth, present while they are there, let them sit in your session. If you do both, Je'Tina covers the group 10:25 to 12:15.",
       "chip": "warn",
-      "chipText": "By Jul 20"
+      "chipText": "Due Monday"
     },
     {
       "id": "dn-shantael",
@@ -311,6 +311,11 @@
           "who": "Moe Kebe, Tue 7/21, noon (text to send)"
         },
         {
+          "dot": "r",
+          "name": "Wednesday 7/22 is open",
+          "who": "The only empty day in Week 3. DTE Work Readiness fits here and you already offered it."
+        },
+        {
           "dot": "a",
           "name": "Entrepreneur Panel",
           "who": "DeQuan Mixon, Thu 7/23, 11a (+1 to 2 more)"
@@ -361,8 +366,8 @@
       "items": [
         {
           "dot": "a",
-          "name": "Young Professionals Conference (optional field day)",
-          "who": "DWIHN via Connect Detroit, Wed 8/5, Huntington Place, register by 7/20"
+          "name": "Young Professionals Conference (field day + your workshop)",
+          "who": "Wed 8/5, Huntington Place, 8:30 to 2. Register by Mon 7/20. Shuna also asked you to present Your Digital Footprint twice, 10:25 and 11:25, $250 honorarium. Both undecided."
         },
         {
           "dot": "g",
@@ -430,14 +435,14 @@
         "chipText": "Register youth"
       },
       {
-        "name": "Young Professionals Conference (Connect Detroit)",
-        "note": "Shuna Hayward sent the 2026 YPC details July 13. New date is Wednesday August 5, 8:30 to 2:00 at Huntington Place (moved from July 23), sponsored by DWIHN for the summer youth employment programs. Register the org, youth and chaperones by Monday July 20, first come first served. Free, and it fits the open Aug 5 slot in our Week 5.",
+        "name": "Young Professionals Conference (Connect Detroit), two decisions",
+        "note": "Two separate things now, both on Wednesday August 5 at Huntington Place. ONE, the field day: Shuna Hayward sent the 2026 YPC details July 13, 8:30 to 2:00, sponsored by DWIHN for the summer youth employment programs, free, register the org, youth and chaperones by Monday July 20, first come first served. It fits the open Aug 5 slot in Week 5. TWO, NEW July 15: Shuna asked you to present a workshop again. She wants Your Digital Footprint, the session you ran last year, covering social media and AI, cyberbullying, and internet safety. Two 45 minute breakouts, 10:25 to 11:15 and repeated 11:25 to 12:15. She is offering a $250 honorarium and said your session was very well received last year. If you say yes to both, your youth are in the building while you present, so Je'Tina covers them from 10:25 to 12:15, and they can sit in your session.",
         "chip": "wait",
         "chipText": "Register by Jul 20"
       },
       {
-        "name": "Karl (staff) Wednesdays off",
-        "note": "Karl Dupree emailed July 14 asking for Wednesdays off starting next week to cover his other job. He works this full week out. Plan Wednesday coverage for the coming weeks without him.",
+        "name": "A participant asked for Wednesdays off",
+        "note": "One of the young people emailed July 14 asking for Wednesdays off starting the week of July 22 to cover his other job. He works this full week out. Plan Wednesday coverage for the coming weeks without him. He is a participant, not staff.",
         "chip": "wait",
         "chipText": "Plan coverage"
       }
