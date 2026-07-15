@@ -1,5 +1,5 @@
 {
-  "updated": "July 14, 2026, evening sync. Two new things came in. Connect Detroit (Nicole Hill) sent a final GDYT partner update: the Youth Enrollment Tracker now shows the final Approved for Placement list, and only youth on that list can work or get paid, so confirm all 15 of ours are on it. GDYT monitors will visit the worksite over the next few weeks to check safety, supervision, work permits and a first aid kit. Payroll 2 timesheets are still not live in myOneFlow, keep tracking hours by hand. Karl asked for Wednesdays off starting next week to cover his other job, and he works this full week out. Everything else stands: Week 2 Financial Literacy is underway, banking and credit still need a partner, and YPC registration is due Monday July 20.",
+  "updated": "July 15, 2026 sync. Life Be Life'ing was rebuilt and is now the deepest piece we have. It is your 2024 game with your roles, your scripts and your $4,000 kept word for word, plus four things it never had: a way to win (most savings still standing), a Floor so nobody starves the family to bank the money, a Reality Check that hits them with what Detroit actually costs, and The Choice, the rule for when a family cannot cover a bill and every door charges them more. All four pieces are rebuilt in the Signature as PDFs: the Session Guide, the Family Budget Sheet, the Role Cards and the Life Event Cards (60+ cards now, including income shocks and 12 wild cards). Still open from the last sync: banking and credit both need a partner, confirm all 15 are on the GDYT Approved for Placement list, Payroll 2 timesheets are still not live in myOneFlow so keep tracking hours by hand, and YPC registration is due Monday July 20.",
   "firstDay": "2026-07-08",
   "headline": "Week 2, Financial Literacy, is underway (opened Monday July 13). Huntington backed out of Banking 101 this year, so both the banking and credit sessions still need a partner. YNAB with Jermaine is set. CPR is approved and locked for Thursday July 30. GDYT: our youth are Payroll 2, first pay July 31, pay cards pick up Thursday July 23 by appointment.",
   "week1": [
@@ -10,25 +10,25 @@
       "sessions": [
         {
           "id": "t7-1",
-          "time": "10:00–11:00",
+          "time": "10:00 to 11:00",
           "activity": "Welcome + Building Tour",
           "who": "Jermaine"
         },
         {
           "id": "t7-2",
-          "time": "11:00–12:00",
+          "time": "11:00 to 12:00",
           "activity": "Team-Building",
           "who": "Je'Tina"
         },
         {
           "id": "t7-3",
-          "time": "12:00–1:00",
+          "time": "12:00 to 1:00",
           "activity": "Program Overview + Expectations",
           "who": "Jermaine"
         },
         {
           "id": "t7-4",
-          "time": "1:00–2:00",
+          "time": "1:00 to 2:00",
           "activity": "Capstone Introduction",
           "who": "Jermaine"
         }
@@ -41,70 +41,70 @@
       "sessions": [
         {
           "id": "w8-1",
-          "time": "10:00–11:00",
+          "time": "10:00 to 11:00",
           "activity": "Team-Building + Check-In",
           "who": "Je'Tina"
         },
         {
           "id": "w8-2",
-          "time": "11:00–12:00",
+          "time": "11:00 to 12:00",
           "activity": "U.S. DOL Workplace Rights",
-          "who": "Mildred Kress, U.S. DOL — confirmed"
+          "who": "Mildred Kress, U.S. DOL, confirmed"
         },
         {
           "id": "w8-3",
-          "time": "12:00–12:15",
+          "time": "12:00 to 12:15",
           "activity": "Presenter Reflection Circle",
           "who": "Jermaine"
         },
         {
           "id": "w8-4",
-          "time": "12:15–1:00",
-          "activity": "AI Day Part 1 — What AI Really Is",
-          "who": "Jermaine — guide + deck built"
+          "time": "12:15 to 1:00",
+          "activity": "AI Day Part 1, What AI Really Is",
+          "who": "Jermaine, guide + deck built"
         },
         {
           "id": "w8-5",
-          "time": "1:00–2:00",
-          "activity": "AI Day Part 2 — Resume From Zero",
-          "who": "Jermaine — guide + deck built"
+          "time": "1:00 to 2:00",
+          "activity": "AI Day Part 2, Resume From Zero",
+          "who": "Jermaine, guide + deck built"
         }
       ]
     },
     {
       "day": "THURSDAY, July 9",
-      "tag": "Done. Workplace Foundations · in person, 10–2",
+      "tag": "Done. Workplace Foundations · in person, 10 to 2",
       "note": "Done. Day two, in person 10 to 2. Team-building and AI reflection, a built work-readiness session, then Workplace Ethics Court and Time Management.",
       "sessions": [
         {
           "id": "h9-1",
-          "time": "10:00–11:00",
+          "time": "10:00 to 11:00",
           "activity": "Team-Building + AI Day Reflection",
           "who": "Je'Tina"
         },
         {
           "id": "h9-2",
-          "time": "11:00–12:00",
+          "time": "11:00 to 12:00",
           "activity": "Slot a built session (Interview / Job Post / Decode)",
-          "who": "Jermaine — pick one, all built"
+          "who": "Jermaine, pick one, all built"
         },
         {
           "id": "h9-3",
-          "time": "12:00–12:15",
+          "time": "12:00 to 12:15",
           "activity": "Presenter Reflection Circle",
           "who": "Jermaine"
         },
         {
           "id": "h9-4",
-          "time": "12:15–1:00",
+          "time": "12:15 to 1:00",
           "activity": "Workplace Ethics Court",
-          "who": "Jermaine — guide + deck built"
+          "who": "Jermaine, guide + deck built"
         },
         {
           "id": "h9-5",
-          "time": "1:00–2:00",
+          "time": "1:00 to 2:00",
           "activity": "Time Management Setup",
-          "who": "Jermaine — guide + deck built"
+          "who": "Jermaine, guide + deck built"
         }
       ]
     },
@@ -208,54 +208,64 @@
     {
       "num": "WEEK 1",
       "title": "Work Readiness & AI Foundations",
-      "dates": "Jul 7–10",
+      "dates": "Jul 7 to 10",
       "items": [
         {
           "dot": "g",
           "name": "Orientation Day (Wed)",
-          "who": "Jermaine + Je'Tina — ready"
+          "who": "Jermaine + Je'Tina, ready"
         },
         {
           "dot": "g",
           "name": "DOL Workplace Rights (Wed)",
-          "who": "Mildred Kress, U.S. DOL — confirmed"
+          "who": "Mildred Kress, U.S. DOL, confirmed"
         },
         {
           "dot": "g",
           "name": "Session 1: What AI Really Is",
-          "who": "Jermaine — guide + deck built"
+          "who": "Jermaine, guide + deck built"
         },
         {
           "dot": "g",
           "name": "Resume, Interview, Job Post",
-          "who": "Jermaine — 3 sessions built"
+          "who": "Jermaine, 3 sessions built"
         },
         {
           "dot": "g",
           "name": "Workplace Ethics Court",
-          "who": "Jermaine — guide + deck built"
+          "who": "Jermaine, guide + deck built"
         },
         {
           "dot": "g",
           "name": "Time Management Setup",
-          "who": "Jermaine — guide + deck built"
+          "who": "Jermaine, guide + deck built"
         }
       ]
     },
     {
       "num": "WEEK 2",
       "title": "Financial Literacy",
-      "dates": "Jul 13–17",
+      "dates": "Jul 13 to 17",
       "items": [
         {
           "dot": "g",
-          "name": "Curriculum built, 6 sessions + Game of Life",
-          "who": "Guides, decks, workbook, student hub QR, all in Curriculum/Week 2"
+          "name": "Life Be Life'ing, rebuilt v2",
+          "who": "Your 2024 game, verbatim, plus a way to win, The Floor, the Reality Check and The Choice"
         },
         {
           "dot": "g",
-          "name": "YNAB, AI Budget, Raising Your Zero",
+          "name": "Life Be Life'ing print pack",
+          "who": "Session Guide, Family Budget Sheet, Role Cards, 60+ Life Event Cards. All in the Signature."
+        },
+        {
+          "dot": "g",
+          "name": "YNAB Four Rules, AI Budget, Raising Your Zero",
           "who": "Jermaine, built from your 2024 programs"
+        },
+        {
+          "dot": "g",
+          "name": "Needs vs Wants, Personal Money Goals",
+          "who": "Jermaine, guides and decks built"
         },
         {
           "dot": "r",
@@ -277,17 +287,17 @@
     {
       "num": "WEEK 3",
       "title": "Entrepreneurship & AI for Creators",
-      "dates": "Jul 20–24",
+      "dates": "Jul 20 to 24",
       "items": [
         {
           "dot": "a",
           "name": "Dream Car Reveal",
-          "who": "Moe Kebe — Tue 7/21, noon (text to send)"
+          "who": "Moe Kebe, Tue 7/21, noon (text to send)"
         },
         {
           "dot": "a",
           "name": "Entrepreneur Panel",
-          "who": "DeQuan Mixon — Thu 7/23, 11a (+1–2 more)"
+          "who": "DeQuan Mixon, Thu 7/23, 11a (+1 to 2 more)"
         },
         {
           "dot": "g",
@@ -299,27 +309,27 @@
     {
       "num": "WEEK 4",
       "title": "College Prep & Healthy Living",
-      "dates": "Jul 27–31",
+      "dates": "Jul 27 to 31",
       "items": [
         {
           "dot": "g",
           "name": "Wayne State Campus Day (field trip)",
-          "who": "Stacie Clayton — Tue 7/28, full day — confirmed"
+          "who": "Stacie Clayton, Tue 7/28, full day, confirmed"
         },
         {
           "dot": "a",
           "name": "Health & Wellness",
-          "who": "Keosha King + daughter — 7/29 or 7/30"
+          "who": "Keosha King + daughter, 7/29 or 7/30"
         },
         {
           "dot": "g",
           "name": "CPR & First Aid Cert",
-          "who": "Natosha Gurley, RN — Rhythm of Life — Thu 7/30, ~2 hrs — approved"
+          "who": "Natosha Gurley, RN, Rhythm of Life, Thu 7/30, ~2 hrs, approved"
         },
         {
           "dot": "g",
           "name": "SEL",
-          "who": "Shantael Harbin — Wed 7/29, 5p (invoice to pay)"
+          "who": "Shantael Harbin, Wed 7/29, 5p (invoice to pay)"
         },
         {
           "dot": "r",
@@ -331,22 +341,22 @@
     {
       "num": "WEEK 5",
       "title": "NAACP Week · Civic Engagement & AI Ethics",
-      "dates": "Aug 3–7",
+      "dates": "Aug 3 to 7",
       "items": [
         {
           "dot": "a",
           "name": "Young Professionals Conference (optional field day)",
-          "who": "DWIHN via Connect Detroit — Wed 8/5, Huntington Place, register by 7/20"
+          "who": "DWIHN via Connect Detroit, Wed 8/5, Huntington Place, register by 7/20"
         },
         {
           "dot": "g",
           "name": "Election Day Voter Hotline",
-          "who": "Jermaine + NAACP staff — Tue 8/4"
+          "who": "Jermaine + NAACP staff, Tue 8/4"
         },
         {
           "dot": "a",
           "name": "Better Together, Civic Engagement",
-          "who": "Darryl Woods — Thu 8/6, 11a (text to send)"
+          "who": "Darryl Woods, Thu 8/6, 11a (text to send)"
         },
         {
           "dot": "r",
@@ -363,7 +373,7 @@
     {
       "num": "WEEK 6",
       "title": "Capstone & Career",
-      "dates": "Aug 10–14",
+      "dates": "Aug 10 to 14",
       "items": [
         {
           "dot": "g",
@@ -373,7 +383,7 @@
         {
           "dot": "g",
           "name": "Capstone Presentations to the ED",
-          "who": "Kamilia Landrum — Thu 8/13"
+          "who": "Kamilia Landrum, Thu 8/13"
         }
       ]
     }
@@ -472,7 +482,7 @@
       },
       {
         "v": "Wk 2",
-        "l": "Starts Monday"
+        "l": "Underway"
       },
       {
         "v": "$2,340",
@@ -488,7 +498,7 @@
       },
       {
         "title": "Roster locked",
-        "desc": "15 youth (9 young women, 6 young men, ages 14–19).",
+        "desc": "15 youth (9 young women, 6 young men, ages 14 to 19).",
         "chip": "done",
         "chipText": "Done"
       },
@@ -499,7 +509,7 @@
         "chipText": "Done"
       },
       {
-        "title": "Budget set — $2,340",
+        "title": "Budget set, $2,340",
         "desc": "Food $600 · SEL $1,500 · CPR $240.",
         "chip": "done",
         "chipText": "Done"
@@ -511,8 +521,8 @@
         "chipText": "Done"
       },
       {
-        "title": "Week 2 curriculum built",
-        "desc": "Six sessions with guides and decks, the student Money Workbook, the Game of Life materials for Je'Tina, a ChatGPT setup, and a scan-in hub at pathworth.github.io/bridges-dashboard/week2.html. Prompts on the slides, written clean and reusable.",
+        "title": "Week 2 curriculum built, Life Be Life'ing rebuilt",
+        "desc": "Six sessions with guides and decks. Life Be Life'ing was rebuilt from your 2024 facilitator guide with your roles, scripts and numbers kept word for word, and four new rules marked NEW so you can cut them: how you win, The Floor, the Reality Check and The Choice. Four print pieces in the Signature: Session Guide, Family Budget Sheet, Role Cards, Life Event Cards.",
         "chip": "done",
         "chipText": "Done"
       }
