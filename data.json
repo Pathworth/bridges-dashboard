@@ -1,7 +1,7 @@
 {
-  "updated": "July 15, 2026 evening sync. One thing moved. You answered Wayne State at 5:14 today. Jessica Archer has what the young people asked for: campus life, the law school and Professor Ryan, the BSMD eight year medical track, engineering and the new building, business and marketing, scholarships, internships, the Transfer Lounge, dorms, the Student Center, D9 and the black student orgs, the gym, the game room, the Wright Museum, food and parking. Plus your own two asks, what it takes to get in and what it costs, and a VP or dean on how to actually use a campus. July 28 is on her side now. Everything else is where it was: DTE still has no day, YPC registration closes Monday July 20, banking and credit are still open for this week, Mental Health in Week 4 and NAACP Political Education in Week 5 still need names, and Shantael's $1,500 invoice is unpaid.",
+  "updated": "July 16, 2026 morning sync. One new thing, and it is about the money. Connect Detroit pivoted Payroll 2 again overnight (Nicole Hill, 3 AM July 16). MyOneFlow still will not be ready, so there is no action for youth or supervisors in the system for Payroll 2. Instead they email you a customized Payroll Transcript by end of day Friday July 17, you fill in the hours worked and benchmarks hit for each approved youth who worked July 6 to 17, and you send it back Monday July 20. Supporting documentation comes later. Bottom line, your hand kept sign-in and benchmark sheets are now the thing that gets your 15 paid, so have them clean and ready for Friday. Everything else holds: DTE is still owed a day, the YPC field day and your workshop are still open and due Monday July 20, banking and credit still need a plan this week, Mental Health in Week 4 and NAACP Political Education in Week 5 still need names, and Shantael's $1,500 invoice is unpaid.",
   "firstDay": "2026-07-08",
-  "headline": "Week 2, Financial Literacy, is underway (opened Monday July 13). Huntington backed out of Banking 101 this year, so both the banking and credit sessions still need a partner. YNAB with Jermaine is set. DTE is back in with Jon Johnson on Work Readiness, but he picked August 4, which collides with the Voter Hotline, so send him a day. Wayne State has your answers, Jessica is building the July 28 schedule. The YPC field day on August 5 has to be registered by Monday July 20. CPR is approved and locked for Thursday July 30. GDYT: our youth are Payroll 2, first pay July 31, pay cards pick up Thursday July 23 by appointment.",
+  "headline": "Week 2, Financial Literacy, is underway (opened Monday July 13). Huntington backed out of Banking 101 this year, so both the banking and credit sessions still need a partner. YNAB with Jermaine is set. DTE is back in with Jon Johnson on Work Readiness, but he picked August 4, which collides with the Voter Hotline, so send him a day. Wayne State has your answers, Jessica is building the July 28 schedule. The YPC field day on August 5 has to be registered by Monday July 20. CPR is approved and locked for Thursday July 30. GDYT payroll pivoted again July 16: myOneFlow will not be ready for Payroll 2, so Connect Detroit emails a Payroll Transcript by Friday July 17 and you report hours and benchmarks for all 15 back by Monday July 20. Pay cards pick up Thursday July 23 by appointment, first pay July 31.",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)",
@@ -164,8 +164,16 @@
       "chipText": "Check the list"
     },
     {
-      "id": "dn-app",
+      "id": "dn-payroll2",
       "n": 6,
+      "title": "Get ready to report Payroll 2 hours by Monday July 20",
+      "desc": "Connect Detroit pivoted Payroll 2 again on July 16 (Nicole Hill, 3 AM). MyOneFlow will not be ready, so there is nothing for youth or supervisors to do in the system for Payroll 2. Instead, Connect Detroit emails you a customized Payroll Transcript by end of day Friday July 17, and you list the hours worked or benchmarks hit for each approved youth who worked July 6 to 17. You send it back to them Monday July 20. Supporting documentation comes later. That means your hand kept sign-in and benchmark sheets are now what gets your 15 paid, so have them clean and ready for Friday.",
+      "chip": "warn",
+      "chipText": "Report Monday"
+    },
+    {
+      "id": "dn-app",
+      "n": 7,
       "title": "Get the 15 youth into the GDYT Empower App",
       "desc": "Kelsey at Connect Detroit sent the app sign-up reminder with a youth instructions deck. The app's modules also satisfy the GDYT financial literacy requirement, and it's separate from payroll. Connect Detroit will send weekly emails showing who still needs to register, so get everyone in early.",
       "chip": "warn",
@@ -173,7 +181,7 @@
     },
     {
       "id": "dn-shantael",
-      "n": 7,
+      "n": 8,
       "title": "Pay Shantael's SEL invoice",
       "desc": "$1,500, still open.",
       "chip": "warn",
@@ -181,7 +189,7 @@
     },
     {
       "id": "dn-wk4",
-      "n": 8,
+      "n": 9,
       "title": "Lock the rest of Week 4",
       "desc": "CPR is locked for Thursday July 30 (approved). Still need Keosha's health day (7/29 or 7/30) and Zipporah's Financial Wellness date.",
       "chip": "warn",
@@ -189,7 +197,7 @@
     },
     {
       "id": "dn-texts",
-      "n": 9,
+      "n": 10,
       "title": "Confirm Week 3 texts",
       "desc": "Moe (7/21, noon), DeQuan (7/23, 11a), Darryl (8/6, 11a).",
       "chip": "warn",
@@ -197,7 +205,7 @@
     },
     {
       "id": "dn-virtual",
-      "n": 10,
+      "n": 11,
       "title": "Answer the two Week 3 virtual requests",
       "desc": "A brother and sister both emailed July 12 asking to work virtually July 20 to 29, and they are fully out July 21 to 24. That covers the in-person heart of Week 3 (Dream Car Reveal Tue 7/21, Entrepreneur Panel Thu 7/23). Reply to work out a virtual plan for those days so they stay on payroll and don't fall behind on the Capstone.",
       "chip": "warn",
@@ -205,7 +213,7 @@
     },
     {
       "id": "dn-fam",
-      "n": 11,
+      "n": 12,
       "title": "Confirm the two bounced families are set for the rest",
       "desc": "Two addresses bounced on the July 6 all-family email. Week 1 is done. Confirm both families by text or call that they have the schedule for the remaining weeks. One of the two also has a working gmail on the same thread.",
       "chip": "warn",
@@ -422,9 +430,9 @@
       },
       {
         "name": "GDYT payroll + pay cards",
-        "note": "Nicole Hill's July 14 update: the Youth Enrollment Tracker now shows the final Approved for Placement list, and only youth on it can work or be paid, so confirm all 15 of ours are on it (see Do Now). GDYT monitors and liaisons will visit the worksite over the next few weeks to check safety, supervision, original work permits and a first aid kit. Payroll 2 timesheets are still not live in myOneFlow, keep tracking hours and benchmarks by hand, more info in the next few days. Our group is Payroll 2, first pay July 31. Pay card pickup is Thursday July 23, by Calendly appointment only, and you must bring sign-in and benchmark sheets or the cards are not released.",
+        "note": "Payroll 2 pivot, July 16 (Nicole Hill, 3 AM): myOneFlow still will not be ready, so there is no youth or supervisor action in the system for Payroll 2. Connect Detroit emails a customized Payroll Transcript by end of day Friday July 17, you report the hours worked and benchmarks hit for each approved youth who worked July 6 to 17, and submit it back Monday July 20. Supporting documentation comes later, so keep the hand kept sign-in and benchmark sheets clean. Still true from the July 14 update: only youth on the final Approved for Placement list in the Youth Enrollment Tracker can be paid, so confirm all 15 are on it (see Do Now), and GDYT monitors will visit the worksite to check safety, supervision, original work permits and a first aid kit. Our group is Payroll 2, first pay July 31. Pay card pickup is Thursday July 23, by Calendly appointment only, and you must bring sign-in and benchmark sheets or the cards are not released.",
         "chip": "wait",
-        "chipText": "Pickup Jul 23"
+        "chipText": "Report by Jul 20"
       },
       {
         "name": "GDYT Empower App",
