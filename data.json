@@ -1,7 +1,7 @@
 {
-  "updated": "July 16, 2026 morning sync. One new thing, and it is about the money. Connect Detroit pivoted Payroll 2 again overnight (Nicole Hill, 3 AM July 16). MyOneFlow still will not be ready, so there is no action for youth or supervisors in the system for Payroll 2. Instead they email you a customized Payroll Transcript by end of day Friday July 17, you fill in the hours worked and benchmarks hit for each approved youth who worked July 6 to 17, and you send it back Monday July 20. Supporting documentation comes later. Bottom line, your hand kept sign-in and benchmark sheets are now the thing that gets your 15 paid, so have them clean and ready for Friday. Everything else holds: DTE is still owed a day, the YPC field day and your workshop are still open and due Monday July 20, banking and credit still need a plan this week, Mental Health in Week 4 and NAACP Political Education in Week 5 still need names, and Shantael's $1,500 invoice is unpaid.",
+  "updated": "July 16, 2026 evening sync. Two real things landed since this morning. ONE, Jermaine answered Shuna on the Young Professionals Conference. He passed on presenting the Your Digital Footprint workshop because he will be out of the country August 4 to 11, so the $250 honorarium is off the table. The young people are still going to the field day, and he is registering the group and chaperones before Monday July 20. That same out of country window, August 4 to 11, covers all of NAACP Week, so it now shapes Week 5: give DTE Wednesday July 22 instead of August 6, and AI Ethics Day has to land Monday August 3. TWO, Connect Detroit firmed up the Payroll 2 documentation rules at 3:42 PM. The Payroll Transcript they send you is NOT acceptable documentation. What gets your 15 paid is your own timesheets, sign in sheets, or benchmark tracking sheets, showing each youth's name, the dates and times worked or benchmarks completed, and youth signatures where they apply. You bring those to pay card pickup on Thursday July 23, and remaining pay will not process until Connect Detroit has them. They sent sample timesheet and benchmark sheets to match. Everything else holds: banking and credit still open, Shantael's $1,500 unpaid, Mental Health in Week 4 and NAACP Political Education in Week 5 still need names.",
   "firstDay": "2026-07-08",
-  "headline": "Week 2, Financial Literacy, is underway (opened Monday July 13). Huntington backed out of Banking 101 this year, so both the banking and credit sessions still need a partner. YNAB with Jermaine is set. DTE is back in with Jon Johnson on Work Readiness, but he picked August 4, which collides with the Voter Hotline, so send him a day. Wayne State has your answers, Jessica is building the July 28 schedule. The YPC field day on August 5 has to be registered by Monday July 20. CPR is approved and locked for Thursday July 30. GDYT payroll pivoted again July 16: myOneFlow will not be ready for Payroll 2, so Connect Detroit emails a Payroll Transcript by Friday July 17 and you report hours and benchmarks for all 15 back by Monday July 20. Pay cards pick up Thursday July 23 by appointment, first pay July 31.",
+  "headline": "Week 2, Financial Literacy, is underway (opened Monday July 13). Huntington backed out of Banking 101 this year, so both the banking and credit sessions still need a partner. YNAB with Jermaine is set. DTE is back in with Jon Johnson on Work Readiness. He asked for August 4, but that is the Voter Hotline and Jermaine is out of the country August 4 to 11, so send him Wednesday July 22. Jermaine passed on the YPC workshop for the same reason, and the youth are still going to the August 5 field day, registering by Monday July 20. Wayne State has your answers, Jessica is building the July 28 schedule. CPR is approved and locked for Thursday July 30. Payroll 2 documentation firmed up July 16: the Payroll Transcript Connect Detroit sends is not acceptable, so bring your own signed sign in and benchmark sheets to pay card pickup Thursday July 23 or the pay will not process. First pay July 31.",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)",
@@ -126,18 +126,18 @@
     {
       "id": "dn-dte-day",
       "n": 1,
-      "title": "Give DTE a day, they picked one you did not offer",
-      "desc": "Jon Johnson, Program Manager in Workforce Development at DTE, came in July 14 on Work Readiness and asked to confirm Tuesday August 4 at 12:00. You never offered August 4. Your July 10 email offered Tue 7/21, Wed 7/22 or Thu 7/23, and then Wed 8/5 or Thu 8/6. He read week of August 4 and picked the Tuesday. August 4 is the primary, it is Voter Hotline day, and August 5 is the YPC field day, so that whole week is spoken for. Two clean answers: Wednesday July 22, which is the only open day in Week 3 and one you already offered him, or Thursday August 6 at noon, which you also offered but stacks him behind Darryl Woods at 11. Wednesday July 22 is the cleaner one.",
+      "title": "Give DTE Wednesday July 22, the other options are gone",
+      "desc": "Jon Johnson, Program Manager in Workforce Development at DTE, came in July 14 on Work Readiness and asked to confirm Tuesday August 4 at 12:00. You never offered August 4. Your July 10 email offered Tue 7/21, Wed 7/22 or Thu 7/23, and then Wed 8/5 or Thu 8/6. He read week of August 4 and picked the Tuesday. August 4 is the Voter Hotline, August 5 is the YPC field day, and Jermaine is now out of the country August 4 to 11, so that whole week and the August 6 option are all gone. That leaves Wednesday July 22 at noon, the only open day in Week 3 and one you already offered him. Send him July 22.",
       "chip": "warn",
       "chipText": "Owed"
     },
     {
       "id": "dn-ypc",
       "n": 2,
-      "title": "Answer Shuna on YPC, the field day and your workshop",
-      "desc": "Two answers owed, both for Wednesday August 5 at Huntington Place. The field day for the youth has to be registered by Monday July 20, first come first served, so this is a five day fuse. Separately, Shuna asked July 15 if you will present Your Digital Footprint again, social media and AI, cyberbullying, internet safety, two 45 minute breakouts at 10:25 and 11:25, $250 honorarium. The two fit together: bring the youth, present while they are there, let them sit in your session. If you do both, Je'Tina covers the group 10:25 to 12:15.",
+      "title": "Confirm the YPC youth registration is submitted (workshop declined)",
+      "desc": "Half done. Jermaine replied to Shuna July 16 and passed on presenting Your Digital Footprint, because he is out of the country August 4 to 11, so the $250 honorarium is off. The youth are still going to the field day on Wednesday August 5 at Huntington Place, and he said he is registering the group and chaperones before Monday July 20. That registration is first come first served and the deadline is Monday, so make sure the org, youth and chaperone registration actually went in before then.",
       "chip": "warn",
-      "chipText": "Due Monday"
+      "chipText": "Register by Mon"
     },
     {
       "id": "dn-bank",
@@ -166,10 +166,10 @@
     {
       "id": "dn-payroll2",
       "n": 6,
-      "title": "Get ready to report Payroll 2 hours by Monday July 20",
-      "desc": "Connect Detroit pivoted Payroll 2 again on July 16 (Nicole Hill, 3 AM). MyOneFlow will not be ready, so there is nothing for youth or supervisors to do in the system for Payroll 2. Instead, Connect Detroit emails you a customized Payroll Transcript by end of day Friday July 17, and you list the hours worked or benchmarks hit for each approved youth who worked July 6 to 17. You send it back to them Monday July 20. Supporting documentation comes later. That means your hand kept sign-in and benchmark sheets are now what gets your 15 paid, so have them clean and ready for Friday.",
+      "title": "Get your Payroll 2 documentation signed for the July 23 pickup",
+      "desc": "Connect Detroit firmed up the Payroll 2 rules July 16, in two emails. The 3 AM pivot said myOneFlow will not be ready and they would send a Payroll Transcript. The 3:42 PM follow up made the documentation rules clear: the Payroll Transcript they send you is NOT acceptable payroll documentation. What gets your 15 paid is your own timesheets, sign in sheets, or benchmark tracking sheets, showing each youth's name, the dates and times worked or benchmarks completed, and youth signatures where they apply. They attached sample timesheet and benchmark sheets to match. You bring that documentation to pay card pickup on Thursday July 23, and remaining pay will not process until Connect Detroit has it. So get your hand kept sign in and benchmark sheets clean and signed now.",
       "chip": "warn",
-      "chipText": "Report Monday"
+      "chipText": "Sign + bring Jul 23"
     },
     {
       "id": "dn-app",
@@ -311,9 +311,9 @@
           "who": "Moe Kebe, Tue 7/21, noon (text to send)"
         },
         {
-          "dot": "r",
-          "name": "Wednesday 7/22 is open",
-          "who": "The only empty day in Week 3. DTE Work Readiness fits here and you already offered it."
+          "dot": "a",
+          "name": "Wednesday 7/22, send DTE here",
+          "who": "The only empty day in Week 3. With Jermaine out Aug 4 to 11, this is now DTE's clean slot. Send Jon Johnson July 22 at noon."
         },
         {
           "dot": "a",
@@ -366,23 +366,23 @@
       "items": [
         {
           "dot": "a",
-          "name": "Young Professionals Conference (field day + your workshop)",
-          "who": "Wed 8/5, Huntington Place, 8:30 to 2. Register by Mon 7/20. Shuna also asked you to present Your Digital Footprint twice, 10:25 and 11:25, $250 honorarium. Both undecided."
+          "name": "Young Professionals Conference field day",
+          "who": "Wed 8/5, Huntington Place, 8:30 to 2. The youth are going, register the group and chaperones by Mon 7/20. Jermaine passed on presenting the workshop, he is out of the country Aug 4 to 11."
         },
         {
           "dot": "g",
           "name": "Election Day Voter Hotline",
-          "who": "Jermaine + NAACP staff, Tue 8/4"
+          "who": "NAACP staff, Tue 8/4. Jermaine is out of the country Aug 4 to 11, so staff run the hotline."
         },
         {
           "dot": "a",
           "name": "DTE Work Readiness",
-          "who": "Jon Johnson, DTE Workforce Development. He asked for Tue 8/4 at noon, which is Voter Hotline day. Send him 8/6 at noon."
+          "who": "Jon Johnson, DTE. He asked for Tue 8/4, which is Voter Hotline day and inside Jermaine's Aug 4 to 11 trip, so Aug 6 is out too. Send him Wed 7/22 at noon."
         },
         {
           "dot": "a",
           "name": "Better Together, Civic Engagement",
-          "who": "Darryl Woods, Thu 8/6, 11a (text to send)"
+          "who": "Darryl Woods, Thu 8/6, 11a (text to send). Jermaine is out Aug 4 to 11, so line up who hosts the room."
         },
         {
           "dot": "r",
@@ -390,9 +390,9 @@
           "who": "Needs a presenter"
         },
         {
-          "dot": "g",
+          "dot": "a",
           "name": "AI Ethics Day",
-          "who": "Jermaine"
+          "who": "Jermaine, Mon Aug 3 only. He is out of the country Aug 4 to 11."
         }
       ]
     },
@@ -430,9 +430,9 @@
       },
       {
         "name": "GDYT payroll + pay cards",
-        "note": "Payroll 2 pivot, July 16 (Nicole Hill, 3 AM): myOneFlow still will not be ready, so there is no youth or supervisor action in the system for Payroll 2. Connect Detroit emails a customized Payroll Transcript by end of day Friday July 17, you report the hours worked and benchmarks hit for each approved youth who worked July 6 to 17, and submit it back Monday July 20. Supporting documentation comes later, so keep the hand kept sign-in and benchmark sheets clean. Still true from the July 14 update: only youth on the final Approved for Placement list in the Youth Enrollment Tracker can be paid, so confirm all 15 are on it (see Do Now), and GDYT monitors will visit the worksite to check safety, supervision, original work permits and a first aid kit. Our group is Payroll 2, first pay July 31. Pay card pickup is Thursday July 23, by Calendly appointment only, and you must bring sign-in and benchmark sheets or the cards are not released.",
+        "note": "Payroll 2 firmed up July 16 in two emails from Nicole Hill. The 3 AM pivot: myOneFlow will not be ready, so there is no youth or supervisor action in the system. The 3:42 PM follow up set the documentation rules: the Payroll Transcript Connect Detroit sends is NOT acceptable documentation. What counts is your own timesheets, sign in sheets, or benchmark tracking sheets, with each youth's name, dates and times worked or benchmarks completed, and youth signatures where they apply. They attached sample timesheet and benchmark sheets. Remaining pay will not process until Connect Detroit has that documentation. Still true from the July 14 update: only youth on the final Approved for Placement list in the Youth Enrollment Tracker can be paid, so confirm all 15 are on it (see Do Now), and GDYT monitors will visit the worksite to check safety, supervision, original work permits and a first aid kit. Our group is Payroll 2, first pay July 31. Pay card pickup is Thursday July 23, by Calendly appointment only, and you must bring the signed sign in and benchmark sheets or the cards are not released.",
         "chip": "wait",
-        "chipText": "Report by Jul 20"
+        "chipText": "Sign + bring Jul 23"
       },
       {
         "name": "GDYT Empower App",
@@ -441,8 +441,8 @@
         "chipText": "Register youth"
       },
       {
-        "name": "Young Professionals Conference (Connect Detroit), two decisions",
-        "note": "Two separate things now, both on Wednesday August 5 at Huntington Place. ONE, the field day: Shuna Hayward sent the 2026 YPC details July 13, 8:30 to 2:00, sponsored by DWIHN for the summer youth employment programs, free, register the org, youth and chaperones by Monday July 20, first come first served. It fits the open Aug 5 slot in Week 5. TWO, NEW July 15: Shuna asked you to present a workshop again. She wants Your Digital Footprint, the session you ran last year, covering social media and AI, cyberbullying, and internet safety. Two 45 minute breakouts, 10:25 to 11:15 and repeated 11:25 to 12:15. She is offering a $250 honorarium and said your session was very well received last year. If you say yes to both, your youth are in the building while you present, so Je'Tina covers them from 10:25 to 12:15, and they can sit in your session.",
+        "name": "Young Professionals Conference (Connect Detroit)",
+        "note": "Wednesday August 5 at Huntington Place, 8:30 to 2:00, sponsored by DWIHN for the summer youth employment programs, free. Two things came up. ONE, the field day: register the org, youth and chaperones by Monday July 20, first come first served. Jermaine replied July 16 that the youth are going and he is registering the group and chaperones before Monday. TWO, Shuna asked him July 15 to present Your Digital Footprint again, two 45 minute breakouts, $250 honorarium. He declined July 16, he is out of the country August 4 to 11. So the workshop is closed, and all that is left is confirming the youth registration went in.",
         "chip": "wait",
         "chipText": "Register by Jul 20"
       },
@@ -456,9 +456,9 @@
     "needs": [
       {
         "name": "Jon Johnson (DTE)",
-        "note": "Replied July 14 and copied Monique, Mark, Je'Tina and Kamilia. He is a Program Manager in Workforce Development at DTE, Monique passed BRIDGES to him, and he is in on Work Readiness. He asked to confirm Tuesday August 4 at 12:00, but that is our Election Day Voter Hotline and it was not on the list you gave him. You offered Wednesday August 5 or Thursday August 6. Send him a day.",
+        "note": "Replied July 14 and copied Monique, Mark, Je'Tina and Kamilia. He is a Program Manager in Workforce Development at DTE, Monique passed BRIDGES to him, and he is in on Work Readiness. He asked to confirm Tuesday August 4 at 12:00, but that is our Election Day Voter Hotline. August 4 to 6 is also inside Jermaine's out of country trip (Aug 4 to 11), so the August options are gone. Send him Wednesday July 22 at noon.",
         "chip": "warn",
-        "chipText": "Send a day"
+        "chipText": "Send Jul 22"
       },
       {
         "name": "Shantael Harbin",
