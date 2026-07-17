@@ -1,7 +1,7 @@
 {
-  "updated": "July 16, 2026 evening sync. Two real things landed since this morning. ONE, Jermaine answered Shuna on the Young Professionals Conference. He passed on presenting the Your Digital Footprint workshop because he will be out of the country August 4 to 11, so the $250 honorarium is off the table. The young people are still going to the field day, and he is registering the group and chaperones before Monday July 20. That same out of country window, August 4 to 11, covers all of NAACP Week, so it now shapes Week 5: give DTE Wednesday July 22 instead of August 6, and AI Ethics Day has to land Monday August 3. TWO, Connect Detroit firmed up the Payroll 2 documentation rules at 3:42 PM. The Payroll Transcript they send you is NOT acceptable documentation. What gets your 15 paid is your own timesheets, sign in sheets, or benchmark tracking sheets, showing each youth's name, the dates and times worked or benchmarks completed, and youth signatures where they apply. You bring those to pay card pickup on Thursday July 23, and remaining pay will not process until Connect Detroit has them. They sent sample timesheet and benchmark sheets to match. Everything else holds: banking and credit still open, Shantael's $1,500 unpaid, Mental Health in Week 4 and NAACP Political Education in Week 5 still need names.",
+  "updated": "July 17, 2026. Two things closed themselves out overnight, both because Jermaine already answered them. ONE, DTE is handled. He wrote Jon Johnson back at 5:03 PM July 16, told him August 4 is the Election Primary and the whole organization is tied up, and put two days on the table, Wednesday July 22 or Wednesday July 29, both noon to 1:00 in person at the Branch, 15 young people ages 14 to 19. He copied Mark, Monique, Je'Tina and Kamilia and offered to set the room. So DTE is off your plate and on Jon's. Note that if Jon takes July 29, that is the same day as Keosha's possible health session, so hold noon that day until he answers. TWO, Shuna replied this morning at 7:20 AM and closed the Young Professionals Conference workshop thread, thanks for letting me know, safe travels. That leaves only the youth field day registration, which is still due Monday July 20. Everything else holds: banking and credit still open, Shantael's $1,500 unpaid, Payroll 2 sheets signed and brought July 23, Mental Health in Week 4 and NAACP Political Education in Week 5 still need names.",
   "firstDay": "2026-07-08",
-  "headline": "Week 2, Financial Literacy, is underway (opened Monday July 13). Huntington backed out of Banking 101 this year, so both the banking and credit sessions still need a partner. YNAB with Jermaine is set. DTE is back in with Jon Johnson on Work Readiness. He asked for August 4, but that is the Voter Hotline and Jermaine is out of the country August 4 to 11, so send him Wednesday July 22. Jermaine passed on the YPC workshop for the same reason, and the youth are still going to the August 5 field day, registering by Monday July 20. Wayne State has your answers, Jessica is building the July 28 schedule. CPR is approved and locked for Thursday July 30. Payroll 2 documentation firmed up July 16: the Payroll Transcript Connect Detroit sends is not acceptable, so bring your own signed sign in and benchmark sheets to pay card pickup Thursday July 23 or the pay will not process. First pay July 31.",
+  "headline": "Week 2, Financial Literacy, closes out today. Huntington backed out of Banking 101 this year, so both the banking and credit sessions still need a partner. YNAB with Jermaine is set. DTE is answered: Jon Johnson got Wednesday July 22 or Wednesday July 29 at noon, and now you wait on him to pick. The YPC workshop is closed, Shuna wrote back this morning, so all that is left there is registering the youth and chaperones for the August 5 field day by Monday July 20. Wayne State has your answers, Jessica is building the July 28 schedule. CPR is approved and locked for Thursday July 30. Payroll 2 documentation is the big one now: the Payroll Transcript Connect Detroit sends is not acceptable, so bring your own signed sign in and benchmark sheets to pay card pickup Thursday July 23 or the pay will not process. First pay July 31.",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)",
@@ -124,24 +124,16 @@
   ],
   "doNow": [
     {
-      "id": "dn-dte-day",
-      "n": 1,
-      "title": "Give DTE Wednesday July 22, the other options are gone",
-      "desc": "Jon Johnson, Program Manager in Workforce Development at DTE, came in July 14 on Work Readiness and asked to confirm Tuesday August 4 at 12:00. You never offered August 4. Your July 10 email offered Tue 7/21, Wed 7/22 or Thu 7/23, and then Wed 8/5 or Thu 8/6. He read week of August 4 and picked the Tuesday. August 4 is the Voter Hotline, August 5 is the YPC field day, and Jermaine is now out of the country August 4 to 11, so that whole week and the August 6 option are all gone. That leaves Wednesday July 22 at noon, the only open day in Week 3 and one you already offered him. Send him July 22.",
-      "chip": "warn",
-      "chipText": "Owed"
-    },
-    {
       "id": "dn-ypc",
-      "n": 2,
-      "title": "Confirm the YPC youth registration is submitted (workshop declined)",
-      "desc": "Half done. Jermaine replied to Shuna July 16 and passed on presenting Your Digital Footprint, because he is out of the country August 4 to 11, so the $250 honorarium is off. The youth are still going to the field day on Wednesday August 5 at Huntington Place, and he said he is registering the group and chaperones before Monday July 20. That registration is first come first served and the deadline is Monday, so make sure the org, youth and chaperone registration actually went in before then.",
+      "n": 1,
+      "title": "Get the YPC youth registration in before Monday",
+      "desc": "The workshop half is closed. Jermaine passed on presenting Your Digital Footprint because he is out of the country August 4 to 11, and Shuna wrote back July 17 to accept it, so the $250 honorarium is off and that thread is done. What is left is the field day. The youth are still going Wednesday August 5 at Huntington Place, and he said he is registering the group and chaperones before Monday July 20. That registration is first come first served and Monday is the deadline, so confirm the org, youth and chaperone registration actually went in.",
       "chip": "warn",
       "chipText": "Register by Mon"
     },
     {
       "id": "dn-bank",
-      "n": 3,
+      "n": 2,
       "title": "Cover the banking side of Week 2 (Huntington out)",
       "desc": "Courtney Elledge at Huntington wrote back and cannot do Banking 101 this year. She offered to send financial education and banking materials for the youth to use during the week. So now both Banking 101 and the credit session still need a plan. Take her materials, and either find a fast replacement or have Jermaine run Banking 101. Week 2 is already underway, so this needs a plan now.",
       "chip": "warn",
@@ -149,7 +141,7 @@
     },
     {
       "id": "dn-cpr-cost",
-      "n": 4,
+      "n": 3,
       "title": "Price CPR for staff and youth council",
       "desc": "Kamilia approved the CPR and First Aid cert for all 15 youth (Natosha Gurley, RN, $12 each, about $180). She now wants the total cost to also certify staff and some youth council members. Natosha is open to more people. Get a headcount and send Kamilia the number.",
       "chip": "warn",
@@ -157,7 +149,7 @@
     },
     {
       "id": "dn-yet",
-      "n": 5,
+      "n": 4,
       "title": "Confirm all 15 are on the final GDYT approved list",
       "desc": "Nicole Hill's July 14 update says the Youth Enrollment Tracker now holds the final Approved for Placement list, and only youth on it can work or be paid. Youth who worked before being approved cannot be paid for that time, and GDYT will not cover unapproved youth. Check the YET and confirm all 15 of ours show Approved for Placement. Also get the worksite ready for GDYT monitor visits over the next few weeks: original work permits on hand and a first aid kit.",
       "chip": "warn",
@@ -165,7 +157,7 @@
     },
     {
       "id": "dn-payroll2",
-      "n": 6,
+      "n": 5,
       "title": "Get your Payroll 2 documentation signed for the July 23 pickup",
       "desc": "Connect Detroit firmed up the Payroll 2 rules July 16, in two emails. The 3 AM pivot said myOneFlow will not be ready and they would send a Payroll Transcript. The 3:42 PM follow up made the documentation rules clear: the Payroll Transcript they send you is NOT acceptable payroll documentation. What gets your 15 paid is your own timesheets, sign in sheets, or benchmark tracking sheets, showing each youth's name, the dates and times worked or benchmarks completed, and youth signatures where they apply. They attached sample timesheet and benchmark sheets to match. You bring that documentation to pay card pickup on Thursday July 23, and remaining pay will not process until Connect Detroit has it. So get your hand kept sign in and benchmark sheets clean and signed now.",
       "chip": "warn",
@@ -173,7 +165,7 @@
     },
     {
       "id": "dn-app",
-      "n": 7,
+      "n": 6,
       "title": "Get the 15 youth into the GDYT Empower App",
       "desc": "Kelsey at Connect Detroit sent the app sign-up reminder with a youth instructions deck. The app's modules also satisfy the GDYT financial literacy requirement, and it's separate from payroll. Connect Detroit will send weekly emails showing who still needs to register, so get everyone in early.",
       "chip": "warn",
@@ -181,7 +173,7 @@
     },
     {
       "id": "dn-shantael",
-      "n": 8,
+      "n": 7,
       "title": "Pay Shantael's SEL invoice",
       "desc": "$1,500, still open.",
       "chip": "warn",
@@ -189,15 +181,15 @@
     },
     {
       "id": "dn-wk4",
-      "n": 9,
+      "n": 8,
       "title": "Lock the rest of Week 4",
-      "desc": "CPR is locked for Thursday July 30 (approved). Still need Keosha's health day (7/29 or 7/30) and Zipporah's Financial Wellness date.",
+      "desc": "CPR is locked for Thursday July 30 (approved). Still need Keosha's health day (7/29 or 7/30) and Zipporah's Financial Wellness date. Hold noon on July 29 until Jon Johnson answers, that is one of the two days you offered DTE.",
       "chip": "warn",
       "chipText": "Open"
     },
     {
       "id": "dn-texts",
-      "n": 10,
+      "n": 9,
       "title": "Confirm Week 3 texts",
       "desc": "Moe (7/21, noon), DeQuan (7/23, 11a), Darryl (8/6, 11a).",
       "chip": "warn",
@@ -205,7 +197,7 @@
     },
     {
       "id": "dn-virtual",
-      "n": 11,
+      "n": 10,
       "title": "Answer the two Week 3 virtual requests",
       "desc": "A brother and sister both emailed July 12 asking to work virtually July 20 to 29, and they are fully out July 21 to 24. That covers the in-person heart of Week 3 (Dream Car Reveal Tue 7/21, Entrepreneur Panel Thu 7/23). Reply to work out a virtual plan for those days so they stay on payroll and don't fall behind on the Capstone.",
       "chip": "warn",
@@ -213,7 +205,7 @@
     },
     {
       "id": "dn-fam",
-      "n": 12,
+      "n": 11,
       "title": "Confirm the two bounced families are set for the rest",
       "desc": "Two addresses bounced on the July 6 all-family email. Week 1 is done. Confirm both families by text or call that they have the schedule for the remaining weeks. One of the two also has a working gmail on the same thread.",
       "chip": "warn",
@@ -312,8 +304,8 @@
         },
         {
           "dot": "a",
-          "name": "Wednesday 7/22, send DTE here",
-          "who": "The only empty day in Week 3. With Jermaine out Aug 4 to 11, this is now DTE's clean slot. Send Jon Johnson July 22 at noon."
+          "name": "Wednesday 7/22, DTE Work Readiness (offered)",
+          "who": "Offered to Jon Johnson July 16, noon to 1:00, along with Wed 7/29 as the other choice. Waiting on his pick. Hold both."
         },
         {
           "dot": "a",
@@ -336,6 +328,11 @@
           "dot": "g",
           "name": "Wayne State Campus Day (field trip)",
           "who": "Tue 7/28, 10 to 2, confirmed. Your answers went to Jessica Archer July 15. She is building the schedule and sorting lunch."
+        },
+        {
+          "dot": "a",
+          "name": "Wednesday 7/29 noon, DTE's other option",
+          "who": "The second day offered to Jon Johnson. If he takes it, it sits on the same day as Keosha's possible health session, so hold noon until he answers."
         },
         {
           "dot": "a",
@@ -367,7 +364,7 @@
         {
           "dot": "a",
           "name": "Young Professionals Conference field day",
-          "who": "Wed 8/5, Huntington Place, 8:30 to 2. The youth are going, register the group and chaperones by Mon 7/20. Jermaine passed on presenting the workshop, he is out of the country Aug 4 to 11."
+          "who": "Wed 8/5, Huntington Place, 8:30 to 2. The youth are going, register the group and chaperones by Mon 7/20. Jermaine passed on presenting the workshop and Shuna accepted that July 17, so only the registration is left."
         },
         {
           "dot": "g",
@@ -375,9 +372,9 @@
           "who": "NAACP staff, Tue 8/4. Jermaine is out of the country Aug 4 to 11, so staff run the hotline."
         },
         {
-          "dot": "a",
-          "name": "DTE Work Readiness",
-          "who": "Jon Johnson, DTE. He asked for Tue 8/4, which is Voter Hotline day and inside Jermaine's Aug 4 to 11 trip, so Aug 6 is out too. Send him Wed 7/22 at noon."
+          "dot": "g",
+          "name": "DTE moved out of NAACP Week",
+          "who": "Jon Johnson asked for Tue 8/4. Jermaine told him July 16 that is the Election Primary and offered Wed 7/22 or Wed 7/29 at noon instead. DTE is no longer a Week 5 item."
         },
         {
           "dot": "a",
@@ -423,6 +420,12 @@
         "chipText": "Her move"
       },
       {
+        "name": "Jon Johnson (DTE)",
+        "note": "Answered July 16 at 5:03 PM. Jermaine told him August 4 does not work because it is the Election Primary and the whole organization and the youth are on election work, then offered Wednesday July 22 or Wednesday July 29, both noon to 1:00, in person at the Branch, 15 young people ages 14 to 19, careers, networking, resumes, personal branding, whatever DTE wants to bring. He copied Mark, Monique, Je'Tina and Kamilia and offered to set the room. Now you wait on Jon to pick a day.",
+        "chip": "wait",
+        "chipText": "His move"
+      },
+      {
         "name": "Zipporah Bolar",
         "note": "Checking her schedule for the Financial Wellness session (Week 2 or 4).",
         "chip": "wait",
@@ -442,7 +445,7 @@
       },
       {
         "name": "Young Professionals Conference (Connect Detroit)",
-        "note": "Wednesday August 5 at Huntington Place, 8:30 to 2:00, sponsored by DWIHN for the summer youth employment programs, free. Two things came up. ONE, the field day: register the org, youth and chaperones by Monday July 20, first come first served. Jermaine replied July 16 that the youth are going and he is registering the group and chaperones before Monday. TWO, Shuna asked him July 15 to present Your Digital Footprint again, two 45 minute breakouts, $250 honorarium. He declined July 16, he is out of the country August 4 to 11. So the workshop is closed, and all that is left is confirming the youth registration went in.",
+        "note": "Wednesday August 5 at Huntington Place, 8:30 to 2:00, sponsored by DWIHN for the summer youth employment programs, free. The workshop is settled. Shuna asked July 15 for Your Digital Footprint again, two 45 minute breakouts, $250 honorarium, Jermaine declined July 16 because he is out of the country August 4 to 11, and she wrote back July 17 at 7:20 AM, thanks for letting me know, safe travels. Nothing owed there. What is left is the field day: register the org, youth and chaperones by Monday July 20, first come first served. Jermaine said July 16 the youth are going and he is registering the group and chaperones before Monday.",
         "chip": "wait",
         "chipText": "Register by Jul 20"
       },
@@ -454,12 +457,6 @@
       }
     ],
     "needs": [
-      {
-        "name": "Jon Johnson (DTE)",
-        "note": "Replied July 14 and copied Monique, Mark, Je'Tina and Kamilia. He is a Program Manager in Workforce Development at DTE, Monique passed BRIDGES to him, and he is in on Work Readiness. He asked to confirm Tuesday August 4 at 12:00, but that is our Election Day Voter Hotline. August 4 to 6 is also inside Jermaine's out of country trip (Aug 4 to 11), so the August options are gone. Send him Wednesday July 22 at noon.",
-        "chip": "warn",
-        "chipText": "Send Jul 22"
-      },
       {
         "name": "Shantael Harbin",
         "note": "SEL confirmed, invoice sent. Pay the $1,500.",
