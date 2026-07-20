@@ -91,6 +91,15 @@
   .foot{text-align:center;color:var(--mut);font-size:11px;margin-top:18px;line-height:1.6}
   .reset{display:block;margin:14px auto 0;background:none;border:1px solid var(--line);color:var(--mut);
     font-size:11px;padding:6px 12px;border-radius:999px;cursor:pointer}
+  .qlinks{display:flex;gap:8px;padding:0 14px 2px;max-width:640px;margin:0 auto;flex-wrap:wrap}
+  .qlink{flex:1;min-width:150px;display:flex;align-items:center;gap:9px;text-decoration:none;
+    background:var(--card);border:1px solid var(--line);border-radius:12px;padding:11px 13px}
+  .qlink.primary{border-color:var(--done);background:rgba(53,192,138,.10)}
+  .qlink .ico{font-size:17px;flex:none}
+  .qlink .qt{line-height:1.2}
+  .qlink .qt b{display:block;font-size:13px;color:var(--text);font-weight:700}
+  .qlink .qt span{font-size:10.5px;color:var(--mut)}
+  .qlink.primary .qt b{color:var(--done)}
 </style>
 </head>
 <body>
@@ -104,6 +113,13 @@
     <div class="day"><b id="hl">15 youth</b><span id="hl2"></span></div>
   </div>
 </header>
+
+<div class="qlinks">
+  <a class="qlink primary" href="https://docs.google.com/spreadsheets/d/1vmL1LYUUscihqIu8DZvDf-qWRWmisTTWOzX8xwyChoI/edit" target="_blank" rel="noopener">
+    <span class="ico">📋</span><span class="qt"><b>Who checked in</b><span>Daily sign-in log, by name and time</span></span></a>
+  <a class="qlink" href="https://docs.google.com/forms/d/e/1FAIpQLScM_Rk1bsklPpCWcweShWvzIFXEZZFbGIfliUZMDA5Wo4cGpA/viewform" target="_blank" rel="noopener">
+    <span class="ico">✍️</span><span class="qt"><b>Sign-in form</b><span>The QR youth scan each morning</span></span></a>
+</div>
 
 <nav>
   <button class="tabbtn on" data-tab="w1">Week 1</button>
