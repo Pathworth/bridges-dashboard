@@ -1,7 +1,7 @@
 {
-  "updated": "July 20, 2026 evening. Payroll 2 transcript is in on time. Ashley confirmed for Thursday noon. Week 3 is set except DTE, still waiting on Jon Johnson to pick Wednesday 7/22 or 7/29. Checked items now move to Completed automatically so your Do Now stays clean. Next up for tomorrow: capstone and back to school.",
+  "updated": "July 20, 2026, late evening. Connect Detroit locked the Payroll 2 pay card pickup: Thursday July 23, 9:30 to 5, at 613 Abbott Street, by appointment only. Schedule the Calendly slot, send a rep, and bring documentation of time worked for each youth. Cards go to the agency, not the youth, so do not send the young people. Jordan-Kallel is out this week at the USA Cycling Nationals and his father asked for virtual work, so he joins the Week 3 virtual list. Next up: schedule that pickup and answer the three virtual requests.",
   "firstDay": "2026-07-08",
-  "headline": "Payroll 2 is submitted and in on time · Week 3 is locking in: Moe, Branding, Chris Cohen and DeQuan are set. Waiting on Zipporah and Ashleigh to confirm, and DTE to pick his day. Next: send Connect Detroit your signed sign-in and benchmark backup so the rest of the pay releases.",
+  "headline": "Pay card pickup is set: Thursday July 23, 9:30 to 5 at 613 Abbott Street, by appointment. Schedule the Calendly slot, send a rep, bring documentation of time worked. Cards go to the agency, not the youth. Week 3 is locking in: Moe, Branding, Chris Cohen, DeQuan and Ashleigh are set, waiting on Zipporah and DTE's day. A third young person is out this week for a cycling national, fold him into the virtual plan.",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)",
@@ -133,8 +133,16 @@
       "done": true
     },
     {
-      "id": "dn-ypc",
+      "id": "dn-paycard-pickup",
       "n": 2,
+      "title": "Schedule and staff the Payroll 2 pay card pickup, Thursday 7/23",
+      "desc": "Dawn at Connect Detroit set it July 20. Pickup is Thursday July 23, 9:30 to 5, at Connect Detroit, 613 Abbott Street, Detroit 48226, Amphitheatre on the lower level, by appointment only. Schedule your slot on the Calendly link, email gdyt@connectdetroit.org when you are 10 minutes out with NAACP in the message, and bring documentation of time worked for each youth. An agency rep picks up all 15 cards, do not send the young people. Once you have them, check them against the list, report any missing to Dawn, and have each youth scan the QR code or use the Jotform link to acknowledge receipt. Cards cannot be mailed to youth. Jordan-Kallel's father asked to pick up his son's card, so tell families the Branch collects the cards and hands them out.",
+      "chip": "warn",
+      "chipText": "Thu 7/23"
+    },
+    {
+      "id": "dn-ypc",
+      "n": 3,
       "title": "Get the YPC youth registration in before Monday",
       "desc": "The workshop half is closed. Jermaine passed on presenting Your Digital Footprint because he is out of the country August 4 to 11, and Shuna wrote back July 17 to accept it, so the $250 honorarium is off and that thread is done. What is left is the field day. The youth are still going Wednesday August 5 at Huntington Place, and he said he is registering the group and chaperones before Monday July 20. That registration is first come first served and Monday is the deadline, so confirm the org, youth and chaperone registration actually went in.",
       "chip": "warn",
@@ -142,7 +150,7 @@
     },
     {
       "id": "dn-bank",
-      "n": 3,
+      "n": 4,
       "title": "Cover the banking side of Week 2 (Huntington out)",
       "desc": "Courtney Elledge at Huntington wrote back and cannot do Banking 101 this year. She offered to send financial education and banking materials for the youth to use during the week. So now both Banking 101 and the credit session still need a plan. Take her materials, and either find a fast replacement or have Jermaine run Banking 101. Week 2 is already underway, so this needs a plan now.",
       "chip": "warn",
@@ -150,7 +158,7 @@
     },
     {
       "id": "dn-cpr-cost",
-      "n": 4,
+      "n": 5,
       "title": "Price CPR for staff and youth council",
       "desc": "Kamilia approved the CPR and First Aid cert for all 15 youth (Natosha Gurley, RN, $12 each, about $180). She now wants the total cost to also certify staff and some youth council members. Natosha is open to more people. Get a headcount and send Kamilia the number.",
       "chip": "warn",
@@ -158,7 +166,7 @@
     },
     {
       "id": "dn-yet",
-      "n": 5,
+      "n": 6,
       "title": "Confirm all 15 are on the final GDYT approved list",
       "desc": "Nicole Hill's July 14 update says the Youth Enrollment Tracker now holds the final Approved for Placement list, and only youth on it can work or be paid. Youth who worked before being approved cannot be paid for that time, and GDYT will not cover unapproved youth. Check the YET and confirm all 15 of ours show Approved for Placement. Also get the worksite ready for GDYT monitor visits over the next few weeks: original work permits on hand and a first aid kit.",
       "chip": "warn",
@@ -166,7 +174,7 @@
     },
     {
       "id": "dn-payroll2",
-      "n": 6,
+      "n": 7,
       "title": "Send Connect Detroit the payroll backup docs",
       "desc": "Now that the transcript is in, they need your proof: signed daily sign-in sheets and benchmark tracking. Remaining pay is held until Connect Detroit has it.",
       "chip": "warn",
@@ -174,7 +182,7 @@
     },
     {
       "id": "dn-app",
-      "n": 7,
+      "n": 8,
       "title": "Get the 15 youth into the GDYT Empower App",
       "desc": "Kelsey at Connect Detroit sent the app sign-up reminder with a youth instructions deck. The app's modules also satisfy the GDYT financial literacy requirement, and it's separate from payroll. The GDYT App team now sends an automatic weekly module progress report, the first arrived July 20 at 6 AM listing which youth have signed up and their module counts. Anyone not on the report has not signed up yet. Sign up group code is naacp-1024 at empowerme.app/gdyt, so use the report to chase whoever is still missing.",
       "chip": "warn",
@@ -182,7 +190,7 @@
     },
     {
       "id": "dn-shantael",
-      "n": 8,
+      "n": 9,
       "title": "Pay Shantael's SEL invoice",
       "desc": "$1,500, still open.",
       "chip": "warn",
@@ -190,7 +198,7 @@
     },
     {
       "id": "dn-wk4",
-      "n": 9,
+      "n": 10,
       "title": "Lock the rest of Week 4",
       "desc": "CPR is locked for Thursday July 30 (approved). Still need Keosha's health day (7/29 or 7/30) and Zipporah's Financial Wellness date. Hold noon on July 29 until Jon Johnson answers, that is one of the two days you offered DTE.",
       "chip": "warn",
@@ -198,23 +206,23 @@
     },
     {
       "id": "dn-texts",
-      "n": 10,
-      "title": "Close out the last two Week 3 confirmations",
-      "desc": "Most of Week 3 is locked. Two still open: Ashleigh Anderson needs to confirm Thursday 7/23 at noon, and DTE's Jon Johnson needs to pick Wednesday 7/22 or 7/29 for his noon slot.",
+      "n": 11,
+      "title": "Get DTE to pick his Week 3 day",
+      "desc": "Almost all of Week 3 is locked. Ashleigh Anderson is confirmed for Thursday 7/23 at noon. The one still open is DTE's Jon Johnson, who needs to pick Wednesday 7/22 or 7/29 for his noon slot.",
       "chip": "warn",
       "chipText": "Follow up"
     },
     {
       "id": "dn-virtual",
-      "n": 11,
-      "title": "Answer the two Week 3 virtual requests",
-      "desc": "A brother and sister both emailed July 12 asking to work virtually July 20 to 29, and they are fully out July 21 to 24. That covers the in-person heart of Week 3 (Dream Car Reveal Tue 7/21, Entrepreneur Panel Thu 7/23). Reply to work out a virtual plan for those days so they stay on payroll and don't fall behind on the Capstone.",
+      "n": 12,
+      "title": "Answer the three Week 3 virtual requests",
+      "desc": "Now three young people. A brother and sister both emailed July 12 asking to work virtually July 20 to 29, and they are fully out July 21 to 24. Jordan-Kallel's father wrote July 20 that his son is out of town this week at the USA Cycling Nationals and asked for the week's assignments to complete while away. That window covers the in-person heart of Week 3 (Dream Car Reveal Tue 7/21, Entrepreneur Panel Thu 7/23). Reply to all three with a virtual plan so they stay on payroll and don't fall behind on the Capstone.",
       "chip": "warn",
       "chipText": "Reply"
     },
     {
       "id": "dn-fam",
-      "n": 12,
+      "n": 13,
       "title": "Confirm the two bounced families are set for the rest",
       "desc": "Two addresses bounced on the July 6 all-family email. Week 1 is done. Confirm both families by text or call that they have the schedule for the remaining weeks. One of the two also has a working gmail on the same thread.",
       "chip": "warn",
@@ -457,9 +465,9 @@
       },
       {
         "name": "GDYT payroll + pay cards",
-        "note": "Payroll 2 pivoted again July 17. myOneFlow will not be ready, so no one touches the system. Each partner fills out one customized Payroll Transcript, the Excel form Connect Detroit sends, and emails it to gdytpartnermessage@ConnectDetroit.org by 5:00 PM Monday July 20. No other format accepted, one per agency. Tab A is total benchmarks completed per youth for July 6 to 10 and July 13 to 17, Tab B is the authorization signature. The file is sorted, the first attachment was named for Mack Alive but Nicole corrected it and the right form is named NAACP Hybrid Payroll #2 Transcript. Backup documentation, your own signed sign in and benchmark sheets, is still required and remaining pay is held until Connect Detroit has it. Only youth on the final Approved for Placement list in the Youth Enrollment Tracker are paid, so confirm all 15 are on it (see Do Now), and GDYT monitors will visit to check safety, supervision, original work permits and a first aid kit. Our group is Payroll 2, first pay July 31, pay card pickup Thursday July 23 by Calendly appointment.",
+        "note": "Payroll 2 pivoted again July 17. myOneFlow will not be ready, so no one touches the system. Each partner fills out one customized Payroll Transcript, the Excel form Connect Detroit sends, and emails it to gdytpartnermessage@ConnectDetroit.org by 5:00 PM Monday July 20. No other format accepted, one per agency. Tab A is total benchmarks completed per youth for July 6 to 10 and July 13 to 17, Tab B is the authorization signature. The file is sorted, the first attachment was named for Mack Alive but Nicole corrected it and the right form is named NAACP Hybrid Payroll #2 Transcript. Backup documentation, your own signed sign in and benchmark sheets, is still required and remaining pay is held until Connect Detroit has it. Only youth on the final Approved for Placement list in the Youth Enrollment Tracker are paid, so confirm all 15 are on it (see Do Now), and GDYT monitors will visit to check safety, supervision, original work permits and a first aid kit. Our group is Payroll 2, first pay July 31. Dawn confirmed the pay card pickup July 20: Thursday July 23, 9:30 to 5, at Connect Detroit, 613 Abbott Street, by Calendly appointment, agency rep only. Bring documentation of time worked, do not send youth, and youth acknowledge receipt by QR code. Cards cannot be mailed to youth (see Do Now).",
         "chip": "wait",
-        "chipText": "Submit by Mon 5pm"
+        "chipText": "Pickup Thu 7/23"
       },
       {
         "name": "GDYT Empower App",
@@ -488,8 +496,8 @@
         "chipText": "Pay invoice"
       },
       {
-        "name": "Two participants, Week 3 virtual",
-        "note": "A brother and sister both emailed July 12 (parent copied) asking to go virtual July 20 to 29, fully out July 21 to 24. That is the in-person core of Week 3. Reply and set a virtual plan so they keep hours and stay on the Capstone.",
+        "name": "Three participants, Week 3 virtual",
+        "note": "A brother and sister emailed July 12 (parent copied) asking to go virtual July 20 to 29, fully out July 21 to 24. Jordan-Kallel's father emailed July 20 that his son is at the USA Cycling Nationals this week and asked for assignments to complete while away. That is the in-person core of Week 3. Reply to all three and set a virtual plan so they keep hours and stay on the Capstone.",
         "chip": "warn",
         "chipText": "Reply"
       }
