@@ -1,7 +1,7 @@
 {
-  "updated": "July 20, 2026, Monday. This is the big day, two things are due today. First, email the one filled out Excel Payroll Transcript, named NAACP Hybrid Payroll #2 Transcript, to gdytpartnermessage@ConnectDetroit.org by 5:00 PM today, Tab A is each hybrid stipend youth's total benchmarks across July 6 to 10 and July 13 to 17, Tab B is the sign off, and only youth on the Approved for Placement list get entered. Second, the YPC youth and chaperone field day registration for August 5 is due today, first come first served. Week 3, Entrepreneurship, also opens this morning indoors. The one new thing overnight is the GDYT Empower App starting its automatic weekly module progress report, the first landed at 6 AM today listing which of our youth have signed up and how many modules they have finished, sign up group code naacp-1024, so use it to see who still needs to register and keep nudging them. Our own signed sign in and benchmark sheets are still required as backup and remaining pay is held until Connect Detroit has them, pay card pickup is Thursday July 23. DTE is still waiting on Jon Johnson to pick July 22 or July 29.",
+  "updated": "July 20, 2026 evening. Payroll 2 is submitted and in on time. Week 3 is nearly locked: Moe Tuesday 12:30, Branding Tuesday 11:45, Chris Cohen Wednesday 11:00, and DeQuan Thursday 11:00 are all set. Still waiting on two confirms, Zipporah for Tuesday 11:00 and Ashleigh for Thursday noon, plus DTE's Jon Johnson to pick Wednesday 7/22 or 7/29. Next on payroll: send Connect Detroit your signed sign-in and benchmark backup so the rest of the pay releases.",
   "firstDay": "2026-07-08",
-  "headline": "Week 2, Financial Literacy, wrapped Friday, and Week 3, Entrepreneurship, starts Monday July 20. Huntington backed out of Banking 101 this year, so both the banking and credit sessions still need a partner. YNAB with Jermaine is set. DTE is answered: Jon Johnson got Wednesday July 22 or Wednesday July 29 at noon, and now you wait on him to pick. The YPC workshop is closed, Shuna wrote back this morning, so all that is left there is registering the youth and chaperones for the August 5 field day by Monday July 20. Wayne State has your answers, Jessica is building the July 28 schedule. CPR is approved and locked for Thursday July 30. Payroll 2 is the big one now and it has a Monday deadline: fill out the one customized Payroll Transcript Connect Detroit sent and email it to gdytpartnermessage@ConnectDetroit.org by 5:00 PM Monday July 20, that is what gets the 15 paid. Connect Detroit fixed the file, the corrected form is named NAACP Hybrid Payroll #2 Transcript so we have the right one. Your own signed sign in and benchmark sheets are still required as backup and remaining pay is held until Connect Detroit has them, pay card pickup is Thursday July 23, first pay July 31.",
+  "headline": "Payroll 2 is submitted and in on time · Week 3 is locking in: Moe, Branding, Chris Cohen and DeQuan are set. Waiting on Zipporah and Ashleigh to confirm, and DTE to pick his day. Next: send Connect Detroit your signed sign-in and benchmark backup so the rest of the pay releases.",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)",
@@ -158,10 +158,10 @@
     {
       "id": "dn-payroll2",
       "n": 5,
-      "title": "Submit the Payroll 2 Transcript by 5 PM Monday",
-      "desc": "Connect Detroit pivoted again July 17. myOneFlow will not be ready, so there is no action in the system. Instead you fill out the one customized Payroll Transcript they sent, an Excel form, and email it to gdytpartnermessage@ConnectDetroit.org by 5:00 PM Monday July 20. No other format is accepted and only one transcript per agency. On Tab A, our hybrid stipend youth, enter each youth's total benchmarks completed across July 6 to 10 and July 13 to 17, and put a 0 with a reason for anyone at zero. Tab B is the authorization sign off from whoever verified the benchmarks. The file is sorted, the first attachment was named for Mack Alive but Nicole sent a correction three minutes later and the right form is named NAACP Hybrid Payroll #2 Transcript. Separate from this, your own signed sign in and benchmark sheets are still required as backup, and remaining pay will not process until Connect Detroit has them, brought to pay card pickup Thursday July 23.",
+      "title": "Send Connect Detroit the payroll backup docs",
+      "desc": "Payroll 2 Transcript submitted July 20 at 2:23 PM, in before the 5 PM deadline, cc'd Gwendolyn and Je'Tina. Now they need your proof: the signed daily sign-in sheets and benchmark tracking. Remaining pay is held until Connect Detroit has that backup.",
       "chip": "warn",
-      "chipText": "Submit by Mon 5pm"
+      "chipText": "Owed"
     },
     {
       "id": "dn-app",
@@ -190,10 +190,10 @@
     {
       "id": "dn-texts",
       "n": 9,
-      "title": "Confirm Week 3 texts",
-      "desc": "Moe (7/21, noon), DeQuan (7/23, 11a), Darryl (8/6, 11a).",
+      "title": "Close out the last two Week 3 confirmations",
+      "desc": "Most of Week 3 is locked. Two still open: Ashleigh Anderson needs to confirm Thursday 7/23 at noon, and DTE's Jon Johnson needs to pick Wednesday 7/22 or 7/29 for his noon slot.",
       "chip": "warn",
-      "chipText": "Send"
+      "chipText": "Follow up"
     },
     {
       "id": "dn-virtual",
@@ -298,24 +298,39 @@
       "dates": "Jul 20 to 24",
       "items": [
         {
-          "dot": "a",
-          "name": "Dream Car Reveal",
-          "who": "Moe Kebe, Tue 7/21, noon (text to send)"
+          "dot": "g",
+          "name": "Tue: Branding & AI for Creators",
+          "who": "Tue 7/21, 11:45, Jermaine, built"
         },
         {
           "dot": "a",
-          "name": "Wednesday 7/22, DTE Work Readiness (offered)",
-          "who": "Offered to Jon Johnson July 16, noon to 1:00, along with Wed 7/29 as the other choice. Waiting on his pick. Hold both."
-        },
-        {
-          "dot": "a",
-          "name": "Entrepreneur Panel",
-          "who": "DeQuan Mixon, Thu 7/23, 11a (+1 to 2 more)"
+          "name": "Tue: Financial Wellness (Zipporah)",
+          "who": "Tue 7/21, 11:00, waiting on her confirm"
         },
         {
           "dot": "g",
-          "name": "Branding & AI for Creators",
-          "who": "Jermaine"
+          "name": "Tue: Dream Car Reveal (Moe Kebe)",
+          "who": "Tue 7/21, 12:30, locked, closes the day"
+        },
+        {
+          "dot": "g",
+          "name": "Wed: Compound Interest (Chris Cohen)",
+          "who": "Wed 7/22, 11:00, locked"
+        },
+        {
+          "dot": "a",
+          "name": "Wed: DTE Work Readiness (Jon Johnson)",
+          "who": "Noon. You offered Wed 7/22 or 7/29, waiting on his pick"
+        },
+        {
+          "dot": "g",
+          "name": "Thu: DeQuan Mixon",
+          "who": "Thu 7/23, 11:00, locked"
+        },
+        {
+          "dot": "a",
+          "name": "Thu: Ashleigh Anderson",
+          "who": "Thu 7/23, noon, waiting on her confirm"
         }
       ]
     },
