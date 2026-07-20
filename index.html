@@ -91,6 +91,10 @@
   .foot{text-align:center;color:var(--mut);font-size:11px;margin-top:18px;line-height:1.6}
   .reset{display:block;margin:14px auto 0;background:none;border:1px solid var(--line);color:var(--mut);
     font-size:11px;padding:6px 12px;border-radius:999px;cursor:pointer}
+  .card.tap.done{opacity:.5}
+  .card.tap.done h3{text-decoration:line-through;text-decoration-color:var(--mut)}
+  .allclear{color:var(--mut);font-size:13px;text-align:center;padding:18px 12px;border:1px dashed var(--line);border-radius:12px}
+  .sec.donesec{color:var(--done)}
   .qlinks{display:flex;gap:8px;padding:0 14px 2px;max-width:640px;margin:0 auto;flex-wrap:wrap}
   .qlink{flex:1;min-width:150px;display:flex;align-items:center;gap:9px;text-decoration:none;
     background:var(--card);border:1px solid var(--line);border-radius:12px;padding:11px 13px}
@@ -163,11 +167,22 @@
         (day.note?'<div class="daynote">'+esc(day.note)+'</div>':'')+rows+'</div>';
     }).join('');
   }
+  function isComplete(o){return o.done||isDone(o.id);}
   function doCard(o){
-    return '<div class="card tap'+(isDone(o.id)?' done':'')+'" data-id="'+o.id+'"><div class="row">'+
+    return '<div class="card tap'+(isComplete(o)?' done':'')+'" data-id="'+o.id+'"><div class="row">'+
       '<span class="chk"></span>'+
       '<div class="t"><h3>'+esc(o.title)+'</h3>'+(o.desc?'<p>'+esc(o.desc)+'</p>':'')+'</div>'+
       chip(o)+'</div></div>';
+  }
+  function renderDo(){
+    var items=(DATA&&DATA.doNow)||[];
+    var active=items.filter(function(o){return !isComplete(o);});
+    var done=items.filter(function(o){return isComplete(o);});
+    var html='<div class="sec">Your list · tap to check off</div>';
+    html+= active.length ? active.map(doCard).join('') : '<div class="allclear">All clear. Nothing waiting on you right now.</div>';
+    if(done.length){html+='<div class="sec donesec">Completed ('+done.length+')</div>'+done.map(doCard).join('');}
+    document.getElementById('do').innerHTML=html;
+    wire();
   }
   function card(o){
     return '<div class="card"><div class="row"><div class="t"><h3>'+esc(o.title||o.name)+'</h3>'+
@@ -189,7 +204,7 @@
 
     document.getElementById('w1').innerHTML='<div class="sec">Tap each session as you run it</div>'+week1(d)+
       '<button class="reset" id="reset">Reset all checkmarks</button>';
-    document.getElementById('do').innerHTML='<div class="sec">Your list · tap to check off</div>'+d.doNow.map(doCard).join('');
+    renderDo();
     document.getElementById('wk').innerHTML='<div class="legend"><span><i style="background:#35C08A"></i>Locked</span>'+
       '<span><i style="background:#E0A845"></i>Pending</span><span><i style="background:#E5675C"></i>Needs a fill</span></div>'+
       d.weeks.map(week).join('');
@@ -220,9 +235,10 @@
   }
   function toggle(el){
     var id=el.getAttribute('data-id');if(!id)return;
-    if(DONE[id]){delete DONE[id];el.classList.remove('done');}
-    else{DONE[id]=1;el.classList.add('done');}
-    save();updateDayProgs();
+    if(DONE[id]){delete DONE[id];}else{DONE[id]=1;}
+    save();
+    if(el.closest('#do')){renderDo();}
+    else{el.classList.toggle('done');updateDayProgs();}
   }
   function wire(){
     document.querySelectorAll('[data-id]').forEach(function(el){
