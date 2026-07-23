@@ -1,7 +1,7 @@
 {
-  "updated": "July 23, 2026, morning sync. Two new things since yesterday. Wayne State's Alex Azzopardi sent the tentative July 28 campus schedule and asked whether the big W sign on Warren Avenue works for drop off and pickup. Lunch and the return spot are still not named, so raise both when you answer. And Keosha King wrote back asking what health topics the young people want covered and whether any of them has asthma, which pairs with giving her a new Week 4 time now that DTE has noon on July 29. Today is the pay card pickup at 613 Abbott Street.",
+  "updated": "July 23, 2026. Moe and Chris Cohen both landed. Replies are sent to Wayne State and DTE. Jon is locked for Wed 7/29 at noon, so Keosha moved up to 11:00 that same day and needs to be told. Ashleigh could not make Thursday and is looking for a new day. Week 4 is otherwise built.",
   "firstDay": "2026-07-08",
-  "headline": "Pay card pickup is today, Thursday July 23, 9:30 to 5 at 613 Abbott Street, by appointment. Schedule the Calendly slot, send a rep, bring documentation of time worked. Cards go to the agency, not the youth. Wayne State sent the tentative schedule for the July 28 campus day and wants your answer on the drop off spot, with lunch and the return spot still open. Keosha asked what health topics the young people want and whether anyone has asthma. The CPR invoice, $442, is due July 27.",
+  "headline": "Week 3 delivered: Moe and Chris Cohen were both hits · DeQuan closes it out Thursday · Ashleigh could not make her day and needs a new one · Week 4 is set: Wayne State Tuesday, Keosha at 11 and DTE at noon Wednesday, CPR Thursday",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)",
@@ -124,8 +124,41 @@
   ],
   "doNow": [
     {
-      "id": "dn-payroll-sent",
+      "id": "dn-emails-sent",
       "n": 1,
+      "title": "Replies sent to Wayne State and DTE",
+      "desc": "Alex at WSU has the logistics (no bus, Welcome Center drop off, walk to the W) and the Student Success ask. Jon at DTE is confirmed for Wed 7/29 at noon.",
+      "chip": "done",
+      "chipText": "Done",
+      "done": true
+    },
+    {
+      "id": "dn-ashleigh-day",
+      "n": 2,
+      "title": "Find Ashleigh a new day, or let it go",
+      "desc": "She cannot make Thursday 7/23 and wants another day. Week 4 is tight: Tuesday is Wayne State all day, Wednesday has Keosha at 11 and DTE at noon, Thursday has CPR from 11 to 1. Realistic options are Thu 7/30 at 1:00, or Week 5 which you are away for. Your call whether to chase it.",
+      "chip": "warn",
+      "chipText": "Decide"
+    },
+    {
+      "id": "dn-keosha-move",
+      "n": 3,
+      "title": "Tell Keosha her time moved to 11:00",
+      "desc": "You had her in writing for 12 noon on Wed 7/29. DTE took that hour, so she moves to 11:00 same day. She is also waiting on two answers: what health topics the youth want, and whether any of them have asthma.",
+      "chip": "warn",
+      "chipText": "Email her"
+    },
+    {
+      "id": "dn-dte-invite",
+      "n": 4,
+      "title": "Send Jon the calendar invite",
+      "desc": "He asked for it directly. Wed 7/29, 12:00 to 1:00, the Branch, 8220 Second Avenue.",
+      "chip": "warn",
+      "chipText": "Send"
+    },
+    {
+      "id": "dn-payroll-sent",
+      "n": 5,
       "title": "Payroll 2 Transcript submitted",
       "desc": "Sent July 20 at 2:23 PM to gdytpartnermessage@ConnectDetroit.org, cc Gwendolyn and Je'Tina, in before the 5 PM deadline. GDYT replied Received on July 21, so the transcript is confirmed in.",
       "chip": "done",
@@ -134,7 +167,7 @@
     },
     {
       "id": "dn-paycard-pickup",
-      "n": 2,
+      "n": 6,
       "title": "Staff the Payroll 2 pay card pickup, today Thursday 7/23",
       "desc": "Dawn at Connect Detroit set it July 20. Pickup is Thursday July 23, 9:30 to 5, at Connect Detroit, 613 Abbott Street, Detroit 48226, Amphitheatre on the lower level, by appointment only. Schedule your slot on the Calendly link, email gdyt@connectdetroit.org when you are 10 minutes out with NAACP in the message, and bring documentation of time worked for each youth. An agency rep picks up all 15 cards, do not send the young people. Once you have them, check them against the list, report any missing to Dawn, and have each youth scan the QR code or use the Jotform link to acknowledge receipt. Cards cannot be mailed to youth. Jordan-Kallel's father asked to pick up his son's card, so tell families the Branch collects the cards and hands them out.",
       "chip": "warn",
@@ -142,7 +175,7 @@
     },
     {
       "id": "dn-wsu",
-      "n": 3,
+      "n": 7,
       "title": "Answer Wayne State on the July 28 schedule",
       "desc": "Alex Azzopardi sent the tentative run of the day July 22 and asked for your thoughts. As written it goes: 10:00 drop off and welcome presentation at the big W sign on Warren Avenue, 10:45 Old Main museums, geology and anthropology, 11:45 a lecture with Dr. Chike in 2120 State Hall, 12:45 campus tour, 2:00 back to the bus with the return spot still TBD. He asked directly whether the W sign works as the drop off and pickup point, and he can send the address for the driver. Two gaps to raise when you reply: lunch is not on the schedule and the return spot is not named. Answer this week so the day is set.",
       "chip": "warn",
@@ -150,7 +183,7 @@
     },
     {
       "id": "dn-ypc",
-      "n": 4,
+      "n": 8,
       "title": "YPC registration confirmed",
       "desc": "Danielle Boone at Connect Detroit confirmed July 22 that the registration came through. Je'Tina submitted the form for 3 adults and 16 participants. Danielle was clear that they go by the form only, they did not compare it against the attendee list Je'Tina emailed, and they cannot add anyone who was not on the submission. So the head count is fixed at what went in. The workshop half was already closed out, Jermaine passed on presenting because he is out of the country August 4 to 11 and Shuna accepted that July 17.",
       "chip": "done",
@@ -159,7 +192,7 @@
     },
     {
       "id": "dn-bank",
-      "n": 5,
+      "n": 9,
       "title": "Cover the banking side of Week 2 (Huntington out)",
       "desc": "Courtney Elledge at Huntington wrote back and cannot do Banking 101 this year. She offered to send financial education and banking materials for the youth to use during the week. So now both Banking 101 and the credit session still need a plan. Take her materials, and either find a fast replacement or have Jermaine run Banking 101. Week 2 is already underway, so this needs a plan now.",
       "chip": "warn",
@@ -167,7 +200,7 @@
     },
     {
       "id": "dn-cpr-cost",
-      "n": 6,
+      "n": 10,
       "title": "Pay the CPR invoice, due July 27",
       "desc": "The price question is answered. Natosha Gurley at Rhythm of Life sent invoice #M4ITOVW8-0001 on July 20. It covers 16 youth at $12 each ($192) and 5 staff or youth council at the AHA Friends and Family rate of $50 each ($250), for $442 total, due July 27. Kamilia approved it July 21. Pay it before the 27th.",
       "chip": "warn",
@@ -175,7 +208,7 @@
     },
     {
       "id": "dn-yet",
-      "n": 7,
+      "n": 11,
       "title": "Confirm all 15 are on the final GDYT approved list",
       "desc": "Nicole Hill's July 14 update says the Youth Enrollment Tracker now holds the final Approved for Placement list, and only youth on it can work or be paid. Youth who worked before being approved cannot be paid for that time, and GDYT will not cover unapproved youth. Check the YET and confirm all 15 of ours show Approved for Placement. Also get the worksite ready for GDYT monitor visits over the next few weeks: original work permits on hand and a first aid kit.",
       "chip": "warn",
@@ -183,7 +216,7 @@
     },
     {
       "id": "dn-payroll2",
-      "n": 8,
+      "n": 12,
       "title": "Send Connect Detroit the payroll backup docs",
       "desc": "Now that the transcript is in, they need your proof: signed daily sign-in sheets and benchmark tracking. Remaining pay is held until Connect Detroit has it.",
       "chip": "warn",
@@ -191,7 +224,7 @@
     },
     {
       "id": "dn-app",
-      "n": 9,
+      "n": 13,
       "title": "Get the 15 youth into the GDYT Empower App",
       "desc": "Kelsey at Connect Detroit sent the app sign-up reminder with a youth instructions deck. The app's modules also satisfy the GDYT financial literacy requirement, and it's separate from payroll. The GDYT App team now sends an automatic weekly module progress report, the first arrived July 20 at 6 AM listing which youth have signed up and their module counts. Anyone not on the report has not signed up yet. Sign up group code is naacp-1024 at empowerme.app/gdyt, so use the report to chase whoever is still missing.",
       "chip": "warn",
@@ -199,7 +232,7 @@
     },
     {
       "id": "dn-shantael",
-      "n": 10,
+      "n": 14,
       "title": "Pay Shantael's SEL invoice",
       "desc": "$1,500, still open.",
       "chip": "warn",
@@ -207,7 +240,7 @@
     },
     {
       "id": "dn-wk4",
-      "n": 11,
+      "n": 15,
       "title": "Lock the rest of Week 4",
       "desc": "CPR is locked for Thursday July 30 (approved) and DTE is locked for Wednesday July 29 at noon. Still need Keosha's health day and Zipporah's Financial Wellness date. Noon on July 29 is now DTE's, so Keosha goes to July 30 or to a different hour on the 29th. She wrote back July 22 asking what health topics the young people want covered and whether any of them has asthma, so answer that when you give her the new time.",
       "chip": "warn",
@@ -215,7 +248,7 @@
     },
     {
       "id": "dn-texts",
-      "n": 12,
+      "n": 16,
       "title": "Send Jon Johnson the invite and a day-of contact",
       "desc": "DTE is locked. Jon wrote back July 22 and took Wednesday July 29 at 12:00, in person at the Branch. He asked for two things: a calendar invite for the day and time, and a contact name with a phone number in case he needs help getting in. Send both. His session lands in Week 4, not Week 3, so Week 3 is now fully set.",
       "chip": "warn",
@@ -223,7 +256,7 @@
     },
     {
       "id": "dn-virtual",
-      "n": 13,
+      "n": 17,
       "title": "Answer the three Week 3 virtual requests",
       "desc": "Now three young people. A brother and sister both emailed July 12 asking to work virtually July 20 to 29, and they are fully out July 21 to 24. Jordan-Kallel's father wrote July 20 that his son is out of town this week at the USA Cycling Nationals and asked for the week's assignments to complete while away. That window covers the in-person heart of Week 3 (Dream Car Reveal Tue 7/21, Entrepreneur Panel Thu 7/23). Reply to all three with a virtual plan so they stay on payroll and don't fall behind on the Capstone.",
       "chip": "warn",
@@ -231,7 +264,7 @@
     },
     {
       "id": "dn-fam",
-      "n": 14,
+      "n": 18,
       "title": "Confirm the two bounced families are set for the rest",
       "desc": "Two addresses bounced on the July 6 all-family email. Week 1 is done. Confirm both families by text or call that they have the schedule for the remaining weeks. One of the two also has a working gmail on the same thread.",
       "chip": "warn",
@@ -325,38 +358,23 @@
       "items": [
         {
           "dot": "g",
-          "name": "Tue: Branding & AI for Creators",
-          "who": "Tue 7/21, 11:45, Jermaine, built"
-        },
-        {
-          "dot": "a",
-          "name": "Tue: Financial Wellness (Zipporah)",
-          "who": "Tue 7/21, 11:00, waiting on her confirm"
-        },
-        {
-          "dot": "g",
           "name": "Tue: Dream Car Reveal (Moe Kebe)",
-          "who": "Tue 7/21, 12:30, locked, closes the day"
+          "who": "Tue 7/21, 12:30. DONE and it was a hit."
         },
         {
           "dot": "g",
           "name": "Wed: Compound Interest (Chris Cohen)",
-          "who": "Wed 7/22, 11:00, locked"
-        },
-        {
-          "dot": "g",
-          "name": "DTE moved to Week 4",
-          "who": "Jon Johnson picked Wed 7/29 at noon, so nothing DTE sits in Week 3"
+          "who": "Wed 7/22, 11:00. DONE and it was a hit."
         },
         {
           "dot": "g",
           "name": "Thu: DeQuan Mixon",
-          "who": "Thu 7/23, 11:00, locked"
+          "who": "Thu 7/23, 11:00, confirmed"
         },
         {
-          "dot": "g",
-          "name": "Thu: Ashleigh Anderson",
-          "who": "Thu 7/23, noon, confirmed"
+          "dot": "r",
+          "name": "Thu: Ashleigh Anderson, did not make it",
+          "who": "She cannot do Thu 7/23 and is asking for a new day. Week 4 is nearly full, so this needs a decision."
         }
       ]
     },
@@ -368,17 +386,17 @@
         {
           "dot": "g",
           "name": "Wayne State Campus Day (field trip)",
-          "who": "Tue 7/28, 10 to 2, confirmed. Alex Azzopardi sent the tentative schedule July 22: welcome at the W sign on Warren, Old Main museums, a lecture with Dr. Chike, campus tour, bus at 2:00. Confirm the drop off spot, the return spot and lunch."
+          "who": "Tue 7/28, 10 to 2, confirmed. Reply sent to Alex. Parents drop at the Welcome Center, we walk to the W. Asked for someone from Student Success at lunch. Day: welcome, Old Main museums, Dr. Chike lecture, campus tour."
         },
         {
           "dot": "g",
           "name": "DTE Work Readiness (Jon Johnson)",
-          "who": "Wed 7/29, 12:00 to 1:00, in person at the Branch. He confirmed July 22. Owed him: a calendar invite and a day-of contact with a phone number."
+          "who": "Wed 7/29, 12:00 to 1:00, at the Branch. Locked, reply sent. Still owed: the calendar invite."
         },
         {
-          "dot": "a",
-          "name": "Health & Wellness",
-          "who": "Keosha King + daughter. She had noon on 7/29 and that hour is DTE's now, so 7/30 or another hour on the 29th. She also asked what health topics the youth want and whether anyone has asthma."
+          "dot": "g",
+          "name": "Health & Wellness (Keosha King)",
+          "who": "Wed 7/29, 11:00 to 12:00, moved up from noon to clear DTE. Tell her the new time. She also asked what health topics the youth want and whether anyone has asthma."
         },
         {
           "dot": "g",
