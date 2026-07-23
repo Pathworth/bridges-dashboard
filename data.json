@@ -1,7 +1,7 @@
 {
-  "updated": "July 22, 2026, afternoon check. Two things closed today. DTE's Jon Johnson picked Wednesday July 29 at noon, so his session moves to Week 4 and Week 3 is fully locked. He asked for a calendar invite plus a contact name and phone number for the day of, so send that. And Danielle Boone at Connect Detroit confirmed the Young Professionals Conference registration is received, 3 adults and 16 participants, and no one can be added after the fact. Next up: staff the pay card pickup Thursday July 23 at 613 Abbott Street, pay the CPR invoice by July 27, and reply to the three virtual requests.",
+  "updated": "July 23, 2026, morning sync. Two new things since yesterday. Wayne State's Alex Azzopardi sent the tentative July 28 campus schedule and asked whether the big W sign on Warren Avenue works for drop off and pickup. Lunch and the return spot are still not named, so raise both when you answer. And Keosha King wrote back asking what health topics the young people want covered and whether any of them has asthma, which pairs with giving her a new Week 4 time now that DTE has noon on July 29. Today is the pay card pickup at 613 Abbott Street.",
   "firstDay": "2026-07-08",
-  "headline": "Pay card pickup is set: Thursday July 23, 9:30 to 5 at 613 Abbott Street, by appointment. Schedule the Calendly slot, send a rep, bring documentation of time worked. Cards go to the agency, not the youth. The CPR invoice came in at $442 and Kamilia approved it, so pay Rhythm of Life by July 27. DTE took Wednesday July 29 at noon, so Week 3 is locked and Week 4 now has DTE, SEL and CPR on it. Send Jon the invite and a day-of contact.",
+  "headline": "Pay card pickup is today, Thursday July 23, 9:30 to 5 at 613 Abbott Street, by appointment. Schedule the Calendly slot, send a rep, bring documentation of time worked. Cards go to the agency, not the youth. Wayne State sent the tentative schedule for the July 28 campus day and wants your answer on the drop off spot, with lunch and the return spot still open. Keosha asked what health topics the young people want and whether anyone has asthma. The CPR invoice, $442, is due July 27.",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)",
@@ -135,14 +135,22 @@
     {
       "id": "dn-paycard-pickup",
       "n": 2,
-      "title": "Schedule and staff the Payroll 2 pay card pickup, Thursday 7/23",
+      "title": "Staff the Payroll 2 pay card pickup, today Thursday 7/23",
       "desc": "Dawn at Connect Detroit set it July 20. Pickup is Thursday July 23, 9:30 to 5, at Connect Detroit, 613 Abbott Street, Detroit 48226, Amphitheatre on the lower level, by appointment only. Schedule your slot on the Calendly link, email gdyt@connectdetroit.org when you are 10 minutes out with NAACP in the message, and bring documentation of time worked for each youth. An agency rep picks up all 15 cards, do not send the young people. Once you have them, check them against the list, report any missing to Dawn, and have each youth scan the QR code or use the Jotform link to acknowledge receipt. Cards cannot be mailed to youth. Jordan-Kallel's father asked to pick up his son's card, so tell families the Branch collects the cards and hands them out.",
       "chip": "warn",
-      "chipText": "Thu 7/23"
+      "chipText": "Today"
+    },
+    {
+      "id": "dn-wsu",
+      "n": 3,
+      "title": "Answer Wayne State on the July 28 schedule",
+      "desc": "Alex Azzopardi sent the tentative run of the day July 22 and asked for your thoughts. As written it goes: 10:00 drop off and welcome presentation at the big W sign on Warren Avenue, 10:45 Old Main museums, geology and anthropology, 11:45 a lecture with Dr. Chike in 2120 State Hall, 12:45 campus tour, 2:00 back to the bus with the return spot still TBD. He asked directly whether the W sign works as the drop off and pickup point, and he can send the address for the driver. Two gaps to raise when you reply: lunch is not on the schedule and the return spot is not named. Answer this week so the day is set.",
+      "chip": "warn",
+      "chipText": "Reply"
     },
     {
       "id": "dn-ypc",
-      "n": 3,
+      "n": 4,
       "title": "YPC registration confirmed",
       "desc": "Danielle Boone at Connect Detroit confirmed July 22 that the registration came through. Je'Tina submitted the form for 3 adults and 16 participants. Danielle was clear that they go by the form only, they did not compare it against the attendee list Je'Tina emailed, and they cannot add anyone who was not on the submission. So the head count is fixed at what went in. The workshop half was already closed out, Jermaine passed on presenting because he is out of the country August 4 to 11 and Shuna accepted that July 17.",
       "chip": "done",
@@ -151,7 +159,7 @@
     },
     {
       "id": "dn-bank",
-      "n": 4,
+      "n": 5,
       "title": "Cover the banking side of Week 2 (Huntington out)",
       "desc": "Courtney Elledge at Huntington wrote back and cannot do Banking 101 this year. She offered to send financial education and banking materials for the youth to use during the week. So now both Banking 101 and the credit session still need a plan. Take her materials, and either find a fast replacement or have Jermaine run Banking 101. Week 2 is already underway, so this needs a plan now.",
       "chip": "warn",
@@ -159,7 +167,7 @@
     },
     {
       "id": "dn-cpr-cost",
-      "n": 5,
+      "n": 6,
       "title": "Pay the CPR invoice, due July 27",
       "desc": "The price question is answered. Natosha Gurley at Rhythm of Life sent invoice #M4ITOVW8-0001 on July 20. It covers 16 youth at $12 each ($192) and 5 staff or youth council at the AHA Friends and Family rate of $50 each ($250), for $442 total, due July 27. Kamilia approved it July 21. Pay it before the 27th.",
       "chip": "warn",
@@ -167,7 +175,7 @@
     },
     {
       "id": "dn-yet",
-      "n": 6,
+      "n": 7,
       "title": "Confirm all 15 are on the final GDYT approved list",
       "desc": "Nicole Hill's July 14 update says the Youth Enrollment Tracker now holds the final Approved for Placement list, and only youth on it can work or be paid. Youth who worked before being approved cannot be paid for that time, and GDYT will not cover unapproved youth. Check the YET and confirm all 15 of ours show Approved for Placement. Also get the worksite ready for GDYT monitor visits over the next few weeks: original work permits on hand and a first aid kit.",
       "chip": "warn",
@@ -175,7 +183,7 @@
     },
     {
       "id": "dn-payroll2",
-      "n": 7,
+      "n": 8,
       "title": "Send Connect Detroit the payroll backup docs",
       "desc": "Now that the transcript is in, they need your proof: signed daily sign-in sheets and benchmark tracking. Remaining pay is held until Connect Detroit has it.",
       "chip": "warn",
@@ -183,7 +191,7 @@
     },
     {
       "id": "dn-app",
-      "n": 8,
+      "n": 9,
       "title": "Get the 15 youth into the GDYT Empower App",
       "desc": "Kelsey at Connect Detroit sent the app sign-up reminder with a youth instructions deck. The app's modules also satisfy the GDYT financial literacy requirement, and it's separate from payroll. The GDYT App team now sends an automatic weekly module progress report, the first arrived July 20 at 6 AM listing which youth have signed up and their module counts. Anyone not on the report has not signed up yet. Sign up group code is naacp-1024 at empowerme.app/gdyt, so use the report to chase whoever is still missing.",
       "chip": "warn",
@@ -191,7 +199,7 @@
     },
     {
       "id": "dn-shantael",
-      "n": 9,
+      "n": 10,
       "title": "Pay Shantael's SEL invoice",
       "desc": "$1,500, still open.",
       "chip": "warn",
@@ -199,15 +207,15 @@
     },
     {
       "id": "dn-wk4",
-      "n": 10,
+      "n": 11,
       "title": "Lock the rest of Week 4",
-      "desc": "CPR is locked for Thursday July 30 (approved) and DTE is locked for Wednesday July 29 at noon. Still need Keosha's health day and Zipporah's Financial Wellness date. Noon on July 29 is now DTE's, so Keosha goes to July 30 or to a different hour on the 29th. Ask her which she wants.",
+      "desc": "CPR is locked for Thursday July 30 (approved) and DTE is locked for Wednesday July 29 at noon. Still need Keosha's health day and Zipporah's Financial Wellness date. Noon on July 29 is now DTE's, so Keosha goes to July 30 or to a different hour on the 29th. She wrote back July 22 asking what health topics the young people want covered and whether any of them has asthma, so answer that when you give her the new time.",
       "chip": "warn",
       "chipText": "Open"
     },
     {
       "id": "dn-texts",
-      "n": 11,
+      "n": 12,
       "title": "Send Jon Johnson the invite and a day-of contact",
       "desc": "DTE is locked. Jon wrote back July 22 and took Wednesday July 29 at 12:00, in person at the Branch. He asked for two things: a calendar invite for the day and time, and a contact name with a phone number in case he needs help getting in. Send both. His session lands in Week 4, not Week 3, so Week 3 is now fully set.",
       "chip": "warn",
@@ -215,7 +223,7 @@
     },
     {
       "id": "dn-virtual",
-      "n": 12,
+      "n": 13,
       "title": "Answer the three Week 3 virtual requests",
       "desc": "Now three young people. A brother and sister both emailed July 12 asking to work virtually July 20 to 29, and they are fully out July 21 to 24. Jordan-Kallel's father wrote July 20 that his son is out of town this week at the USA Cycling Nationals and asked for the week's assignments to complete while away. That window covers the in-person heart of Week 3 (Dream Car Reveal Tue 7/21, Entrepreneur Panel Thu 7/23). Reply to all three with a virtual plan so they stay on payroll and don't fall behind on the Capstone.",
       "chip": "warn",
@@ -223,7 +231,7 @@
     },
     {
       "id": "dn-fam",
-      "n": 13,
+      "n": 14,
       "title": "Confirm the two bounced families are set for the rest",
       "desc": "Two addresses bounced on the July 6 all-family email. Week 1 is done. Confirm both families by text or call that they have the schedule for the remaining weeks. One of the two also has a working gmail on the same thread.",
       "chip": "warn",
@@ -360,7 +368,7 @@
         {
           "dot": "g",
           "name": "Wayne State Campus Day (field trip)",
-          "who": "Tue 7/28, 10 to 2, confirmed. Your answers went to Jessica Archer July 15. She is building the schedule and sorting lunch."
+          "who": "Tue 7/28, 10 to 2, confirmed. Alex Azzopardi sent the tentative schedule July 22: welcome at the W sign on Warren, Old Main museums, a lecture with Dr. Chike, campus tour, bus at 2:00. Confirm the drop off spot, the return spot and lunch."
         },
         {
           "dot": "g",
@@ -370,7 +378,7 @@
         {
           "dot": "a",
           "name": "Health & Wellness",
-          "who": "Keosha King + daughter. Noon on 7/29 is DTE's now, so 7/30 or a different hour on the 29th"
+          "who": "Keosha King + daughter. She had noon on 7/29 and that hour is DTE's now, so 7/30 or another hour on the 29th. She also asked what health topics the youth want and whether anyone has asthma."
         },
         {
           "dot": "g",
@@ -447,10 +455,10 @@
   "inbox": {
     "waiting": [
       {
-        "name": "Jessica Archer (Wayne State)",
-        "note": "Answered July 15 at 5:14. You asked the group that morning and sent her the whole list: campus life, the law school and the professor named Ryan who got the biggest reaction, the BSMD eight year medical track, engineering and the new building, business and marketing, scholarships and internships, both asked unprompted, the Transfer Lounge, dorms, the Student Center, D9 and the black student orgs, the gym and the basketball courts, the game room, the Wright Museum, food, parking. Plus your two: what it takes to get in and what it costs, and a VP or dean on how to actually use a campus and its resources. You offered roster, forms and waivers same day. Now she builds the July 28 schedule and confirms lunch.",
-        "chip": "wait",
-        "chipText": "Her move"
+        "name": "Wayne State campus day (Jessica Archer, Alex Azzopardi)",
+        "note": "They came back July 22. Alex Azzopardi sent the tentative July 28 schedule built off the list you sent July 15: welcome at the W sign on Warren, Old Main museums, a lecture with Dr. Chike in 2120 State Hall, a campus tour, bus at 2:00. He asked whether the W sign works for drop off and pickup and offered the address for the driver. Lunch is not on the schedule and the return spot is TBD. It is your reply now (see Do Now).",
+        "chip": "warn",
+        "chipText": "Your move"
       },
       {
         "name": "Zipporah Bolar",
@@ -487,6 +495,12 @@
       {
         "name": "Three participants, Week 3 virtual",
         "note": "A brother and sister emailed July 12 (parent copied) asking to go virtual July 20 to 29, fully out July 21 to 24. Jordan-Kallel's father emailed July 20 that his son is at the USA Cycling Nationals this week and asked for assignments to complete while away. That is the in-person core of Week 3. Reply to all three and set a virtual plan so they keep hours and stay on the Capstone.",
+        "chip": "warn",
+        "chipText": "Reply"
+      },
+      {
+        "name": "Keosha King",
+        "note": "Wrote back July 22 asking what health topics the young people are interested in and whether any of them has asthma. She is also waiting on a new time, her noon slot on July 29 went to DTE. Send her both, the new hour and the topics.",
         "chip": "warn",
         "chipText": "Reply"
       }
