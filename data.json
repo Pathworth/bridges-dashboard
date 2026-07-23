@@ -1,7 +1,7 @@
 {
-  "updated": "July 22, 2026, morning check. Nothing new came in overnight. The Payroll 2 transcript is confirmed in, GDYT replied Received July 21, and the Rhythm of Life CPR invoice, $442, is approved and due July 27. Today is Wednesday, Week 3, with Compound Interest (Chris Cohen) at 11. Still open: DTE's Jon Johnson has not picked his noon day, and today, July 22, is one of the two he was offered. Next up: staff the pay card pickup Thursday July 23 at 613 Abbott Street, pay the CPR invoice by July 27, and reply to the three virtual requests.",
+  "updated": "July 22, 2026, afternoon check. Two things closed today. DTE's Jon Johnson picked Wednesday July 29 at noon, so his session moves to Week 4 and Week 3 is fully locked. He asked for a calendar invite plus a contact name and phone number for the day of, so send that. And Danielle Boone at Connect Detroit confirmed the Young Professionals Conference registration is received, 3 adults and 16 participants, and no one can be added after the fact. Next up: staff the pay card pickup Thursday July 23 at 613 Abbott Street, pay the CPR invoice by July 27, and reply to the three virtual requests.",
   "firstDay": "2026-07-08",
-  "headline": "Pay card pickup is set: Thursday July 23, 9:30 to 5 at 613 Abbott Street, by appointment. Schedule the Calendly slot, send a rep, bring documentation of time worked. Cards go to the agency, not the youth. The CPR invoice came in at $442 and Kamilia approved it, so pay Rhythm of Life by July 27. Week 3 is running in person now: Moe, Branding, Chris Cohen, DeQuan and Ashleigh are set, waiting on Zipporah and DTE's day.",
+  "headline": "Pay card pickup is set: Thursday July 23, 9:30 to 5 at 613 Abbott Street, by appointment. Schedule the Calendly slot, send a rep, bring documentation of time worked. Cards go to the agency, not the youth. The CPR invoice came in at $442 and Kamilia approved it, so pay Rhythm of Life by July 27. DTE took Wednesday July 29 at noon, so Week 3 is locked and Week 4 now has DTE, SEL and CPR on it. Send Jon the invite and a day-of contact.",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)",
@@ -143,10 +143,11 @@
     {
       "id": "dn-ypc",
       "n": 3,
-      "title": "Get the YPC youth registration in before Monday",
-      "desc": "The workshop half is closed. Jermaine passed on presenting Your Digital Footprint because he is out of the country August 4 to 11, and Shuna wrote back July 17 to accept it, so the $250 honorarium is off and that thread is done. What is left is the field day. The youth are still going Wednesday August 5 at Huntington Place, and he said he is registering the group and chaperones before Monday July 20. That registration is first come first served and Monday is the deadline, so confirm the org, youth and chaperone registration actually went in.",
-      "chip": "warn",
-      "chipText": "Register by Mon"
+      "title": "YPC registration confirmed",
+      "desc": "Danielle Boone at Connect Detroit confirmed July 22 that the registration came through. Je'Tina submitted the form for 3 adults and 16 participants. Danielle was clear that they go by the form only, they did not compare it against the attendee list Je'Tina emailed, and they cannot add anyone who was not on the submission. So the head count is fixed at what went in. The workshop half was already closed out, Jermaine passed on presenting because he is out of the country August 4 to 11 and Shuna accepted that July 17.",
+      "chip": "done",
+      "chipText": "Done",
+      "done": true
     },
     {
       "id": "dn-bank",
@@ -200,17 +201,17 @@
       "id": "dn-wk4",
       "n": 10,
       "title": "Lock the rest of Week 4",
-      "desc": "CPR is locked for Thursday July 30 (approved). Still need Keosha's health day (7/29 or 7/30) and Zipporah's Financial Wellness date. Hold noon on July 29 until Jon Johnson answers, that is one of the two days you offered DTE.",
+      "desc": "CPR is locked for Thursday July 30 (approved) and DTE is locked for Wednesday July 29 at noon. Still need Keosha's health day and Zipporah's Financial Wellness date. Noon on July 29 is now DTE's, so Keosha goes to July 30 or to a different hour on the 29th. Ask her which she wants.",
       "chip": "warn",
       "chipText": "Open"
     },
     {
       "id": "dn-texts",
       "n": 11,
-      "title": "Get DTE to pick his Week 3 day",
-      "desc": "Almost all of Week 3 is locked. Ashleigh Anderson is confirmed for Thursday 7/23 at noon. The one still open is DTE's Jon Johnson, who needs to pick Wednesday 7/22 or 7/29 for his noon slot.",
+      "title": "Send Jon Johnson the invite and a day-of contact",
+      "desc": "DTE is locked. Jon wrote back July 22 and took Wednesday July 29 at 12:00, in person at the Branch. He asked for two things: a calendar invite for the day and time, and a contact name with a phone number in case he needs help getting in. Send both. His session lands in Week 4, not Week 3, so Week 3 is now fully set.",
       "chip": "warn",
-      "chipText": "Follow up"
+      "chipText": "Send invite"
     },
     {
       "id": "dn-virtual",
@@ -335,9 +336,9 @@
           "who": "Wed 7/22, 11:00, locked"
         },
         {
-          "dot": "a",
-          "name": "Wed: DTE Work Readiness (Jon Johnson)",
-          "who": "Noon. You offered Wed 7/22 or 7/29, waiting on his pick"
+          "dot": "g",
+          "name": "DTE moved to Week 4",
+          "who": "Jon Johnson picked Wed 7/29 at noon, so nothing DTE sits in Week 3"
         },
         {
           "dot": "g",
@@ -362,14 +363,14 @@
           "who": "Tue 7/28, 10 to 2, confirmed. Your answers went to Jessica Archer July 15. She is building the schedule and sorting lunch."
         },
         {
-          "dot": "a",
-          "name": "Wednesday 7/29 noon, DTE's other option",
-          "who": "The second day offered to Jon Johnson. If he takes it, it sits on the same day as Keosha's possible health session, so hold noon until he answers."
+          "dot": "g",
+          "name": "DTE Work Readiness (Jon Johnson)",
+          "who": "Wed 7/29, 12:00 to 1:00, in person at the Branch. He confirmed July 22. Owed him: a calendar invite and a day-of contact with a phone number."
         },
         {
           "dot": "a",
           "name": "Health & Wellness",
-          "who": "Keosha King + daughter, 7/29 or 7/30"
+          "who": "Keosha King + daughter. Noon on 7/29 is DTE's now, so 7/30 or a different hour on the 29th"
         },
         {
           "dot": "g",
@@ -394,9 +395,9 @@
       "dates": "Aug 3 to 7",
       "items": [
         {
-          "dot": "a",
+          "dot": "g",
           "name": "Young Professionals Conference field day",
-          "who": "Wed 8/5, Huntington Place, 8:30 to 2. The youth are going, register the group and chaperones by Mon 7/20. Jermaine passed on presenting the workshop and Shuna accepted that July 17, so only the registration is left."
+          "who": "Wed 8/5, Huntington Place, 8:30 to 2. Registration confirmed by Danielle Boone July 22, 3 adults and 16 participants. No one can be added now."
         },
         {
           "dot": "g",
@@ -406,7 +407,7 @@
         {
           "dot": "g",
           "name": "DTE moved out of NAACP Week",
-          "who": "Jon Johnson asked for Tue 8/4. Jermaine told him July 16 that is the Election Primary and offered Wed 7/22 or Wed 7/29 at noon instead. DTE is no longer a Week 5 item."
+          "who": "Jon Johnson asked for Tue 8/4, the Election Primary. Jermaine offered Wed 7/22 or Wed 7/29 instead and Jon took 7/29. DTE is a Week 4 item now."
         },
         {
           "dot": "a",
@@ -452,12 +453,6 @@
         "chipText": "Her move"
       },
       {
-        "name": "Jon Johnson (DTE)",
-        "note": "Answered July 16 at 5:03 PM. Jermaine told him August 4 does not work because it is the Election Primary and the whole organization and the youth are on election work, then offered Wednesday July 22 or Wednesday July 29, both noon to 1:00, in person at the Branch, 15 young people ages 14 to 19, careers, networking, resumes, personal branding, whatever DTE wants to bring. He copied Mark, Monique, Je'Tina and Kamilia and offered to set the room. Now you wait on Jon to pick a day.",
-        "chip": "wait",
-        "chipText": "His move"
-      },
-      {
         "name": "Zipporah Bolar",
         "note": "Checking her schedule for the Financial Wellness session (Week 2 or 4).",
         "chip": "wait",
@@ -474,12 +469,6 @@
         "note": "Kelsey (Connect Detroit) sent app sign-up instructions Jul 6, with a youth how-to deck attached. Youth register in the Empower App; its modules cover the GDYT financial literacy requirement (separate from payroll). The GDYT App team now sends an automatic weekly module progress report, the first arrived July 20 at 6 AM with per youth module counts, and anyone missing from it has not signed up yet. Sign up group code naacp-1024 at empowerme.app/gdyt.",
         "chip": "wait",
         "chipText": "Register youth"
-      },
-      {
-        "name": "Young Professionals Conference (Connect Detroit)",
-        "note": "Wednesday August 5 at Huntington Place, 8:30 to 2:00, sponsored by DWIHN for the summer youth employment programs, free. The workshop is settled. Shuna asked July 15 for Your Digital Footprint again, two 45 minute breakouts, $250 honorarium, Jermaine declined July 16 because he is out of the country August 4 to 11, and she wrote back July 17 at 7:20 AM, thanks for letting me know, safe travels. Nothing owed there. What is left is the field day: register the org, youth and chaperones by Monday July 20, first come first served. Jermaine said July 16 the youth are going and he is registering the group and chaperones before Monday.",
-        "chip": "wait",
-        "chipText": "Register by Jul 20"
       },
       {
         "name": "A participant asked for Wednesdays off",
@@ -503,6 +492,18 @@
       }
     ],
     "closed": [
+      {
+        "name": "Jon Johnson (DTE)",
+        "note": "Settled July 22. Jon took Wednesday July 29 at 12:00, in person at the Branch. August 4 was off the table because it is the Election Primary, and 7/22 was the other option he passed on. He asked for a calendar invite and a contact name with a phone number for the day of, so that piece is still owed (see Do Now). Mark, Monique, Je'Tina and Kamilia are all on the thread.",
+        "chip": "done",
+        "chipText": "Locked 7/29"
+      },
+      {
+        "name": "Young Professionals Conference (Connect Detroit)",
+        "note": "Wednesday August 5 at Huntington Place, 8:30 to 2:00, sponsored by DWIHN for the summer youth employment programs, free. Danielle Boone confirmed July 22 that the registration is received. Je'Tina submitted the form for 3 adults and 16 participants. Danielle said they go strictly by the form, she did not check it against the attendee list Je'Tina emailed, and no one can be added now. The workshop half closed July 17 when Shuna accepted Jermaine's pass, he is out of the country August 4 to 11.",
+        "chip": "done",
+        "chipText": "Registered"
+      },
       {
         "name": "Huntington (Courtney Elledge)",
         "note": "Replied July 10. Cannot do Banking 101 in person this year, her schedule got too tight. She offered to send financial education and banking materials for the youth to use during the week. Banking 101 now needs a plan (see Do Now).",
@@ -542,7 +543,7 @@
         "l": "Youth locked"
       },
       {
-        "v": "Wk 2",
+        "v": "Wk 3",
         "l": "Underway"
       },
       {
@@ -552,10 +553,10 @@
     ],
     "items": [
       {
-        "title": "Week 1 is fully done",
-        "desc": "Wednesday opened the program: orientation, the DOL, then AI Day Part 1 and 2. Thursday was Workplace Foundations, in person 10 to 2. Friday was virtual and async, youth submitted their Capstone Kickoff. Week 2, Financial Literacy, opened Monday July 13 and is running now.",
+        "title": "Weeks 1 and 2 are done, Week 3 is running",
+        "desc": "Week 1 opened the program: orientation, the DOL, AI Day, Workplace Foundations, and an async Capstone Kickoff on the Friday. Week 2 was Financial Literacy, July 13 to 17. Week 3, Entrepreneurship and AI for Creators, is in person now and fully locked after DTE moved to July 29.",
         "chip": "done",
-        "chipText": "Week 1 done"
+        "chipText": "Week 3 running"
       },
       {
         "title": "Roster locked",
