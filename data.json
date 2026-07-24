@@ -1,7 +1,7 @@
 {
-  "updated": "July 23, 2026. Moe and Chris Cohen both landed. Replies are sent to Wayne State and DTE. Jon is locked for Wed 7/29 at noon, so Keosha moved up to 11:00 that same day and needs to be told. Ashleigh could not make Thursday and is looking for a new day. Week 4 is otherwise built.",
+  "updated": "July 23, 2026, evening. Both replies went out this morning, Wayne State and DTE. Alex has your logistics answer, parents drop and pick up at the Welcome Center and we walk to the W, plus the Student Success ask. Jon has the date, the group and a day of contact, the calendar invite is still owed. New problem tonight: Je'Tina told Jordan-Kallel's father the pay cards have not come in yet and each young person will sign for their own card, which does not match what Dawn sent. Square that. Keosha still needs her new time.",
   "firstDay": "2026-07-08",
-  "headline": "Week 3 delivered: Moe and Chris Cohen were both hits · DeQuan closes it out Thursday · Ashleigh could not make her day and needs a new one · Week 4 is set: Wayne State Tuesday, Keosha at 11 and DTE at noon Wednesday, CPR Thursday",
+  "headline": "Week 3 delivered: Moe, Chris Cohen and DeQuan · Wayne State and DTE both answered this morning · Pay cards need a straight answer, the Branch told a parent one thing and GDYT told us another · Keosha still needs her new time · Ashleigh needs a day or a no",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)",
@@ -168,18 +168,19 @@
     {
       "id": "dn-paycard-pickup",
       "n": 6,
-      "title": "Staff the Payroll 2 pay card pickup, today Thursday 7/23",
-      "desc": "Dawn at Connect Detroit set it July 20. Pickup is Thursday July 23, 9:30 to 5, at Connect Detroit, 613 Abbott Street, Detroit 48226, Amphitheatre on the lower level, by appointment only. Schedule your slot on the Calendly link, email gdyt@connectdetroit.org when you are 10 minutes out with NAACP in the message, and bring documentation of time worked for each youth. An agency rep picks up all 15 cards, do not send the young people. Once you have them, check them against the list, report any missing to Dawn, and have each youth scan the QR code or use the Jotform link to acknowledge receipt. Cards cannot be mailed to youth. Jordan-Kallel's father asked to pick up his son's card, so tell families the Branch collects the cards and hands them out.",
+      "title": "Settle the pay card story, the Branch and GDYT are saying two different things",
+      "desc": "Je'Tina answered Jordan-Kallel's father tonight, July 23 at 4:28 PM, and told him the cards have not come in yet, that she expects pickup sometime next week, and that each participant will sign for their own card and take it home. That is not what Dawn sent. Dawn set the pickup for today, Thursday July 23, 9:30 to 5, at Connect Detroit, 613 Abbott Street, Amphitheatre on the lower level, by Calendly appointment, an agency rep picks up all 15 cards, bring documentation of time worked, youth acknowledge receipt by QR code or Jotform, and cards cannot be mailed. So either the pickup did not happen today or Je'Tina did not know it did. Find out which, then get one answer to the families. If today's slot was missed, call Dawn tomorrow morning.",
       "chip": "warn",
-      "chipText": "Today"
+      "chipText": "Fix today"
     },
     {
       "id": "dn-wsu",
       "n": 7,
-      "title": "Answer Wayne State on the July 28 schedule",
-      "desc": "Alex Azzopardi sent the tentative run of the day July 22 and asked for your thoughts. As written it goes: 10:00 drop off and welcome presentation at the big W sign on Warren Avenue, 10:45 Old Main museums, geology and anthropology, 11:45 a lecture with Dr. Chike in 2120 State Hall, 12:45 campus tour, 2:00 back to the bus with the return spot still TBD. He asked directly whether the W sign works as the drop off and pickup point, and he can send the address for the driver. Two gaps to raise when you reply: lunch is not on the schedule and the return spot is not named. Answer this week so the day is set.",
-      "chip": "warn",
-      "chipText": "Reply"
+      "title": "Wayne State answered",
+      "desc": "You replied to Alex this morning, July 23 at 10:25, copying Jessica Archer and Je'Tina. The schedule stands: Old Main museums, Dr. Chike, campus tour. You told him there is no bus, parents drop at the Welcome Center, we walk down to the W, and he brings them back to the Welcome Center at the end. You also asked for someone from Admission and Student Success to speak at lunch. Now it is on Alex to confirm the Student Success speaker and what happens for lunch itself.",
+      "chip": "done",
+      "chipText": "Done",
+      "done": true
     },
     {
       "id": "dn-ypc",
@@ -249,18 +250,19 @@
     {
       "id": "dn-texts",
       "n": 16,
-      "title": "Send Jon Johnson the invite and a day-of contact",
-      "desc": "DTE is locked. Jon wrote back July 22 and took Wednesday July 29 at 12:00, in person at the Branch. He asked for two things: a calendar invite for the day and time, and a contact name with a phone number in case he needs help getting in. Send both. His session lands in Week 4, not Week 3, so Week 3 is now fully set.",
-      "chip": "warn",
-      "chipText": "Send invite"
+      "title": "Jon Johnson has the details and a day-of contact",
+      "desc": "You wrote him back this morning, July 23 at 10:27, with the date, the group, and a name and number for the day of. Mark Jones, Monique Johnson, Je'Tina and Kamilia are all copied. Monique is out of the office until August 4. The one piece still owed is the calendar invite itself.",
+      "chip": "done",
+      "chipText": "Done",
+      "done": true
     },
     {
       "id": "dn-virtual",
       "n": 17,
-      "title": "Answer the three Week 3 virtual requests",
-      "desc": "Now three young people. A brother and sister both emailed July 12 asking to work virtually July 20 to 29, and they are fully out July 21 to 24. Jordan-Kallel's father wrote July 20 that his son is out of town this week at the USA Cycling Nationals and asked for the week's assignments to complete while away. That window covers the in-person heart of Week 3 (Dream Car Reveal Tue 7/21, Entrepreneur Panel Thu 7/23). Reply to all three with a virtual plan so they stay on payroll and don't fall behind on the Capstone.",
+      "title": "Two Week 3 virtual requests still open",
+      "desc": "Je'Tina answered Jordan-Kallel's father tonight and told him there are no virtual assignments this week and we will welcome his son back when he returns. That closes his ask, so decide how his missed days count for benchmarks and pay. Still open: the brother and sister who emailed July 12 asking to work virtually July 20 to 29, fully out July 21 to 24. That window covered the in-person heart of Week 3, the Dream Car Reveal Tue 7/21 and the Entrepreneur Panel Thu 7/23. Give those two a plan so they keep hours and stay on the Capstone.",
       "chip": "warn",
-      "chipText": "Reply"
+      "chipText": "Reply to two"
     },
     {
       "id": "dn-fam",
@@ -386,12 +388,12 @@
         {
           "dot": "g",
           "name": "Wayne State Campus Day (field trip)",
-          "who": "Tue 7/28, 10 to 2, confirmed. Reply sent to Alex. Parents drop at the Welcome Center, we walk to the W. Asked for someone from Student Success at lunch. Day: welcome, Old Main museums, Dr. Chike lecture, campus tour."
+          "who": "Tue 7/28, 10 to 2, confirmed. Reply sent to Alex July 23. No bus. Parents drop at the Welcome Center, we walk to the W, and he brings them back to the Welcome Center at the end. Asked for someone from Admission and Student Success at lunch. Day: welcome, Old Main museums, Dr. Chike lecture, campus tour."
         },
         {
           "dot": "g",
           "name": "DTE Work Readiness (Jon Johnson)",
-          "who": "Wed 7/29, 12:00 to 1:00, at the Branch. Locked, reply sent. Still owed: the calendar invite."
+          "who": "Wed 7/29, 12:00 to 1:00, at the Branch. Locked. Details and a day of contact went out July 23. Still owed: the calendar invite."
         },
         {
           "dot": "g",
@@ -474,9 +476,9 @@
     "waiting": [
       {
         "name": "Wayne State campus day (Jessica Archer, Alex Azzopardi)",
-        "note": "They came back July 22. Alex Azzopardi sent the tentative July 28 schedule built off the list you sent July 15: welcome at the W sign on Warren, Old Main museums, a lecture with Dr. Chike in 2120 State Hall, a campus tour, bus at 2:00. He asked whether the W sign works for drop off and pickup and offered the address for the driver. Lunch is not on the schedule and the return spot is TBD. It is your reply now (see Do Now).",
-        "chip": "warn",
-        "chipText": "Your move"
+        "note": "Answered July 23 at 10:25. Alex had sent the tentative July 28 run of the day on July 22: welcome at the W sign on Warren, Old Main museums, a lecture with Dr. Chike in 2120 State Hall, a campus tour, out at 2:00. You told him there is no bus, parents drop at the Welcome Center, we walk down to the W, and he returns them to the Welcome Center at the end, and you asked for an Admission and Student Success speaker at lunch. Waiting on him to confirm that speaker and what the group does for lunch.",
+        "chip": "wait",
+        "chipText": "Waiting on Alex"
       },
       {
         "name": "Zipporah Bolar",
@@ -486,9 +488,9 @@
       },
       {
         "name": "GDYT payroll + pay cards",
-        "note": "Payroll 2 pivoted again July 17. myOneFlow will not be ready, so no one touches the system. Each partner fills out one customized Payroll Transcript, the Excel form Connect Detroit sends, and emails it to gdytpartnermessage@ConnectDetroit.org by 5:00 PM Monday July 20. No other format accepted, one per agency. Tab A is total benchmarks completed per youth for July 6 to 10 and July 13 to 17, Tab B is the authorization signature. The file is sorted, the first attachment was named for Mack Alive but Nicole corrected it and the right form is named NAACP Hybrid Payroll #2 Transcript. Backup documentation, your own signed sign in and benchmark sheets, is still required and remaining pay is held until Connect Detroit has it. Only youth on the final Approved for Placement list in the Youth Enrollment Tracker are paid, so confirm all 15 are on it (see Do Now), and GDYT monitors will visit to check safety, supervision, original work permits and a first aid kit. Our group is Payroll 2, first pay July 31. Dawn confirmed the pay card pickup July 20: Thursday July 23, 9:30 to 5, at Connect Detroit, 613 Abbott Street, by Calendly appointment, agency rep only. Bring documentation of time worked, do not send youth, and youth acknowledge receipt by QR code. Cards cannot be mailed to youth (see Do Now). GDYT replied Received on July 21, so the transcript is confirmed in.",
-        "chip": "wait",
-        "chipText": "Pickup Thu 7/23"
+        "note": "Payroll 2 pivoted again July 17. myOneFlow will not be ready, so no one touches the system. Each partner fills out one customized Payroll Transcript, the Excel form Connect Detroit sends, and emails it to gdytpartnermessage@ConnectDetroit.org by 5:00 PM Monday July 20. No other format accepted, one per agency. Tab A is total benchmarks completed per youth for July 6 to 10 and July 13 to 17, Tab B is the authorization signature. The file is sorted, the first attachment was named for Mack Alive but Nicole corrected it and the right form is named NAACP Hybrid Payroll #2 Transcript. Backup documentation, your own signed sign in and benchmark sheets, is still required and remaining pay is held until Connect Detroit has it. Only youth on the final Approved for Placement list in the Youth Enrollment Tracker are paid, so confirm all 15 are on it (see Do Now), and GDYT monitors will visit to check safety, supervision, original work permits and a first aid kit. Our group is Payroll 2, first pay July 31. Dawn confirmed the pay card pickup July 20: Thursday July 23, 9:30 to 5, at Connect Detroit, 613 Abbott Street, by Calendly appointment, agency rep only. Bring documentation of time worked, do not send youth, and youth acknowledge receipt by QR code. Cards cannot be mailed to youth. That is where the two stories split: Je'Tina told a parent tonight that no cards have come in, that pickup is likely next week, and that each young person signs for their own card. Get one answer and hold to it (see Do Now). GDYT replied Received on July 21, so the transcript is confirmed in.",
+        "chip": "warn",
+        "chipText": "Two answers out"
       },
       {
         "name": "GDYT Empower App",
@@ -511,8 +513,8 @@
         "chipText": "Pay invoice"
       },
       {
-        "name": "Three participants, Week 3 virtual",
-        "note": "A brother and sister emailed July 12 (parent copied) asking to go virtual July 20 to 29, fully out July 21 to 24. Jordan-Kallel's father emailed July 20 that his son is at the USA Cycling Nationals this week and asked for assignments to complete while away. That is the in-person core of Week 3. Reply to all three and set a virtual plan so they keep hours and stay on the Capstone.",
+        "name": "Two participants, Week 3 virtual",
+        "note": "A brother and sister emailed July 12, parent copied, asking to go virtual July 20 to 29, fully out July 21 to 24. That is the in-person core of Week 3. Set a plan so they keep hours and stay on the Capstone. Jordan-Kallel's piece is answered, Je'Tina told his father July 23 there are no virtual assignments this week and he comes back when he returns.",
         "chip": "warn",
         "chipText": "Reply"
       },
@@ -526,7 +528,7 @@
     "closed": [
       {
         "name": "Jon Johnson (DTE)",
-        "note": "Settled July 22. Jon took Wednesday July 29 at 12:00, in person at the Branch. August 4 was off the table because it is the Election Primary, and 7/22 was the other option he passed on. He asked for a calendar invite and a contact name with a phone number for the day of, so that piece is still owed (see Do Now). Mark, Monique, Je'Tina and Kamilia are all on the thread.",
+        "note": "Settled July 22 and confirmed back July 23 at 10:27. Jon took Wednesday July 29 at 12:00, in person at the Branch. August 4 was off the table because it is the Election Primary, and 7/22 was the other option he passed on. Your reply gave him the date, the group of 15 ages 14 to 19, and a day of contact. Only the calendar invite is still owed. Mark, Monique, Je'Tina and Kamilia are all on the thread, and Monique is out until August 4.",
         "chip": "done",
         "chipText": "Locked 7/29"
       },
