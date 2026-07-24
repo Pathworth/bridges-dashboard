@@ -1,7 +1,7 @@
 {
-  "updated": "July 23, 2026, evening. Both replies went out this morning, Wayne State and DTE. Alex has your logistics answer, parents drop and pick up at the Welcome Center and we walk to the W, plus the Student Success ask. Jon has the date, the group and a day of contact, the calendar invite is still owed. New problem tonight: Je'Tina told Jordan-Kallel's father the pay cards have not come in yet and each young person will sign for their own card, which does not match what Dawn sent. Square that. Keosha still needs her new time.",
+  "updated": "July 24, 2026. CPR invoice is paid, Kathleen in finance marked it Processed this morning, so that is cleared ahead of the July 27 due date. The pay card picture has not moved: yesterday, Thursday July 23, was Dawn's scheduled pickup, and Je'Tina told Jordan-Kallel's father that evening the cards still are not in and she expects them next week. So either the July 23 pickup slipped or it was missed. Confirm which with Dawn. Keosha still needs her new time and the topics answer, and Ashleigh still needs a day or a no.",
   "firstDay": "2026-07-08",
-  "headline": "Week 3 delivered: Moe, Chris Cohen and DeQuan · Wayne State and DTE both answered this morning · Pay cards need a straight answer, the Branch told a parent one thing and GDYT told us another · Keosha still needs her new time · Ashleigh needs a day or a no",
+  "headline": "Week 3 wrapping · CPR invoice paid, cleared before the Jul 27 due date · Pay cards still not in, yesterday's pickup slot passed and Je'Tina's word is next week · Keosha still needs her new time · Ashleigh needs a day or a no",
   "week1": [
     {
       "day": "TUESDAY, July 7 (CANCELED)",
@@ -169,9 +169,9 @@
       "id": "dn-paycard-pickup",
       "n": 6,
       "title": "Settle the pay card story, the Branch and GDYT are saying two different things",
-      "desc": "Je'Tina answered Jordan-Kallel's father tonight, July 23 at 4:28 PM, and told him the cards have not come in yet, that she expects pickup sometime next week, and that each participant will sign for their own card and take it home. That is not what Dawn sent. Dawn set the pickup for today, Thursday July 23, 9:30 to 5, at Connect Detroit, 613 Abbott Street, Amphitheatre on the lower level, by Calendly appointment, an agency rep picks up all 15 cards, bring documentation of time worked, youth acknowledge receipt by QR code or Jotform, and cards cannot be mailed. So either the pickup did not happen today or Je'Tina did not know it did. Find out which, then get one answer to the families. If today's slot was missed, call Dawn tomorrow morning.",
+      "desc": "Je'Tina answered Jordan-Kallel's father the evening of July 23 and told him the cards have not come in yet, that she expects pickup sometime next week, and that each participant will sign for their own card and take it home. That is not what Dawn sent. Dawn set the pickup for Thursday July 23, 9:30 to 5, at Connect Detroit, 613 Abbott Street, Amphitheatre on the lower level, by Calendly appointment, an agency rep picks up all 15 cards, bring documentation of time worked, youth acknowledge receipt by QR code or Jotform, and cards cannot be mailed. That day has now passed. So either the July 23 pickup slipped or it was missed. Confirm which with Dawn, then get one answer to the families. If yesterday's slot was missed, call Dawn this morning. First pay is July 31.",
       "chip": "warn",
-      "chipText": "Fix today"
+      "chipText": "Call Dawn"
     },
     {
       "id": "dn-wsu",
@@ -202,10 +202,11 @@
     {
       "id": "dn-cpr-cost",
       "n": 10,
-      "title": "Pay the CPR invoice, due July 27",
-      "desc": "The price question is answered. Natosha Gurley at Rhythm of Life sent invoice #M4ITOVW8-0001 on July 20. It covers 16 youth at $12 each ($192) and 5 staff or youth council at the AHA Friends and Family rate of $50 each ($250), for $442 total, due July 27. Kamilia approved it July 21. Pay it before the 27th.",
-      "chip": "warn",
-      "chipText": "Pay by Jul 27"
+      "title": "CPR invoice paid",
+      "desc": "Done. Natosha Gurley at Rhythm of Life sent invoice #M4ITOVW8-0001 on July 20, 16 youth at $12 each ($192) and 5 staff or youth council at the AHA Friends and Family rate of $50 each ($250), $442 total, due July 27. Kamilia approved it July 21 and Kathleen Coney in finance marked it Processed on July 24, cleared ahead of the due date.",
+      "chip": "done",
+      "chipText": "Paid",
+      "done": true
     },
     {
       "id": "dn-yet",
@@ -403,7 +404,7 @@
         {
           "dot": "g",
           "name": "CPR & First Aid Cert",
-          "who": "Natosha Gurley, RN, Rhythm of Life, Thu 7/30, ~2 hrs. Invoice $442 approved, due July 27"
+          "who": "Natosha Gurley, RN, Rhythm of Life, Thu 7/30, ~2 hrs. Invoice $442 paid July 24"
         },
         {
           "dot": "g",
@@ -606,7 +607,7 @@
       },
       {
         "title": "Budget set, $2,542",
-        "desc": "Food $600 · SEL $1,500 · CPR $442 (invoice approved).",
+        "desc": "Food $600 · SEL $1,500 · CPR $442 (paid Jul 24).",
         "chip": "done",
         "chipText": "Done"
       },
